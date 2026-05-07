@@ -1,0 +1,466 @@
+[
+    {
+        "ru": "По воскресеньям папа тушит говядину несколько часов, чтобы она стала мягкой.",
+        "en": "On Sundays, my dad braises beef for several hours until it becomes tender.",
+        "target_ru": "тушит",
+        "target_en": "braise",
+        "gloss_ru": "тушить",
+        "pronunciation": "брэйз"
+    },
+    {
+        "ru": "Эмили обычно запекает курицу, когда к ней приходят родственники.",
+        "en": "Emily usually roasts chicken when her relatives come over.",
+        "target_ru": "запекает",
+        "target_en": "roast",
+        "gloss_ru": "запекать",
+        "pronunciation": "ро'уст"
+    },
+    {
+        "ru": "На вечеринке во дворе мы готовим на гриле бургеры и хот-доги.",
+        "en": "At backyard parties, we grill burgers and hot dogs.",
+        "target_ru": "готовим на гриле",
+        "target_en": "grill",
+        "gloss_ru": "готовить на гриле",
+        "pronunciation": "грил"
+    },
+    {
+        "ru": "Сара взбила яйца для панкейков, когда мы завтракали с друзьями.",
+        "en": "Sarah whisked the eggs for pancakes while we were having breakfast with friends.",
+        "target_ru": "взбила",
+        "target_en": "whisk",
+        "gloss_ru": "взбить",
+        "pronunciation": "уи'ск"
+    },
+    {
+        "ru": "Бабушка научила меня месить тесто для домашнего хлеба.",
+        "en": "My grandma taught me how to knead dough for homemade bread.",
+        "target_ru": "месить",
+        "target_en": "knead",
+        "gloss_ru": "месить",
+        "pronunciation": "нид"
+    },
+    {
+        "ru": "Том обычно маринует курицу перед тем, как её готовить.",
+        "en": "Tom usually marinates chicken before cooking it.",
+        "target_ru": "маринует",
+        "target_en": "marinate",
+        "gloss_ru": "мариновать",
+        "pronunciation": "мэ'ринэйт"
+    },
+    {
+        "ru": "Повар украсит блюда свежей зеленью перед подачей.",
+        "en": "The chef will garnish the dishes with fresh herbs before serving.",
+        "target_ru": "украсит",
+        "target_en": "garnish",
+        "gloss_ru": "украсить",
+        "pronunciation": "га'рниш"
+    },
+    {
+        "ru": "Не забудь приправить салат перед тем, как ставить его на стол.",
+        "en": "Don’t forget to season the salad before serving it.",
+        "target_ru": "приправить",
+        "target_en": "season",
+        "gloss_ru": "приправить",
+        "pronunciation": "си'зн"
+    },
+    {
+        "ru": "Мясо получилось таким мягким, что всем оно очень понравилось.",
+        "en": "The meat was so tender that everyone loved it.",
+        "target_ru": "мягким",
+        "target_en": "tender",
+        "gloss_ru": "мягкий",
+        "pronunciation": "тэ'ндэ"
+    },
+    {
+        "ru": "На пикнике мы ели сочные персики.",
+        "en": "We had juicy peaches at the picnic.",
+        "target_ru": "сочные",
+        "target_en": "juicy",
+        "gloss_ru": "сочный",
+        "pronunciation": "джу'си"
+    },
+    {
+        "ru": "Мы зашли в фастфуд, и там картошка фри была очень хрустящей.",
+        "en": "We stopped at a fast-food place, and the fries were very crispy.",
+        "target_ru": "хрустящей",
+        "target_en": "crispy",
+        "gloss_ru": "хрустящий",
+        "pronunciation": "кри'спи"
+    },
+    {
+        "ru": "Этот суп получился очень насыщенным по вкусу из-за специй.",
+        "en": "This soup was very flavourful because of the spices.",
+        "target_ru": "насыщенным по вкусу",
+        "target_en": "flavourful",
+        "gloss_ru": "насыщенный по вкусу",
+        "pronunciation": "флэй'вэфул"
+    },
+    {
+        "ru": "Вечером я обычно беру какие-нибудь несладкие закуски.",
+        "en": "In the evening, I usually have some savoury snacks.",
+        "target_ru": "несладкие",
+        "target_en": "savoury",
+        "gloss_ru": "несладкий",
+        "pronunciation": "сэй'вэри"
+    },
+    {
+        "ru": "Рис получился пресным, потому что мы забыли добавить соль.",
+        "en": "The rice tasted bland because we forgot to add salt.",
+        "target_ru": "пресным",
+        "target_en": "bland",
+        "gloss_ru": "пресный",
+        "pronunciation": "блэнд"
+    },
+    {
+        "ru": "У пасты был очень насыщенный вкус, я даже не доел.",
+        "en": "The pasta has so rich taste that I couldn’t finish it.",
+        "target_ru": "насыщенный вкус",
+        "target_en": "rich",
+        "gloss_ru": "насыщенный",
+        "pronunciation": "рич"
+    },
+    {
+        "ru": "На вечеринке во дворе стоял приятный аромат мяса на гриле.",
+        "en": "The aroma of grilled meat filled the backyard during the party.",
+        "target_ru": "аромат",
+        "target_en": "aroma",
+        "gloss_ru": "аромат",
+        "pronunciation": "эро'ума"
+    },
+    {
+        "ru": "На десерт был торт, и мне понравилась его текстура.",
+        "en": "For dessert, we had cake, and I liked its texture.",
+        "target_ru": "текстура",
+        "target_en": "texture",
+        "gloss_ru": "текстура",
+        "pronunciation": "тэ'ксчэ"
+    },
+    {
+        "ru": "У этого французского вина было странное послевкусие.",
+        "en": "This French wine had a strange aftertaste.",
+        "target_ru": "послевкусие",
+        "target_en": "aftertaste",
+        "gloss_ru": "послевкусие",
+        "pronunciation": "афтэтэ'йст"
+    },
+    {
+        "ru": "Мы купили свежие ингредиенты перед тем, как готовить ужин.",
+        "en": "We bought fresh ingredients before cooking dinner.",
+        "target_ru": "ингредиенты",
+        "target_en": "ingredients",
+        "gloss_ru": "ингредиенты",
+        "pronunciation": "ингри'диэнтс"
+    },
+    {
+        "ru": "Мне нравится пробовать разные кухни, когда я путешествую.",
+        "en": "I enjoy trying different cuisines when I travel.",
+        "target_ru": "кухни",
+        "target_en": "cuisine",
+        "gloss_ru": "кухня",
+        "pronunciation": "куизи'н"
+    },
+    {
+        "ru": "Она нашла новый рецепт и решила приготовить его для семьи.",
+        "en": "She found a new recipe and decided to cook it for her family.",
+        "target_ru": "рецепт",
+        "target_en": "recipe",
+        "gloss_ru": "рецепт",
+        "pronunciation": "рэ'сэпи"
+    },
+    {
+        "ru": "Это блюдо часто готовят на семейных встречах.",
+        "en": "This dish is often cooked at family gatherings.",
+        "target_ru": "блюдо",
+        "target_en": "dish",
+        "gloss_ru": "блюдо",
+        "pronunciation": "диш"
+    },
+    {
+        "ru": "На первое нам подали лёгкий суп.",
+        "en": "The first course was a light soup.",
+        "target_ru": "первое",
+        "target_en": "course",
+        "gloss_ru": "первое блюдо",
+        "pronunciation": "ко'с"
+    },
+    {
+        "ru": "Мы заказали закуску, пока ждали основное блюдо.",
+        "en": "We ordered an appetizer while waiting for the main course.",
+        "target_ru": "закуску",
+        "target_en": "appetizer",
+        "gloss_ru": "закуска",
+        "pronunciation": "эпита'йзэ"
+    },
+    {
+        "ru": "Потом нам принесли основное блюдо.",
+        "en": "Then the main course was served.",
+        "target_ru": "основное блюдо",
+        "target_en": "main course",
+        "gloss_ru": "основное блюдо",
+        "pronunciation": "мэйн ко'с"
+    },
+    {
+        "ru": "На десерт мы взяли шоколадный торт.",
+        "en": "For dessert, we had a chocolate cake.",
+        "target_ru": "десерт",
+        "target_en": "dessert",
+        "gloss_ru": "десерт",
+        "pronunciation": "дизэ'рт"
+    },
+    {
+        "ru": "Порция была слишком большой, я не доел.",
+        "en": "The portion was too large for me to finish.",
+        "target_ru": "Порция",
+        "target_en": "portion",
+        "gloss_ru": "порция",
+        "pronunciation": "по'шн"
+    },
+    {
+        "ru": "Каждая подача выглядела очень аккуратно.",
+        "en": "Each dish was beautifully presented.",
+        "target_ru": "подача",
+        "target_en": "presentation",
+        "gloss_ru": "подача",
+        "pronunciation": "прэзэ'нтeд"
+    },
+    {
+        "ru": "Он помог нарезать овощи для ужина.",
+        "en": "He helped chop vegetables for dinner.",
+        "target_ru": "нарезать",
+        "target_en": "chop",
+        "gloss_ru": "нарезать",
+        "pronunciation": "чоп"
+    },
+    {
+        "ru": "Она аккуратно нарезала ломтиками хлеб для сэндвичей.",
+        "en": "She carefully sliced the bread for sandwiches.",
+        "target_ru": "нарезала ломтиками",
+        "target_en": "slice",
+        "gloss_ru": "нарезать ломтиками",
+        "pronunciation": "слайс"
+    },
+    {
+        "ru": "Мы нарезали кубиками помидоры для салата.",
+        "en": "We diced the tomatoes for the salad.",
+        "target_ru": "нарезали кубиками",
+        "target_en": "dice",
+        "gloss_ru": "нарезать кубиками",
+        "pronunciation": "дайс"
+    },
+    {
+        "ru": "Он мелко нарезал чеснок перед тем, как добавить его в соус.",
+        "en": "He minced garlic before adding it to the sauce.",
+        "target_ru": "мелко нарезал",
+        "target_en": "mince",
+        "gloss_ru": "мелко нарезать",
+        "pronunciation": "минс"
+    },
+    {
+        "ru": "Она очистила яблоки для пирога.",
+        "en": "She peeled the apples for the pie.",
+        "target_ru": "очистила",
+        "target_en": "peel",
+        "gloss_ru": "очистить",
+        "pronunciation": "пил"
+    },
+    {
+        "ru": "Он натёр сыр сверху на пасту.",
+        "en": "He grated cheese on top of the pasta.",
+        "target_ru": "натёр",
+        "target_en": "grate",
+        "gloss_ru": "натереть",
+        "pronunciation": "грэйт"
+    },
+    {
+        "ru": "Мы смешали в блендере фрукты для смузи.",
+        "en": "We blended fruits to make smoothies in the morning.",
+        "target_ru": "смешали в блендере",
+        "target_en": "blend",
+        "gloss_ru": "смешать в блендере",
+        "pronunciation": "блэнд"
+    },
+    {
+        "ru": "Она помешивала суп, пока разговаривала по телефону.",
+        "en": "She stirred the soup while talking on the phone.",
+        "target_ru": "помешивала",
+        "target_en": "stir",
+        "gloss_ru": "помешивать",
+        "pronunciation": "стё'р"
+    },
+    {
+        "ru": "Он налил чай всем за столом.",
+        "en": "He poured tea for everyone at the table.",
+        "target_ru": "налил",
+        "target_en": "pour",
+        "gloss_ru": "налить",
+        "pronunciation": "по"
+    },
+    {
+        "ru": "Она посыпала сахар на панкейки.",
+        "en": "She sprinkled sugar on her pancakes.",
+        "target_ru": "посыпала",
+        "target_en": "sprinkle",
+        "gloss_ru": "посыпать",
+        "pronunciation": "спри'нгкл"
+    },
+    {
+        "ru": "Мы сварили яйца на завтрак.",
+        "en": "We boiled eggs for breakfast.",
+        "target_ru": "сварили",
+        "target_en": "boil",
+        "gloss_ru": "сварить",
+        "pronunciation": "бойл"
+    },
+    {
+        "ru": "Они приготовили на пару овощи, чтобы было полезнее.",
+        "en": "They steamed vegetables to keep them healthy.",
+        "target_ru": "приготовили на пару",
+        "target_en": "steam",
+        "gloss_ru": "приготовить на пару",
+        "pronunciation": "стим"
+    },
+    {
+        "ru": "Мы пожарили яйца на быстрый завтрак.",
+        "en": "We fried eggs for a quick breakfast.",
+        "target_ru": "пожарили",
+        "target_en": "fry",
+        "gloss_ru": "пожарить",
+        "pronunciation": "фрай"
+    },
+    {
+        "ru": "Он пожарил во фритюре курицу для вечеринки.",
+        "en": "He deep-fried chicken for the party.",
+        "target_ru": "пожарил во фритюре",
+        "target_en": "deep-fry",
+        "gloss_ru": "пожарить во фритюре",
+        "pronunciation": "дип фрай"
+    },
+    {
+        "ru": "Она испекла печенье для друзей.",
+        "en": "She baked cookies for her friends.",
+        "target_ru": "испекла",
+        "target_en": "bake",
+        "gloss_ru": "испечь",
+        "pronunciation": "бэйк"
+    },
+    {
+        "ru": "Не забудь заранее разогреть духовку.",
+        "en": "Please preheat the oven before you start cooking.",
+        "target_ru": "разогреть",
+        "target_en": "preheat",
+        "gloss_ru": "разогреть",
+        "pronunciation": "при'хит"
+    },
+    {
+        "ru": "Повар уварил соус, чтобы он стал гуще.",
+        "en": "The chef reduced the sauce to make it thicker.",
+        "target_ru": "уварил",
+        "target_en": "reduce",
+        "gloss_ru": "уварить",
+        "pronunciation": "ридю'с"
+    },
+    {
+        "ru": "Мы добавили муку, чтобы загустить суп.",
+        "en": "We added flour to thicken the soup.",
+        "target_ru": "загустить",
+        "target_en": "thicken",
+        "gloss_ru": "загустить",
+        "pronunciation": "фи'кэн"
+    },
+    {
+        "ru": "Он пережарил стейк, и он стал сухим.",
+        "en": "He overcooked the steak, and it became dry.",
+        "target_ru": "пережарил",
+        "target_en": "overcook",
+        "gloss_ru": "пережарить / переварить",
+        "pronunciation": "оувэ'кук"
+    },
+    {
+        "ru": "Курица была недоготовленной, поэтому пришлось готовить её дольше.",
+        "en": "The chicken was undercooked, so we had to cook it longer.",
+        "target_ru": "недоготовленной",
+        "target_en": "undercooked",
+        "gloss_ru": "недоготовленный",
+        "pronunciation": "андэ'кукт"
+    },
+	{
+		"ru": "На завтраке в отеле Эми пила маленькими глотками апельсиновый сок, пока ждала еду.",
+		"en": "At breakfast in the hotel, Amy sipped orange juice while waiting for her food.",
+		"target_ru": "пила маленькими глотками",
+		"target_en": "sip",
+		"gloss_ru": "пить маленькими глотками",
+		"pronunciation": "си'п"
+	},
+	{
+		"ru": "После пробежки в парке Джейк пил большими глотками воду у киоска.",
+		"en": "After a run in the park, Jake gulped water near a kiosk.",
+		"target_ru": "пил большими глотками",
+		"target_en": "gulp",
+		"gloss_ru": "пить большими глотками",
+		"pronunciation": "галп"
+	},
+	{
+		"ru": "На вечеринке Бен быстро выпил залпом банку колы и пошёл танцевать.",
+		"en": "At the party, Ben chugged a can of cola and went dancing.",
+		"target_ru": "быстро выпил залпом",
+		"target_en": "chug",
+		"gloss_ru": "пить залпом",
+		"pronunciation": "чаг"
+	},
+	{
+		"ru": "В японском кафе Оливер шумно хлебал суп с лапшой.",
+		"en": "In a Japanese café, Oliver slurped his noodle soup.",
+		"target_ru": "шумно хлебал",
+		"target_en": "slurp",
+		"gloss_ru": "хлебать",
+		"pronunciation": "слё'п"
+	},
+	{
+		"ru": "В баре после работы Том сделал большой глоток пива.",
+		"en": "At the bar after work, Tom swigged his beer.",
+		"target_ru": "сделал большой глоток",
+		"target_en": "swig",
+		"gloss_ru": "глотнуть",
+		"pronunciation": "сви'г"
+	},
+	{
+		"ru": "На пикнике Сара покусывала сыр, пока все разговаривали.",
+		"en": "At the picnic, Sarah nibbled cheese while everyone was talking.",
+		"target_ru": "покусывала",
+		"target_en": "nibble",
+		"gloss_ru": "покусывать",
+		"pronunciation": "ни'бэл"
+	},
+	{
+		"ru": "На дне рождения Макс откусил большой кусок бургера.",
+		"en": "At the birthday party, Max bit a big piece of his burger.",
+		"target_ru": "откусил",
+		"target_en": "bite",
+		"gloss_ru": "откусывать",
+		"pronunciation": "байт"
+	},
+	{
+		"ru": "За ужином Гарри спокойно жевал стейк и слушал родителей.",
+		"en": "At dinner, Harry calmly chewed his steak and listened to his parents.",
+		"target_ru": "жевал",
+		"target_en": "chew",
+		"gloss_ru": "жевать",
+		"pronunciation": "чу'"
+	},
+	{
+		"ru": "Во время прогулки по городу Хлоя жевала с удовольствием батончик.",
+		"en": "During a walk in the city, Chloe munched a snack bar.",
+		"target_ru": "жевала с удовольствием",
+		"target_en": "munch",
+		"gloss_ru": "жевать",
+		"pronunciation": "манч"
+	},
+	{
+		"ru": "В офисе Кейт хрустела морковью за своим столом.",
+		"en": "In the office, Kate crunched carrots at her desk.",
+		"target_ru": "хрустела",
+		"target_en": "crunch",
+		"gloss_ru": "хрустеть",
+		"pronunciation": "кранч"
+	}
+]

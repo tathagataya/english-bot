@@ -1,0 +1,802 @@
+[
+    {
+        "ru": "Лиам чувствовал себя [уверенным] во время встречи и старался держать себя в руках.",
+        "en": "Liam felt [assertive] during the meeting and tried to stay calm.",
+        "target_ru": "уверенным",
+        "target_en": "assertive",
+        "gloss_ru": "уверенный",
+        "pronunciation": "асе'тив"
+    },
+    {
+        "ru": "После разговора Эмма выглядел [стойкой] для всех.",
+        "en": "After the conversation, Emma seemed [resilient] to everyone.",
+        "target_ru": "стойкой",
+        "target_en": "resilient",
+        "gloss_ru": "стойкий",
+        "pronunciation": "ризи'лиент"
+    },
+    {
+        "ru": "Когда ситуация стала серьёзной, Ноа стал [сопереживающим].",
+        "en": "Noah became [empathetic] when the situation got serious.",
+        "target_ru": "сопереживающим",
+        "target_en": "empathetic",
+        "gloss_ru": "сопереживающий",
+        "pronunciation": ""
+    },
+    {
+        "ru": "В тот момент Оливия казался [сострадательной] и действовал осторожно.",
+        "en": "In that moment, Olivia appeared [compassionate] and acted carefully.",
+        "target_ru": "сострадательной",
+        "target_en": "compassionate",
+        "gloss_ru": "сострадательный",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Несмотря на давление, Джеймс оставался [амбициозным].",
+        "en": "James remained [ambitious] despite the pressure around.",
+        "target_ru": "амбициозным",
+        "target_en": "ambitious",
+        "gloss_ru": "амбициозный",
+        "pronunciation": ""
+    },
+    {
+        "ru": "София чувствовал себя [усердной] во время встречи и старался держать себя в руках.",
+        "en": "Sophia felt [diligent] during the meeting and tried to stay calm.",
+        "target_ru": "усердной",
+        "target_en": "diligent",
+        "gloss_ru": "усердный",
+        "pronunciation": ""
+    },
+    {
+        "ru": "После разговора Итан выглядел [надёжным] для всех.",
+        "en": "After the conversation, Ethan seemed [reliable] to everyone.",
+        "target_ru": "надёжным",
+        "target_en": "reliable",
+        "gloss_ru": "надёжный",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Когда ситуация стала серьёзной, Шарлотта стал [общительной].",
+        "en": "Charlotte became [outgoing] when the situation got serious.",
+        "target_ru": "общительной",
+        "target_en": "outgoing",
+        "gloss_ru": "общительный",
+        "pronunciation": ""
+    },
+    {
+        "ru": "В тот момент Оливер казался [интровертным] и действовал осторожно.",
+        "en": "In that moment, Oliver appeared [introverted] and acted carefully.",
+        "target_ru": "интровертным",
+        "target_en": "introverted",
+        "gloss_ru": "интровертный",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Несмотря на давление, Амелия оставался [неуверенной].",
+        "en": "Amelia remained [insecure] despite the pressure around.",
+        "target_ru": "неуверенной",
+        "target_en": "insecure",
+        "gloss_ru": "неуверенный",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Лукас чувствовал себя [упрямым] во время встречи и старался держать себя в руках.",
+        "en": "Lucas felt [stubborn] during the meeting and tried to stay calm.",
+        "target_ru": "упрямым",
+        "target_en": "stubborn",
+        "gloss_ru": "упрямый",
+        "pronunciation": ""
+    },
+    {
+        "ru": "После разговора Мия выглядел [настойчивой] для всех.",
+        "en": "After the conversation, Mia seemed [persistent] to everyone.",
+        "target_ru": "настойчивой",
+        "target_en": "persistent",
+        "gloss_ru": "настойчивый",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Когда ситуация стала серьёзной, Джек стал [решительным].",
+        "en": "Jack became [decisive] when the situation got serious.",
+        "target_ru": "решительным",
+        "target_en": "decisive",
+        "gloss_ru": "решительный",
+        "pronunciation": ""
+    },
+    {
+        "ru": "В тот момент Хлоя казался [импульсивно] и действовал осторожно.",
+        "en": "In that moment, Chloe appeared [impulsive] and acted carefully.",
+        "target_ru": "импульсивно",
+        "target_en": "impulsive",
+        "gloss_ru": "импульсивный",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Несмотря на давление, Генри оставался [внимательным].",
+        "en": "Henry remained [considerate] despite the pressure around.",
+        "target_ru": "внимательным",
+        "target_en": "considerate",
+        "gloss_ru": "внимательный",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Грейс чувствовал себя [вдумчивой] во время встречи и старался держать себя в руках.",
+        "en": "Grace felt [thoughtful] during the meeting and tried to stay calm.",
+        "target_ru": "вдумчивой",
+        "target_en": "thoughtful",
+        "gloss_ru": "вдумчивый",
+        "pronunciation": ""
+    },
+    {
+        "ru": "После разговора Оскар выглядел [непредвзятым] для всех.",
+        "en": "After the conversation, Oscar seemed [open-minded] to everyone.",
+        "target_ru": "непредвзятым",
+        "target_en": "open-minded",
+        "gloss_ru": "непредвзятый",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Когда ситуация стала серьёзной, Элла стал [честным].",
+        "en": "Ella became [honest] when the situation got serious.",
+        "target_ru": "честным",
+        "target_en": "honest",
+        "gloss_ru": "честный",
+        "pronunciation": ""
+    },
+    {
+        "ru": "В тот момент Лео казался [искренней] и действовал осторожно.",
+        "en": "In that moment, Leo appeared [sincere] and acted carefully.",
+        "target_ru": "искренней",
+        "target_en": "sincere",
+        "gloss_ru": "искренний",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Несмотря на давление, Ава оставался [тревожным].",
+        "en": "Ava remained [anxious] despite the pressure around.",
+        "target_ru": "тревожным",
+        "target_en": "anxious",
+        "gloss_ru": "тревожный",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Лиам чувствовал себя [перегруженной] во время встречи и старался держать себя в руках.",
+        "en": "Liam felt [overwhelmed] during the meeting and tried to stay calm.",
+        "target_ru": "перегруженной",
+        "target_en": "overwhelmed",
+        "gloss_ru": "перегруженный",
+        "pronunciation": ""
+    },
+    {
+        "ru": "После разговора Эмма выглядел [расстроенной] для всех.",
+        "en": "After the conversation, Emma seemed [upset] to everyone.",
+        "target_ru": "расстроенной",
+        "target_en": "upset",
+        "gloss_ru": "расстроенный",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Когда ситуация стала серьёзной, Ноа стал [разочарованной].",
+        "en": "Noah became [disappointed] when the situation got serious.",
+        "target_ru": "разочарованной",
+        "target_en": "disappointed",
+        "gloss_ru": "разочарованный",
+        "pronunciation": ""
+    },
+    {
+        "ru": "В тот момент Оливия казался [благодарной] и действовал осторожно.",
+        "en": "In that moment, Olivia appeared [grateful] and acted carefully.",
+        "target_ru": "благодарной",
+        "target_en": "grateful",
+        "gloss_ru": "благодарный",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Несмотря на давление, Джеймс оставался [уверенным].",
+        "en": "James remained [confident] despite the pressure around.",
+        "target_ru": "уверенным",
+        "target_en": "confident",
+        "gloss_ru": "уверенный",
+        "pronunciation": ""
+    },
+    {
+        "ru": "София чувствовал себя [любопытным] во время встречи и старался держать себя в руках.",
+        "en": "Sophia felt [curious] during the meeting and tried to stay calm.",
+        "target_ru": "любопытным",
+        "target_en": "curious",
+        "gloss_ru": "любопытный",
+        "pronunciation": ""
+    },
+    {
+        "ru": "После разговора Итан выглядел [оптимистичным] для всех.",
+        "en": "After the conversation, Ethan seemed [optimistic] to everyone.",
+        "target_ru": "оптимистичным",
+        "target_en": "optimistic",
+        "gloss_ru": "оптимистичный",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Когда ситуация стала серьёзной, Шарлотта стал [справиться].",
+        "en": "Charlotte became [cope] when the situation got serious.",
+        "target_ru": "справиться",
+        "target_en": "cope",
+        "gloss_ru": "справляться",
+        "pronunciation": ""
+    },
+    {
+        "ru": "В тот момент Оливер казался [выразить] и действовал осторожно.",
+        "en": "In that moment, Oliver appeared [express] and acted carefully.",
+        "target_ru": "выразить",
+        "target_en": "express",
+        "gloss_ru": "выражать",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Несмотря на давление, Амелия оставался [преодолеть].",
+        "en": "Amelia remained [overcome] despite the pressure around.",
+        "target_ru": "преодолеть",
+        "target_en": "overcome",
+        "gloss_ru": "преодолевать",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Лукас чувствовал себя [самооценка] во время встречи и старался держать себя в руках.",
+        "en": "Lucas felt [self-esteem] during the meeting and tried to stay calm.",
+        "target_ru": "самооценка",
+        "target_en": "self-esteem",
+        "gloss_ru": "самооценка",
+        "pronunciation": ""
+    },
+    {
+        "ru": "После разговора Мия выглядел [тревога] для всех.",
+        "en": "After the conversation, Mia seemed [anxiety] to everyone.",
+        "target_ru": "тревога",
+        "target_en": "anxiety",
+        "gloss_ru": "тревога",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Когда ситуация стала серьёзной, Джек стал [радость].",
+        "en": "Jack became [joy] when the situation got serious.",
+        "target_ru": "радость",
+        "target_en": "joy",
+        "gloss_ru": "радость",
+        "pronunciation": ""
+    },
+    {
+        "ru": "В тот момент Хлоя казался [на седьмом небе от счастья] и действовал осторожно.",
+        "en": "In that moment, Chloe appeared [on cloud nine] and acted carefully.",
+        "target_ru": "на седьмом небе от счастья",
+        "target_en": "on cloud nine",
+        "gloss_ru": "очень счастлив",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Несмотря на давление, Генри оставался [сохранять хладнокровие].",
+        "en": "Henry remained [keep a cool head] despite the pressure around.",
+        "target_ru": "сохранять хладнокровие",
+        "target_en": "keep a cool head",
+        "gloss_ru": "сохранять спокойствие",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Грейс чувствовал себя [выйти из себя] во время встречи и старался держать себя в руках.",
+        "en": "Grace felt [lose one's temper] during the meeting and tried to stay calm.",
+        "target_ru": "выйти из себя",
+        "target_en": "lose one's temper",
+        "gloss_ru": "разозлиться",
+        "pronunciation": ""
+    },
+    {
+        "ru": "После разговора Оскар выглядел [сдерживать эмоции] для всех.",
+        "en": "After the conversation, Oscar seemed [bottle up emotions] to everyone.",
+        "target_ru": "сдерживать эмоции",
+        "target_en": "bottle up emotions",
+        "gloss_ru": "сдерживать эмоции",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Когда ситуация стала серьёзной, Элла стал [быть на взводе].",
+        "en": "Ella became [be on edge] when the situation got serious.",
+        "target_ru": "быть на взводе",
+        "target_en": "be on edge",
+        "gloss_ru": "нервничать",
+        "pronunciation": ""
+    },
+    {
+        "ru": "В тот момент Лео казался [затаить обиду] и действовал осторожно.",
+        "en": "In that moment, Leo appeared [hold a grudge] and acted carefully.",
+        "target_ru": "затаить обиду",
+        "target_en": "hold a grudge",
+        "gloss_ru": "держать обиду",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Несмотря на давление, Ава оставался [огрызнуться].",
+        "en": "Ava remained [snap at someone] despite the pressure around.",
+        "target_ru": "огрызнуться",
+        "target_en": "snap at someone",
+        "gloss_ru": "резко ответить",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Лиам чувствовал себя [быть сытым по горло] во время встречи и старался держать себя в руках.",
+        "en": "Liam felt [be fed up with] during the meeting and tried to stay calm.",
+        "target_ru": "быть сытым по горло",
+        "target_en": "be fed up with",
+        "gloss_ru": "надоесть",
+        "pronunciation": ""
+    },
+    {
+        "ru": "После разговора Эмма выглядел [зацикливаться] для всех.",
+        "en": "After the conversation, Emma seemed [dwell on something] to everyone.",
+        "target_ru": "зацикливаться",
+        "target_en": "dwell on something",
+        "gloss_ru": "зацикливаться",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Когда ситуация стала серьёзной, Ноа стал [глубоко задуматься].",
+        "en": "Noah became [be deep in thought] when the situation got serious.",
+        "target_ru": "глубоко задуматься",
+        "target_en": "be deep in thought",
+        "gloss_ru": "задуматься",
+        "pronunciation": ""
+    },
+    {
+        "ru": "В тот момент Оливия казался [уйти в свои мысли] и действовал осторожно.",
+        "en": "In that moment, Olivia appeared [be lost in thought] and acted carefully.",
+        "target_ru": "уйти в свои мысли",
+        "target_en": "be lost in thought",
+        "gloss_ru": "задуматься",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Несмотря на давление, Джеймс оставался [испытывать смешанные чувства].",
+        "en": "James remained [have mixed feelings] despite the pressure around.",
+        "target_ru": "испытывать смешанные чувства",
+        "target_en": "have mixed feelings",
+        "gloss_ru": "сомневаться",
+        "pronunciation": ""
+    },
+    {
+        "ru": "София чувствовал себя [чувствовать покой] во время встречи и старался держать себя в руках.",
+        "en": "Sophia felt [feel at peace] during the meeting and tried to stay calm.",
+        "target_ru": "чувствовать покой",
+        "target_en": "feel at peace",
+        "gloss_ru": "чувствовать спокойствие",
+        "pronunciation": ""
+    },
+    {
+        "ru": "После разговора Итан выглядел [быть эмоционально истощенным] для всех.",
+        "en": "After the conversation, Ethan seemed [be emotionally drained] to everyone.",
+        "target_ru": "быть эмоционально истощенным",
+        "target_en": "be emotionally drained",
+        "gloss_ru": "устать эмоционально",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Когда ситуация стала серьёзной, Шарлотта стал [смириться].",
+        "en": "Charlotte became [come to terms with] when the situation got serious.",
+        "target_ru": "смириться",
+        "target_en": "come to terms with",
+        "gloss_ru": "принять",
+        "pronunciation": ""
+    },
+    {
+        "ru": "В тот момент Оливер казался [отрицать] и действовал осторожно.",
+        "en": "In that moment, Oliver appeared [be in denial] and acted carefully.",
+        "target_ru": "отрицать",
+        "target_en": "be in denial",
+        "gloss_ru": "отрицать",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Несмотря на давление, Амелия оставался [чувствовать давление].",
+        "en": "Amelia remained [feel under pressure] despite the pressure around.",
+        "target_ru": "чувствовать давление",
+        "target_en": "feel under pressure",
+        "gloss_ru": "испытывать давление",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Лукас чувствовал себя [обрести уверенность] во время встречи и старался держать себя в руках.",
+        "en": "Lucas felt [gain confidence] during the meeting and tried to stay calm.",
+        "target_ru": "обрести уверенность",
+        "target_en": "gain confidence",
+        "gloss_ru": "стать увереннее",
+        "pronunciation": ""
+    },
+    {
+        "ru": "После разговора Мия выглядел [бороться с эмоциями] для всех.",
+        "en": "After the conversation, Mia seemed [struggle with emotions] to everyone.",
+        "target_ru": "бороться с эмоциями",
+        "target_en": "struggle with emotions",
+        "gloss_ru": "испытывать трудности с эмоциями",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Когда ситуация стала серьёзной, Джек стал [человек, который рано встаёт].",
+        "en": "Jack became [early bird] when the situation got serious.",
+        "target_ru": "человек, который рано встаёт",
+        "target_en": "early bird",
+        "gloss_ru": "рано вставать",
+        "pronunciation": ""
+    },
+    {
+        "ru": "В тот момент Хлоя казался [человек, активный ночью] и действовал осторожно.",
+        "en": "In that moment, Chloe appeared [night owl] and acted carefully.",
+        "target_ru": "человек, активный ночью",
+        "target_en": "night owl",
+        "gloss_ru": "поздно бодрствовать",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Несмотря на давление, Генри оставался [очень общительный человек].",
+        "en": "Henry remained [social butterfly] despite the pressure around.",
+        "target_ru": "очень общительный человек",
+        "target_en": "social butterfly",
+        "gloss_ru": "быть общительным",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Грейс чувствовал себя [одиночка] во время встречи и старался держать себя в руках.",
+        "en": "Grace felt [lone wolf] during the meeting and tried to stay calm.",
+        "target_ru": "одиночка",
+        "target_en": "lone wolf",
+        "gloss_ru": "предпочитать одиночество",
+        "pronunciation": ""
+    },
+    {
+        "ru": "После разговора Оскар выглядел [болтун] для всех.",
+        "en": "After the conversation, Oscar seemed [chatterbox] to everyone.",
+        "target_ru": "болтун",
+        "target_en": "chatterbox",
+        "gloss_ru": "много говорить",
+        "pronunciation": ""
+    },
+    {
+        "ru": "Получив своё первое предложение о работе, Эмили весь день была на седьмом небе от счастья.",
+        "en": "After getting her first job offer, Emily was on cloud nine all day.",
+        "target_ru": "на седьмом небе",
+        "target_en": "on cloud nine",
+        "gloss_ru": "быть на седьмом небе",
+        "pronunciation": "он кла'уд найн"
+    },
+    {
+        "ru": "Майкл всегда помогает соседям с покупками, потому что у него доброе сердце.",
+        "en": "Michael always helps his neighbors with groceries because he has a heart of gold.",
+        "target_ru": "доброе сердце",
+        "target_en": "a heart of gold",
+        "gloss_ru": "иметь доброе сердце",
+        "pronunciation": "э ха'рт ов голд"
+    },
+    {
+        "ru": "Во время напряжённой встречи Сара сохранила хладнокровие и быстро всё решила.",
+        "en": "During the stressful meeting, Sarah kept a cool head and solved the problem quickly.",
+        "target_ru": "сохранила хладнокровие",
+        "target_en": "kept a cool head",
+        "gloss_ru": "сохранять хладнокровие",
+        "pronunciation": "кепт э кул хе'д"
+    },
+    {
+        "ru": "Джейк очень простой в общении, с ним всегда легко проводить время.",
+        "en": "Jake is very easy-going, so it’s always comfortable to hang out with him.",
+        "target_ru": "простой в общении",
+        "target_en": "easy-going",
+        "gloss_ru": "быть лёгким в общении",
+        "pronunciation": "и'зи гоуинг"
+    },
+    {
+        "ru": "Оливер настолько самоуверенный, что вообще не слушает чужое мнение.",
+        "en": "Oliver is so full of himself that he never listens to anyone else’s opinion.",
+        "target_ru": "самоуверенный",
+        "target_en": "full of himself",
+        "gloss_ru": "быть самоуверенным",
+        "pronunciation": "фул ов химсе'лф"
+    },
+    {
+        "ru": "Когда она снова увидела старую подругу, Лили просто переполнило радостью.",
+        "en": "When she saw her old friend again, Lily burst with joy.",
+        "target_ru": "переполнило радостью",
+        "target_en": "burst with joy",
+        "gloss_ru": "переполняться радостью",
+        "pronunciation": "бё'рст виз джой"
+    },
+    {
+        "ru": "После отличных выходных с друзьями Джеймс был в отличном настроении.",
+        "en": "James was in high spirits after a great weekend with his friends.",
+        "target_ru": "в отличном настроении",
+        "target_en": "in high spirits",
+        "gloss_ru": "быть в отличном настроении",
+        "pronunciation": "ин хай спи'ритс"
+    },
+    {
+        "ru": "Даже когда планы меняются, Итан спокойно это принимает и не жалуется.",
+        "en": "Even when plans change, Ethan takes things in stride and doesn’t complain.",
+        "target_ru": "спокойно принимает",
+        "target_en": "takes things in stride",
+        "gloss_ru": "спокойно принимать трудности",
+        "pronunciation": "тейкс сингз ин стра'йд"
+    },
+    {
+        "ru": "София живёт своим делом и может часами заниматься музыкой.",
+        "en": "Sophia is driven by passion and spends hours working on her music.",
+        "target_ru": "движима страстью",
+        "target_en": "driven by passion",
+        "gloss_ru": "быть движимым страстью",
+        "pronunciation": "дри'вен бай пэ'шн"
+    },
+    {
+        "ru": "Когда Дэниел выступает, он всегда излучает уверенность.",
+        "en": "Daniel always radiates confidence when he speaks in public.",
+        "target_ru": "излучает уверенность",
+        "target_en": "radiates confidence",
+        "gloss_ru": "излучать уверенность",
+        "pronunciation": "рэ'йдиеитс ко'нфиденс"
+    },
+    {
+        "ru": "Брайан вышел из себя, когда кто-то влез без очереди.",
+        "en": "Brian lost his temper when someone cut in line in front of him.",
+        "target_ru": "вышел из себя",
+        "target_en": "lost his temper",
+        "gloss_ru": "выйти из себя",
+        "pronunciation": "лост хиз те'мпер"
+    },
+    {
+        "ru": "После ссоры Хлоя начала игнорировать Эмму и перестала ей отвечать.",
+        "en": "After their argument, Chloe gave Emma the cold shoulder and stopped replying to her messages.",
+        "target_ru": "игнорировать",
+        "target_en": "gave the cold shoulder",
+        "gloss_ru": "игнорировать",
+        "pronunciation": "гейв зе коулд шо'лдер"
+    },
+    {
+        "ru": "Ной обычно держит всё в себе и не говорит о своих проблемах.",
+        "en": "Noah tends to bottle up his emotions instead of talking about his problems.",
+        "target_ru": "держит в себе",
+        "target_en": "bottle up emotions",
+        "gloss_ru": "сдерживать эмоции",
+        "pronunciation": "бо'тл ап эмо'ушнз"
+    },
+    {
+        "ru": "Перед экзаменами Ава всегда на взводе и не может расслабиться.",
+        "en": "Before exams, Ava always feels on edge and can’t relax.",
+        "target_ru": "на взводе",
+        "target_en": "on edge",
+        "gloss_ru": "быть на взводе",
+        "pronunciation": "он э'дж"
+    },
+    {
+        "ru": "Лукас до сих пор держит обиду на коллегу за прошлый год.",
+        "en": "Lucas still holds a grudge against his coworker for what happened last year.",
+        "target_ru": "держит обиду",
+        "target_en": "holds a grudge",
+        "gloss_ru": "затаить обиду",
+        "pronunciation": "хоулдз э гра'дж"
+    },
+    {
+        "ru": "Мия была настолько уставшая, что сорвалась на подругу без причины.",
+        "en": "Mia snapped at her friend for no real reason because she was so tired.",
+        "target_ru": "сорвалась",
+        "target_en": "snapped at",
+        "gloss_ru": "огрызнуться",
+        "pronunciation": "снэ'пт эт"
+    },
+    {
+        "ru": "Генри уже по горло сыт тем, что постоянно перерабатывает.",
+        "en": "Henry is fed up with working overtime every single week.",
+        "target_ru": "по горло сыт",
+        "target_en": "fed up with",
+        "gloss_ru": "быть сытым по горло",
+        "pronunciation": "фед ап виз"
+    },
+    {
+        "ru": "Бен принял критику начальника на свой счёт.",
+        "en": "Ben took it personally when his boss criticized his work.",
+        "target_ru": "принял на свой счёт",
+        "target_en": "took it personally",
+        "gloss_ru": "принимать на свой счёт",
+        "pronunciation": "тук ит пё'рсэнали"
+    },
+    {
+        "ru": "Оливия всё зацикливается на неловком моменте с вечеринки.",
+        "en": "Olivia keeps dwelling on that awkward moment from the party.",
+        "target_ru": "зацикливается",
+        "target_en": "dwelling on",
+        "gloss_ru": "зацикливаться",
+        "pronunciation": "две'линг он"
+    },
+    {
+        "ru": "Уильям сидел молча, глубоко задумавшись, пытаясь принять важное решение.",
+        "en": "William sat quietly, deep in thought, trying to make an important decision.",
+        "target_ru": "глубоко задумался",
+        "target_en": "deep in thought",
+        "gloss_ru": "глубоко задуматься",
+        "pronunciation": "дип ин со'т"
+    },
+    {
+        "ru": "Изабелла так задумалась в дороге, что проехала свою остановку.",
+        "en": "Isabella was lost in thought during her commute and missed her stop.",
+        "target_ru": "ушла в мысли",
+        "target_en": "lost in thought",
+        "gloss_ru": "уйти в свои мысли",
+        "pronunciation": "лост ин со'т"
+    },
+    {
+        "ru": "У Джека смешанные чувства насчёт переезда в другой город из-за работы.",
+        "en": "Jack has mixed feelings about moving to another city for work.",
+        "target_ru": "смешанные чувства",
+        "target_en": "mixed feelings",
+        "gloss_ru": "испытывать смешанные чувства",
+        "pronunciation": "микст фи'лингз"
+    },
+    {
+        "ru": "После долгой прогулки в парке Грейс наконец почувствовала спокойствие.",
+        "en": "After a long walk in the park, Grace felt at peace.",
+        "target_ru": "почувствовала спокойствие",
+        "target_en": "felt at peace",
+        "gloss_ru": "чувствовать покой",
+        "pronunciation": "фелт эт пи'с"
+    },
+    {
+        "ru": "После насыщенной недели Алекс был полностью эмоционально выжат.",
+        "en": "After a busy week, Alex felt emotionally drained.",
+        "target_ru": "эмоционально выжат",
+        "target_en": "emotionally drained",
+        "gloss_ru": "быть эмоционально истощённым",
+        "pronunciation": "имо'ушонали дрейн"
+    },
+    {
+        "ru": "Натали долго не могла смириться с решением уволиться.",
+        "en": "It took Natalie a long time to come to terms with her decision to quit her job.",
+        "target_ru": "смириться",
+        "target_en": "come to terms with",
+        "gloss_ru": "смириться",
+        "pronunciation": "кам ту тё'рмз виз"
+    },
+    {
+        "ru": "Райан до сих пор отрицает, насколько всё серьёзно.",
+        "en": "Ryan is still in denial about how serious the situation is.",
+        "target_ru": "отрицает",
+        "target_en": "in denial",
+        "gloss_ru": "быть в отрицании",
+        "pronunciation": "ин дена'йл"
+    },
+    {
+        "ru": "Ханна чувствует сильное давление из-за дедлайнов на работе.",
+        "en": "Hannah feels under pressure because of all the deadlines at work.",
+        "target_ru": "чувствует давление",
+        "target_en": "under pressure",
+        "gloss_ru": "чувствовать давление",
+        "pronunciation": "а'ндер прэ'шер"
+    },
+    {
+        "ru": "После нескольких успешных проектов Лео начал обретать уверенность.",
+        "en": "After a few successful projects, Leo started to gain confidence.",
+        "target_ru": "обретать уверенность",
+        "target_en": "gain confidence",
+        "gloss_ru": "обретать уверенность",
+        "pronunciation": "гейн ко'нфиденс"
+    },
+    {
+        "ru": "Софи часто тяжело справляется со своими эмоциями и не всегда понимает, почему так себя чувствует.",
+        "en": "Sophie often struggles with emotions and doesn’t always understand why she feels that way.",
+        "target_ru": "борется с эмоциями",
+        "target_en": "struggles with emotions",
+        "gloss_ru": "бороться с эмоциями",
+        "pronunciation": "стра'глз виз эмо'ушнз"
+    },
+    {
+        "ru": "Когда старый сосед выбросил котёнка на улицу, Лиам впервые почувствовал, что может по-настоящему питать отвращение к человеку.",
+        "en": "When the old neighbor threw the kitten into the street, Liam felt he could truly abhor a person for the first time.",
+        "target_ru": "питать отвращение",
+        "target_en": "abhor",
+        "gloss_ru": "питать отвращение",
+        "pronunciation": "эбхо'р"
+    },
+    {
+        "ru": "В письме из прошлого было столько отвращения, что Нора читала его медленно, будто боялась испачкать руки.",
+        "en": "There was so much abhorrence in the letter from the past that Nora read it slowly, as if afraid to stain her hands.",
+        "target_ru": "отвращения",
+        "target_en": "abhorrence",
+        "gloss_ru": "отвращение, омерзение",
+        "pronunciation": "эбхо'рэнс"
+    },
+    {
+        "ru": "Поступок директора был настолько отвратительным, что даже самые тихие сотрудники потребовали публичных объяснений.",
+        "en": "The director's behavior was so abhorrent that even the quietest employees demanded a public explanation.",
+        "target_ru": "отвратительным",
+        "target_en": "abhorrent",
+        "gloss_ru": "отвратительный, ненавистный",
+        "pronunciation": "эбхо'рэнт"
+    },
+    {
+        "ru": "После раздела наследства между братьями осталась такая враждебность, что они перестали здороваться на семейных праздниках.",
+        "en": "After the inheritance was divided, such animosity remained between the brothers that they stopped greeting each other at family gatherings.",
+        "target_ru": "враждебность",
+        "target_en": "animosity",
+        "gloss_ru": "враждебность",
+        "pronunciation": "энимо'сити"
+    },
+    {
+        "ru": "Майя не могла объяснить свою антипатию к новому преподавателю, но каждый его комплимент звучал как скрытая насмешка.",
+        "en": "Maya could not explain her antipathy toward the new teacher, but every compliment from him sounded like a hidden insult.",
+        "target_ru": "антипатию",
+        "target_en": "antipathy",
+        "gloss_ru": "антипатия",
+        "pronunciation": "эн'типэси"
+    },
+    {
+        "ru": "Высокомерие Оливера исчезло в тот момент, когда стажёр нашёл ошибку, которую он сам пропустил.",
+        "en": "Oliver's arrogance disappeared the moment an intern found a mistake he had missed himself.",
+        "target_ru": "высокомерие",
+        "target_en": "arrogance",
+        "gloss_ru": "высокомерие",
+        "pronunciation": "э'рогэнс"
+    },
+    {
+        "ru": "Грейс была несклонна к громким обещаниям, поэтому инвесторы сначала приняли её осторожность за слабость.",
+        "en": "Grace was averse to bold promises, so the investors first mistook her caution for weakness.",
+        "target_ru": "несклонна к",
+        "target_en": "averse to",
+        "gloss_ru": "несклонный к",
+        "pronunciation": "э'вёрс ту"
+    },
+    {
+        "ru": "У Томаса было странное отвращение к похвале: после каждого комплимента он менял тему или уходил за кофе.",
+        "en": "Thomas had a strange aversion to praise; after every compliment, he changed the subject or went for coffee.",
+        "target_ru": "отвращение",
+        "target_en": "aversion",
+        "gloss_ru": "отвращение",
+        "pronunciation": "э'вёршн"
+    },
+    {
+        "ru": "За соседним столом сидел болтун, который за двадцать минут рассказал бармену историю всей своей жизни.",
+        "en": "At the next table sat a chatterbox who told the bartender his entire life story in twenty minutes.",
+        "target_ru": "болтун",
+        "target_en": "chatterbox",
+        "gloss_ru": "болтун",
+        "pronunciation": "чэтэрбокс"
+    },
+    {
+        "ru": "Нечестный продавец улыбался так уверенно, что туристы поняли обман только у выхода из рынка.",
+        "en": "The dishonest seller smiled so confidently that the tourists noticed the trick only at the market exit.",
+        "target_ru": "нечестный",
+        "target_en": "dishonest",
+        "gloss_ru": "нечестный",
+        "pronunciation": "дис'онэст"
+    },
+    {
+        "ru": "Предательский друг прислал поздравление в тот же день, когда тайно подписал договор с конкурентами.",
+        "en": "The disloyal friend sent a congratulatory message on the same day he secretly signed a deal with competitors.",
+        "target_ru": "предательский",
+        "target_en": "disloyal",
+        "gloss_ru": "неверный, предательский",
+        "pronunciation": "дис'лоял"
+    },
+    {
+        "ru": "Неверность команды открылась не сразу: сначала просто исчезли документы, потом исчезли люди.",
+        "en": "The team's disloyalty was not revealed at once; first the documents disappeared, then the people did.",
+        "target_ru": "неверность",
+        "target_en": "disloyalty",
+        "gloss_ru": "неверность, предательство",
+        "pronunciation": "дис'лоялти"
+    },
+    {
+        "ru": "Все называли мистера Брауна старомодным человеком, пока именно его бумажная карта не спасла их в горах.",
+        "en": "Everyone called Mr. Brown a fuddy-duddy until his paper map was the thing that saved them in the mountains.",
+        "target_ru": "старомодным человеком",
+        "target_en": "fuddy-duddy",
+        "gloss_ru": "старомодный человек",
+        "pronunciation": "фади-дади"
+    },
+    {
+        "ru": "На первой же вечеринке Эмма оказалась общительным человеком и познакомила между собой даже тех, кто годами молчал.",
+        "en": "At the very first party, Emma proved to be a good mixer and introduced people who had avoided each other for years.",
+        "target_ru": "общительным человеком",
+        "target_en": "good mixer",
+        "gloss_ru": "общительный человек",
+        "pronunciation": "гуд миксэр"
+    }
+]

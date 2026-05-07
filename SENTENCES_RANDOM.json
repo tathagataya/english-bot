@@ -1,0 +1,4074 @@
+[
+  {
+    "ru": "Это была вопиющая ложь, и в зале суда даже журналисты перестали печатать на секунду.",
+    "en": "It was a blatant lie, and even the journalists in the courtroom stopped typing for a second.",
+    "target_ru": "вопиющая",
+    "target_en": "blatant",
+    "gloss_ru": "вопиющий, явный",
+    "pronunciation": "бле'йтэнт"
+  },
+  {
+    "ru": "Нож оказался тупым, но шеф всё равно нарезал лимон так спокойно, будто выступал перед королевой.",
+    "en": "The knife was blunt, but the chef still sliced the lemon calmly, as if performing for the queen.",
+    "target_ru": "тупым",
+    "target_en": "blunt",
+    "gloss_ru": "тупой",
+    "pronunciation": "блант"
+  },
+  {
+    "ru": "Дерзкий ответ Дэниела спас встречу: никто больше не решался делать вид, что проблема не существует.",
+    "en": "Daniel's brash answer saved the meeting; no one dared to pretend the problem did not exist anymore.",
+    "target_ru": "дерзкий",
+    "target_en": "brash",
+    "gloss_ru": "дерзкий, нахальный",
+    "pronunciation": "брэш"
+  },
+  {
+    "ru": "У вокзала пьяница пел старую морскую песню так печально, что прохожие невольно замедляли шаг.",
+    "en": "Near the station, a drunkard sang an old sea song so sadly that passers-by slowed down without meaning to.",
+    "target_ru": "пьяница",
+    "target_en": "drunkard",
+    "gloss_ru": "пьяница",
+    "pronunciation": "дранкэрд"
+  },
+  {
+    "ru": "Непостоянный клиент сегодня обожал проект, а завтра уже требовал всё переделать с нуля.",
+    "en": "The fickle client loved the project today and demanded a complete redesign the next day.",
+    "target_ru": "непостоянный",
+    "target_en": "fickle",
+    "gloss_ru": "непостоянный, переменчивый",
+    "pronunciation": "фикл"
+  },
+  {
+    "ru": "После наводнения подвал был грязный и мерзкий, но внутри всё ещё лежал сундук с письмами бабушки.",
+    "en": "After the flood, the basement was filthy, but the chest with Grandmother's letters was still inside.",
+    "target_ru": "грязный",
+    "target_en": "filthy",
+    "gloss_ru": "грязный, мерзкий",
+    "pronunciation": "филси"
+  },
+  {
+    "ru": "Жадный дядя пересчитывал монеты так долго, что дети успели съесть весь праздничный пирог.",
+    "en": "The grasping uncle counted the coins for so long that the children managed to eat the whole holiday pie.",
+    "target_ru": "жадный",
+    "target_en": "grasping",
+    "gloss_ru": "жадный, алчный",
+    "pronunciation": "граспинг"
+  },
+  {
+    "ru": "Владелец гостиницы был пьющим человеком, но каждое утро всё равно сам расставлял свежие цветы в холле.",
+    "en": "The hotel owner was a heavy drinker, but every morning he still arranged fresh flowers in the lobby himself.",
+    "target_ru": "пьющим",
+    "target_en": "heavy drinker",
+    "gloss_ru": "пьющий",
+    "pronunciation": "хэви дринкэр"
+  },
+  {
+    "ru": "Честный кассир догнал туристку через весь квартал, чтобы вернуть ей забытую сдачу.",
+    "en": "The honest cashier ran after the tourist for an entire block to return the change she had forgotten.",
+    "target_ru": "честный",
+    "target_en": "honest",
+    "gloss_ru": "честный",
+    "pronunciation": "онэст"
+  },
+  {
+    "ru": "Враждебный взгляд незнакомца заставил поездной вагон замолчать ещё до того, как он произнёс хоть слово.",
+    "en": "The stranger's hostile stare silenced the train carriage before he had said a single word.",
+    "target_ru": "враждебный",
+    "target_en": "hostile",
+    "gloss_ru": "враждебный",
+    "pronunciation": "хостайл"
+  },
+  {
+    "ru": "Гуманный судья разрешил мальчику проститься с собакой, хотя правила приюта были очень строгими.",
+    "en": "The humane judge allowed the boy to say goodbye to his dog, although the shelter rules were very strict.",
+    "target_ru": "гуманный",
+    "target_en": "humane",
+    "gloss_ru": "гуманный",
+    "pronunciation": "хьюмэйн"
+  },
+  {
+    "ru": "В её молчании был неявный отказ, и Генри понял это раньше, чем она опустила глаза.",
+    "en": "There was an implicit refusal in her silence, and Henry understood it before she lowered her eyes.",
+    "target_ru": "неявный",
+    "target_en": "implicit",
+    "gloss_ru": "неявный, подразумеваемый",
+    "pronunciation": "имплисит"
+  },
+  {
+    "ru": "Скованный мальчик стоял у сцены с букетом, пока актриса не улыбнулась ему из-за кулис.",
+    "en": "The inhibited boy stood by the stage with flowers until the actress smiled at him from behind the curtain.",
+    "target_ru": "скованный",
+    "target_en": "inhibited",
+    "gloss_ru": "заторможенный, скованный",
+    "pronunciation": "инхибитэд"
+  },
+  {
+    "ru": "Интенсивный разговор длился всего десять минут, но после него оба чувствовали себя так, будто пережили бурю.",
+    "en": "The intense conversation lasted only ten minutes, but afterward they both felt as if they had survived a storm.",
+    "target_ru": "интенсивный",
+    "target_en": "intense",
+    "gloss_ru": "интенсивный",
+    "pronunciation": "интэнс"
+  },
+  {
+    "ru": "Навязчивый сосед каждый вечер стучал в дверь с новым советом о том, как правильно жить.",
+    "en": "The intrusive neighbor knocked on the door every evening with new advice on how to live properly.",
+    "target_ru": "навязчивый",
+    "target_en": "intrusive",
+    "gloss_ru": "навязчивый",
+    "pronunciation": "интрусив"
+  },
+  {
+    "ru": "На скучном благотворительном ужине Софи стала душой компании, когда начала читать смешные письма своей бабушки.",
+    "en": "At a dull charity dinner, Sophie became the life and soul of the party when she started reading her grandmother's funny letters.",
+    "target_ru": "душой компании",
+    "target_en": "life and soul of the party",
+    "gloss_ru": "душа компании",
+    "pronunciation": "лайф энд соул ов зэ парти"
+  },
+  {
+    "ru": "Верный пёс ждал хозяина у закрытой станции три дня, пока вся деревня не узнала его историю.",
+    "en": "The loyal dog waited for his owner outside the closed station for three days until the whole village learned his story.",
+    "target_ru": "верный",
+    "target_en": "loyal",
+    "gloss_ru": "верный, преданный",
+    "pronunciation": "лоял"
+  },
+  {
+    "ru": "Его преданность была тихой: он просто приходил каждый вечер и чинил старый дом после пожара.",
+    "en": "His loyalty was quiet: he simply came every evening and repaired the old house after the fire.",
+    "target_ru": "преданность",
+    "target_en": "loyalty",
+    "gloss_ru": "верность, преданность",
+    "pronunciation": "лоялти"
+  },
+  {
+    "ru": "Дотошный реставратор заметил на картине крошечную подпись, которую музей не видел сорок лет.",
+    "en": "The meticulous restorer noticed a tiny signature on the painting that the museum had missed for forty years.",
+    "target_ru": "дотошный",
+    "target_en": "meticulous",
+    "gloss_ru": "дотошный, скрупулезный",
+    "pronunciation": "мэтикьюлэс"
+  },
+  {
+    "ru": "Старый скряга не дал внуку ни монеты, но оставил ему дневник с картой спрятанного сада.",
+    "en": "The old miser gave his grandson not a single coin, but left him a diary with a map to a hidden garden.",
+    "target_ru": "скряга",
+    "target_en": "miser",
+    "gloss_ru": "скряга",
+    "pronunciation": "майзэр"
+  },
+  {
+    "ru": "Монотонный голос гида усыпил половину автобуса, пока за окном начинался самый красивый рассвет.",
+    "en": "The guide's monotonous voice put half the bus to sleep while the most beautiful sunrise began outside.",
+    "target_ru": "монотонный",
+    "target_en": "monotonous",
+    "gloss_ru": "монотонный",
+    "pronunciation": "монотонэс"
+  },
+  {
+    "ru": "На старой фотографии мальчик стоял голый у моря, смеясь так свободно, будто весь мир принадлежал ему.",
+    "en": "In the old photograph, the boy stood naked by the sea, laughing as freely as if the whole world belonged to him.",
+    "target_ru": "голый",
+    "target_en": "naked",
+    "gloss_ru": "голый",
+    "pronunciation": "нэйкид"
+  },
+  {
+    "ru": "Небрежный тон Норы задел её сестру сильнее, чем сама плохая новость.",
+    "en": "Nora's nonchalant tone hurt her sister more than the bad news itself.",
+    "target_ru": "небрежный",
+    "target_en": "nonchalant",
+    "gloss_ru": "беззаботный, небрежный",
+    "pronunciation": "ноншалант"
+  },
+  {
+    "ru": "Неприятный запах из комнаты был таким сильным, что детектив открыл окно прежде, чем задал первый вопрос.",
+    "en": "The obnoxious smell from the room was so strong that the detective opened the window before asking his first question.",
+    "target_ru": "неприятный",
+    "target_en": "obnoxious",
+    "gloss_ru": "неприятный, отвратительный",
+    "pronunciation": "обнокшэс"
+  },
+  {
+    "ru": "Угодливый помощник смеялся над каждой шуткой босса, даже когда весь отдел молчал от неловкости.",
+    "en": "The obsequious assistant laughed at every joke the boss made, even when the whole department was silent with embarrassment.",
+    "target_ru": "угодливый",
+    "target_en": "obsequious",
+    "gloss_ru": "угодливый, подобострастный",
+    "pronunciation": "обсиквиэс"
+  },
+  {
+    "ru": "Адам был одержим старой картой и верил, что она приведёт его к исчезнувшей деревне.",
+    "en": "Adam was obsessed with the old map and believed it would lead him to the vanished village.",
+    "target_ru": "одержим",
+    "target_en": "obsessed with",
+    "gloss_ru": "одержимый",
+    "pronunciation": "обсэст виз"
+  },
+  {
+    "ru": "Навязчивый страх ошибки заставлял Еву переписывать каждое письмо по пять раз.",
+    "en": "An obsessive fear of mistakes made Eva rewrite every letter five times.",
+    "target_ru": "навязчивый",
+    "target_en": "obsessive",
+    "gloss_ru": "навязчивый",
+    "pronunciation": "обсэсив"
+  },
+  {
+    "ru": "Упрямый фермер отказался продавать поле, хотя вокруг него уже строили новый город.",
+    "en": "The obstinate farmer refused to sell the field, although a new town was already being built around it.",
+    "target_ru": "упрямый",
+    "target_en": "obstinate",
+    "gloss_ru": "упрямый",
+    "pronunciation": "обстинэт"
+  },
+  {
+    "ru": "Он был пьющим по случаю, но на свадьбе сестры впервые понял, как быстро праздник может стать чужой драмой.",
+    "en": "He was an occasional drinker, but at his sister's wedding he first understood how quickly a celebration could become someone else's drama.",
+    "target_ru": "пьющим по случаю",
+    "target_en": "occasional drinker",
+    "gloss_ru": "пьющий по случаю",
+    "pronunciation": "окэйжэнэл дринкэр"
+  },
+  {
+    "ru": "Бесцеремонный ответ врача заставил пациентку выйти из кабинета, так и не задав главный вопрос.",
+    "en": "The doctor's off-hand reply made the patient leave the room without asking her most important question.",
+    "target_ru": "бесцеремонный",
+    "target_en": "off-hand",
+    "gloss_ru": "бесцеремонный, небрежный",
+    "pronunciation": "оф-хэнд"
+  },
+  {
+    "ru": "Назойливый администратор вмешался в спор соседей и за пять минут сделал его вдвое громче.",
+    "en": "The officious administrator interfered in the neighbors' argument and made it twice as loud in five minutes.",
+    "target_ru": "назойливый",
+    "target_en": "officious",
+    "gloss_ru": "назойливый, вмешивающийся в чужие дела",
+    "pronunciation": "офишэс"
+  },
+  {
+    "ru": "Показной жест миллионера выглядел щедро, пока журналисты не нашли камеры, заранее спрятанные в зале.",
+    "en": "The millionaire's ostentatious gesture looked generous until journalists found the cameras hidden in the hall beforehand.",
+    "target_ru": "показной",
+    "target_en": "ostentatious",
+    "gloss_ru": "показной, хвастливый",
+    "pronunciation": "остэнтэйшэс"
+  },
+  {
+    "ru": "Этот паразит годами жил за счёт друзей, называя свою лень поиском духовного пути.",
+    "en": "That parasite lived off his friends for years, calling his laziness a search for a spiritual path.",
+    "target_ru": "паразит",
+    "target_en": "parasite",
+    "gloss_ru": "паразит",
+    "pronunciation": "пэрасайт"
+  },
+  {
+    "ru": "К вечеру путешественники были пересохшими от жажды и готовы были заплатить за воду больше, чем за гостиницу.",
+    "en": "By evening, the travelers were parched and ready to pay more for water than for the hotel.",
+    "target_ru": "пересохшими",
+    "target_en": "parched",
+    "gloss_ru": "пересохший",
+    "pronunciation": "парчт"
+  },
+  {
+    "ru": "Его главным раздражителем были люди, которые громко смотрят видео в поезде без наушников.",
+    "en": "His pet aversion was people who watched videos loudly on trains without headphones.",
+    "target_ru": "главным раздражителем",
+    "target_en": "pet aversion",
+    "gloss_ru": "то, что больше всего не нравится",
+    "pronunciation": "пэт эвёршн"
+  },
+  {
+    "ru": "Напыщенный профессор называл каждую свою мысль открытием, пока студентка не нашла её в старой энциклопедии.",
+    "en": "The pompous professor called every thought of his a discovery until a student found it in an old encyclopedia.",
+    "target_ru": "напыщенный",
+    "target_en": "pompous",
+    "gloss_ru": "напыщенный, высокомерный",
+    "pronunciation": "помпэс"
+  },
+  {
+    "ru": "Собственнический тон мужа испугал Клару сильнее, чем его громкий голос.",
+    "en": "Her husband's possessive tone frightened Clara more than his loud voice.",
+    "target_ru": "собственнический",
+    "target_en": "possessive",
+    "gloss_ru": "собственнический",
+    "pronunciation": "позэсив"
+  },
+  {
+    "ru": "Претенциозный ресторан подал суп в ракушке, но забыл принести ложки.",
+    "en": "The pretentious restaurant served the soup in a shell but forgot to bring spoons.",
+    "target_ru": "претенциозный",
+    "target_en": "pretentious",
+    "gloss_ru": "претенциозный, вычурный",
+    "pronunciation": "притэншэс"
+  },
+  {
+    "ru": "Ребяческий спор из-за места у окна задержал автобус на десять минут.",
+    "en": "A puerile argument over the window seat delayed the bus for ten minutes.",
+    "target_ru": "ребяческий",
+    "target_en": "puerile",
+    "gloss_ru": "ребяческий, незрелый",
+    "pronunciation": "пьюэрайль"
+  },
+  {
+    "ru": "После трёх часов в лесу дети были такими голодными, что съели даже холодную кашу без жалоб.",
+    "en": "After three hours in the forest, the children were so ravenous that they ate even cold porridge without complaint.",
+    "target_ru": "голодными",
+    "target_en": "ravenous",
+    "gloss_ru": "прожорливый, ненасытный",
+    "pronunciation": "рэвэнэс"
+  },
+  {
+    "ru": "Неумолимость следователя пугала всех свидетелей: он возвращался к одному вопросу снова и снова.",
+    "en": "The investigator's relentlessness frightened every witness; he returned to the same question again and again.",
+    "target_ru": "неумолимость",
+    "target_en": "relentlessness",
+    "gloss_ru": "неумолимость, безжалостность",
+    "pronunciation": "рилэнтлэснэс"
+  },
+  {
+    "ru": "Лукас неохотно открыл конверт, потому что уже знал, что внутри будет отказ.",
+    "en": "Lucas was reluctant to open the envelope because he already knew there would be a rejection inside.",
+    "target_ru": "неохотно",
+    "target_en": "reluctant",
+    "gloss_ru": "неохотный",
+    "pronunciation": "рилактэнт"
+  },
+  {
+    "ru": "Запах из старого холодильника был отвратительным, но именно там лежал ключ от тайника.",
+    "en": "The smell from the old fridge was revolting, but the key to the hiding place was inside it.",
+    "target_ru": "отвратительным",
+    "target_en": "revolting",
+    "gloss_ru": "отвратительный",
+    "pronunciation": "риволтинг"
+  },
+  {
+    "ru": "Работа в приюте была тяжёлой, но удивительно стоящей, особенно когда дети впервые улыбались новым собакам.",
+    "en": "The work at the shelter was hard but deeply rewarding, especially when the children smiled at the new dogs for the first time.",
+    "target_ru": "стоящей",
+    "target_en": "rewarding",
+    "gloss_ru": "стоящий, приносящий удовлетворение",
+    "pronunciation": "ривординг"
+  },
+  {
+    "ru": "В его голосе звучало презрение, когда он увидел дешёвую копию картины в дорогой раме.",
+    "en": "There was scorn in his voice when he saw the cheap copy of the painting in an expensive frame.",
+    "target_ru": "презрение",
+    "target_en": "scorn",
+    "gloss_ru": "презрение, насмешка",
+    "pronunciation": "скорн"
+  },
+  {
+    "ru": "Презрительный взгляд хозяйки заставил гостя спрятать старые ботинки под стул.",
+    "en": "The hostess's scornful look made the guest hide his old shoes under the chair.",
+    "target_ru": "презрительный",
+    "target_en": "scornful",
+    "gloss_ru": "презрительный",
+    "pronunciation": "скорнфул"
+  },
+  {
+    "ru": "Дотошно честный бухгалтер вернул клиенту даже лишние три рубля, найденные в отчёте.",
+    "en": "The scrupulously honest accountant returned even the extra three rubles he found in the report.",
+    "target_ru": "дотошно честный",
+    "target_en": "scrupulously honest",
+    "gloss_ru": "дотошно честный",
+    "pronunciation": "скрупьюлэсли онэст"
+  },
+  {
+    "ru": "Тайный пьяница прятал бутылки за книгами по философии, словно стыд мог стать невидимым.",
+    "en": "The secret drinker hid bottles behind philosophy books, as if shame could become invisible.",
+    "target_ru": "тайный пьяница",
+    "target_en": "secret drinker",
+    "gloss_ru": "пьющий втайне",
+    "pronunciation": "сикрэт дринкэр"
+  },
+  {
+    "ru": "Мальчик был чувствителен к резким звукам, поэтому в метро всегда сжимал в кармане маленький талисман.",
+    "en": "The boy was sensitive to sudden noises, so he always held a small charm in his pocket on the subway.",
+    "target_ru": "чувствителен к",
+    "target_en": "sensitive to",
+    "gloss_ru": "чувствительный к",
+    "pronunciation": "сэнситив ту"
+  },
+  {
+    "ru": "Сосед оказался неряхой: его балкон был похож на музей вещей, которые давно сдались.",
+    "en": "The neighbor was a slob; his balcony looked like a museum of things that had long given up.",
+    "target_ru": "неряхой",
+    "target_en": "slob",
+    "gloss_ru": "неряха",
+    "pronunciation": "слоб"
+  },
+  {
+    "ru": "Небрежная записка на салфетке оказалась единственным доказательством, которое пережило пожар.",
+    "en": "The sloppy note on a napkin turned out to be the only piece of evidence that survived the fire.",
+    "target_ru": "небрежная",
+    "target_en": "sloppy",
+    "gloss_ru": "небрежный, неряшливый",
+    "pronunciation": "слопи"
+  },
+  {
+    "ru": "Трезвый водитель молчал всю дорогу, но именно он заметил, что за ними едет одна и та же машина.",
+    "en": "The sober driver stayed silent all the way, but he was the one who noticed the same car following them.",
+    "target_ru": "трезвый",
+    "target_en": "sober",
+    "gloss_ru": "трезвый",
+    "pronunciation": "соубэр"
+  },
+  {
+    "ru": "Карьерист улыбался всем начальникам, но забывал имена людей, которые приносили ему кофе.",
+    "en": "The social climber smiled at every manager but forgot the names of the people who brought him coffee.",
+    "target_ru": "карьерист",
+    "target_en": "social climber",
+    "gloss_ru": "карьерист",
+    "pronunciation": "соушэл клаймэр"
+  },
+  {
+    "ru": "Он был пьющим в компании и всегда поднимал бокал первым, даже если пришёл на встречу последним.",
+    "en": "He was a social drinker and always raised his glass first, even if he arrived at the gathering last.",
+    "target_ru": "пьющим в компании",
+    "target_en": "social drinker",
+    "gloss_ru": "пьющий в компании",
+    "pronunciation": "соушэл дринкэр"
+  },
+  {
+    "ru": "Этот прихлебатель появлялся у друзей ровно в тот момент, когда на стол ставили ужин.",
+    "en": "That sponger appeared at his friends' door exactly when dinner was put on the table.",
+    "target_ru": "прихлебатель",
+    "target_en": "sponger",
+    "gloss_ru": "прихлебатель, паразит",
+    "pronunciation": "спонджэр"
+  },
+  {
+    "ru": "Спонтанность Майи спасла отпуск: вместо отменённого поезда она нашла ночной корабль до острова.",
+    "en": "Maya's spontaneity saved the holiday; instead of the cancelled train, she found a night boat to the island.",
+    "target_ru": "спонтанность",
+    "target_en": "spontaneity",
+    "gloss_ru": "спонтанность",
+    "pronunciation": "спонтэниити"
+  },
+  {
+    "ru": "Убогий переулок за театром пах дождём, жареным луком и забытыми обещаниями.",
+    "en": "The squalid alley behind the theatre smelled of rain, fried onions, and forgotten promises.",
+    "target_ru": "убогий",
+    "target_en": "squalid",
+    "gloss_ru": "убогий, грязный",
+    "pronunciation": "скволид"
+  },
+  {
+    "ru": "После многих неудач их маленький бизнес наконец стал стабильным и перестал зависеть от одного клиента.",
+    "en": "After many failures, their small business finally became stable and stopped depending on a single client.",
+    "target_ru": "стабильным",
+    "target_en": "stable",
+    "gloss_ru": "стабильный",
+    "pronunciation": "стэйбл"
+  },
+  {
+    "ru": "К полудню туристы были голодными и измученными жаждой, но маяк всё ещё казался далёкой белой точкой.",
+    "en": "By noon, the tourists were starving and parched, but the lighthouse still looked like a distant white dot.",
+    "target_ru": "голодными и измученными жаждой",
+    "target_en": "starving/parched",
+    "gloss_ru": "голодающий/измученный жаждой",
+    "pronunciation": "старвинг парчт"
+  },
+  {
+    "ru": "Упрямый дедушка отказался продавать старый дом, хотя новые высотки уже окружили весь квартал.",
+    "en": "The stubborn grandfather refused to sell the old house, although new towers already surrounded the whole block.",
+    "target_ru": "упрямый",
+    "target_en": "stubborn",
+    "gloss_ru": "упрямый",
+    "pronunciation": "стабэрн"
+  },
+  {
+    "ru": "Заносчивый студент пришёл на экзамен без конспекта и первым же вопросом выдал своё незнание.",
+    "en": "The stuck up student came to the exam without notes and revealed his ignorance with the very first question.",
+    "target_ru": "заносчивый",
+    "target_en": "stuck up",
+    "gloss_ru": "заносчивый, высокомерный",
+    "pronunciation": "стак ап"
+  },
+  {
+    "ru": "Этот сорвиголова перелез через школьный забор только затем, чтобы вернуть котёнка соседской девочке.",
+    "en": "The tear-away climbed over the school fence only to return a kitten to the girl next door.",
+    "target_ru": "сорвиголова",
+    "target_en": "tear-away",
+    "gloss_ru": "сорвиголова",
+    "pronunciation": "тэар-эвэй"
+  },
+  {
+    "ru": "Трезвенник заказал чай в пабе и выиграл спор, когда все остальные забыли правила игры.",
+    "en": "The teetotaller ordered tea in the pub and won the argument when everyone else forgot the rules of the game.",
+    "target_ru": "трезвенник",
+    "target_en": "teetotaller",
+    "gloss_ru": "трезвенник",
+    "pronunciation": "ти-тоутэлэр"
+  },
+  {
+    "ru": "Подвыпивший скрипач играл у фонтана так нежно, что даже полицейский не захотел его прогонять.",
+    "en": "The tipsy violinist played by the fountain so tenderly that even the policeman did not want to move him on.",
+    "target_ru": "подвыпивший",
+    "target_en": "tipsy",
+    "gloss_ru": "подвыпивший",
+    "pronunciation": "типси"
+  },
+  {
+    "ru": "Хитрый вопрос в анкете заставил кандидатов признаться в том, чего они обычно не рассказывали.",
+    "en": "The tricky question in the form made candidates admit things they usually did not mention.",
+    "target_ru": "хитрый",
+    "target_en": "tricky",
+    "gloss_ru": "хитрый, коварный",
+    "pronunciation": "трики"
+  },
+  {
+    "ru": "Банальная фраза на открытке вдруг стала важной, когда её нашли в чемодане пропавшего отца.",
+    "en": "The trite phrase on the postcard suddenly became important when it was found in the missing father's suitcase.",
+    "target_ru": "банальная",
+    "target_en": "trite",
+    "gloss_ru": "банальный, избитый",
+    "pronunciation": "трайт"
+  },
+  {
+    "ru": "Правдивый мальчик рассказал о разбитом окне до того, как взрослые заметили осколки в траве.",
+    "en": "The truthful boy spoke about the broken window before the adults noticed the glass in the grass.",
+    "target_ru": "правдивый",
+    "target_en": "truthful",
+    "gloss_ru": "правдивый",
+    "pronunciation": "трусфул"
+  },
+  {
+    "ru": "Раскованный актёр вышел к зрителям в тапочках и за минуту превратил провал в овацию.",
+    "en": "The uninhibited actor walked onto the stage in slippers and turned a disaster into applause within a minute.",
+    "target_ru": "раскованный",
+    "target_en": "uninhibited",
+    "gloss_ru": "раскованный",
+    "pronunciation": "анинхибитэд"
+  },
+  {
+    "ru": "Неоправданный запрет на музыку сделал школьный праздник похожим на собрание жильцов.",
+    "en": "The unjustified ban on music made the school celebration feel like a residents' meeting.",
+    "target_ru": "неоправданный",
+    "target_en": "unjustified",
+    "gloss_ru": "неоправданный",
+    "pronunciation": "анджастифайд"
+  },
+  {
+    "ru": "Непредвзятый судья выслушал обе семьи, хотя одна из них уже была уверена в поражении.",
+    "en": "The unprejudiced judge listened to both families, although one of them was already sure it had lost.",
+    "target_ru": "непредвзятый",
+    "target_en": "unprejudiced",
+    "gloss_ru": "непредвзятый, беспристрастный",
+    "pronunciation": "анпрэджудист"
+  },
+  {
+    "ru": "Недобросовестный агент продал дом с видом на море, забыв сказать, что море видно только с крыши.",
+    "en": "The unscrupulous agent sold the house with a sea view, forgetting to say the sea was visible only from the roof.",
+    "target_ru": "недобросовестный",
+    "target_en": "unscrupulous",
+    "gloss_ru": "недобросовестный, бессовестный",
+    "pronunciation": "анскрупьюлэс"
+  },
+  {
+    "ru": "Не поддерживающий отец молча вышел из зала, когда дочь получила свою первую театральную роль.",
+    "en": "The unsupportive father silently left the hall when his daughter received her first theatre role.",
+    "target_ru": "не поддерживающий",
+    "target_en": "unsupportive",
+    "gloss_ru": "не поддерживающий",
+    "pronunciation": "ансапортив"
+  },
+  {
+    "ru": "Непоколебимая верность старого слуги оказалась сильнее страха перед новым хозяином замка.",
+    "en": "The old servant's unswerving loyalty proved stronger than his fear of the castle's new master.",
+    "target_ru": "непоколебимая верность",
+    "target_en": "unswerving loyalty",
+    "gloss_ru": "непоколебимая верность",
+    "pronunciation": "ансвёрвинг лоялти"
+  },
+  {
+    "ru": "Лживый свидетель говорил уверенно, но его руки дрожали каждый раз, когда судья смотрел на часы.",
+    "en": "The untruthful witness spoke confidently, but his hands shook whenever the judge looked at the clock.",
+    "target_ru": "лживый",
+    "target_en": "untruthful",
+    "gloss_ru": "лживый",
+    "pronunciation": "антрусфул"
+  },
+  {
+    "ru": "Вульгарный анекдот испортил тост, который до этого звучал почти трогательно.",
+    "en": "The vulgar joke ruined the toast, which had sounded almost touching until then.",
+    "target_ru": "вульгарный",
+    "target_en": "vulgar",
+    "gloss_ru": "вульгарный, пошлый",
+    "pronunciation": "валгэр"
+  },
+  {
+    "ru": "Уязвимый подросток смеялся громче всех, чтобы никто не догадался, как сильно он боится нового класса.",
+    "en": "The vulnerable teenager laughed louder than everyone else so nobody would guess how afraid he was of the new class.",
+    "target_ru": "уязвимый",
+    "target_en": "vulnerable",
+    "gloss_ru": "уязвимый",
+    "pronunciation": "валнэрэбл"
+  },
+  {
+    "ru": "На балу серая мышка стояла у окна, пока незнакомец не попросил её показать дорогу к саду.",
+    "en": "At the ball, the wallflower stood by the window until a stranger asked her to show him the way to the garden.",
+    "target_ru": "серая мышка",
+    "target_en": "wallflower",
+    "gloss_ru": "\"серая мышка\", человек, стоящий в стороне на вечеринке",
+    "pronunciation": "волфлауэр"
+  },
+  {
+    "ru": "Этот зануда испортил пикник рассказом о клещах, налогах и неправильной форме бутербродов.",
+    "en": "That wet blanket ruined the picnic with a speech about ticks, taxes, and the incorrect shape of sandwiches.",
+    "target_ru": "зануда",
+    "target_en": "wet blanket",
+    "gloss_ru": "зануда, портящий всем настроение",
+    "pronunciation": "вэт блэнкит"
+  },
+  {
+    "ru": "Проснувшийся после операции Генри сразу спросил, кто выиграл шахматную партию у его кровати.",
+    "en": "Wide-awake after the operation, Henry immediately asked who had won the chess game beside his bed.",
+    "target_ru": "проснувшийся",
+    "target_en": "wide-awake",
+    "gloss_ru": "бодрствующий, проснувшийся",
+    "pronunciation": "вайд-эвэйк"
+  },
+  {
+    "ru": "Сила воли помогла Саре не открыть последнее письмо, хотя оно лежало на столе весь вечер.",
+    "en": "Will power helped Sarah not open the last letter, although it lay on the table all evening.",
+    "target_ru": "сила воли",
+    "target_en": "will power",
+    "gloss_ru": "сила воли",
+    "pronunciation": "вил пауэр"
+  },
+  {
+    "ru": "Этот болтун обещал рассказать короткую историю, но через час все уже знали биографию его попугая.",
+    "en": "The windbag promised to tell a short story, but an hour later everyone knew his parrot's biography.",
+    "target_ru": "болтун",
+    "target_en": "windbag",
+    "gloss_ru": "болтун",
+    "pronunciation": "виндбэг"
+  },
+  {
+    "ru": "У моста сидел алкоголик и кормил голубей так бережно, будто они были его последней семьёй.",
+    "en": "A wino sat by the bridge and fed pigeons so gently, as if they were his last family.",
+    "target_ru": "алкоголик",
+    "target_en": "wino",
+    "gloss_ru": "пьяница, алкоголик",
+    "pronunciation": "вайноу"
+  },
+  {
+    "ru": "Случайный знакомый из поезда спустя пять лет оказался врачом, который спас жизнь её брату.",
+    "en": "A casual acquaintance from the train turned out, five years later, to be the doctor who saved her brother's life.",
+    "target_ru": "случайный знакомый",
+    "target_en": "casual acquaintance",
+    "gloss_ru": "случайный знакомый",
+    "pronunciation": "кэжуал эквэйнтэнс"
+  },
+  {
+    "ru": "Обязательный ужин с родственниками превратился в расследование, когда пропала старинная брошь.",
+    "en": "The obligatory dinner with relatives turned into an investigation when an antique brooch disappeared.",
+    "target_ru": "обязательный",
+    "target_en": "obligatory",
+    "gloss_ru": "обязательный",
+    "pronunciation": "облигатори"
+  },
+  {
+    "ru": "Их характеры были несовместимы: он собирал часы, а она опаздывала даже на собственные сны.",
+    "en": "Their personalities were incompatible: he collected clocks, while she was late even for her own dreams.",
+    "target_ru": "несовместимы",
+    "target_en": "incompatible",
+    "gloss_ru": "несовместимый",
+    "pronunciation": "инкомпэтибл"
+  },
+  {
+    "ru": "Зрелый ответ сына удивил отца сильнее, чем разбитая машина во дворе.",
+    "en": "His son's mature answer surprised the father more than the smashed car in the yard.",
+    "target_ru": "зрелый",
+    "target_en": "mature",
+    "gloss_ru": "зрелый",
+    "pronunciation": "мэчур"
+  },
+  {
+    "ru": "Бесцельная прогулка привела Марка к книжной лавке, где он нашёл дневник с собственной фамилией на обложке.",
+    "en": "An aimless walk led Mark to a bookshop where he found a diary with his own surname on the cover.",
+    "target_ru": "бесцельная",
+    "target_en": "aimless",
+    "gloss_ru": "бесцельный",
+    "pronunciation": "эймлэс"
+  },
+  {
+    "ru": "Анонимное письмо пахло дымом и лавандой, поэтому детектив сразу понял, что автор хотел быть найденным.",
+    "en": "The anonymous letter smelled of smoke and lavender, so the detective immediately knew the writer wanted to be found.",
+    "target_ru": "анонимное",
+    "target_en": "anonymous",
+    "gloss_ru": "анонимный",
+    "pronunciation": "энонимэс"
+  },
+  {
+    "ru": "Авторитетный голос профессора дрогнул только один раз, когда студент спросил о пропавшем архиве.",
+    "en": "The professor's authoritative voice trembled only once, when a student asked about the missing archive.",
+    "target_ru": "авторитетный",
+    "target_en": "authoritative",
+    "gloss_ru": "авторитетный",
+    "pronunciation": "эсоритэтив"
+  },
+  {
+    "ru": "Небрежный костюм адвоката обманул всех: его заключительная речь оказалась безупречной.",
+    "en": "The lawyer's casual suit fooled everyone; his closing speech turned out to be flawless.",
+    "target_ru": "небрежный",
+    "target_en": "casual",
+    "gloss_ru": "повседневный, небрежный",
+    "pronunciation": "кэжуал"
+  },
+  {
+    "ru": "Их планы были совместимы только на бумаге, а в реальной жизни требовали разных городов и разных будущих.",
+    "en": "Their plans were compatible only on paper; in real life, they required different cities and different futures.",
+    "target_ru": "совместимы",
+    "target_en": "compatible",
+    "gloss_ru": "совместимый",
+    "pronunciation": "компэтибл"
+  },
+  {
+    "ru": "Сбитый с толку официант принёс свечи к столу, где люди как раз объявляли о разводе.",
+    "en": "The confused waiter brought candles to the table where the couple were just announcing their divorce.",
+    "target_ru": "сбитый с толку",
+    "target_en": "confused",
+    "gloss_ru": "сбитый с толку",
+    "pronunciation": "конфьюзд"
+  },
+  {
+    "ru": "Критикующий тон рецензента был таким холодным, что молодой поэт неделю не открывал почту.",
+    "en": "The reviewer's critical tone was so cold that the young poet did not open his mail for a week.",
+    "target_ru": "критикующий",
+    "target_en": "critical",
+    "gloss_ru": "критикующий",
+    "pronunciation": "критикал"
+  },
+  {
+    "ru": "Старомодное платье казалось неопрятным, пока бабушка не рассказала, что в нём пережила эвакуацию.",
+    "en": "The dowdy dress looked untidy until Grandmother explained that she had survived the evacuation in it.",
+    "target_ru": "старомодное",
+    "target_en": "dowdy",
+    "gloss_ru": "старомодный, неопрятный",
+    "pronunciation": "дауди"
+  },
+  {
+    "ru": "В детстве Эмма была настоящей девочкой-сорванцом и однажды забралась на крышу школы ради потерянного воздушного змея.",
+    "en": "As a child, Emma was a real tomboy and once climbed onto the school roof to rescue a lost kite.",
+    "target_ru": "девочкой-сорванцом",
+    "target_en": "tomboy",
+    "gloss_ru": "девочка-сорванец",
+    "pronunciation": "томбой"
+  },
+  {
+    "ru": "Случайный знакомый из самолёта спустя два года неожиданно прислал Луке приглашение на свадьбу в Неаполе.",
+    "en": "An acquaintance from the plane unexpectedly sent Luca an invitation to a wedding in Naples two years later.",
+    "target_ru": "знакомый",
+    "target_en": "acquaintance",
+    "gloss_ru": "знакомый",
+    "pronunciation": "эквэйнтэнс"
+  },
+  {
+    "ru": "Старый противник пожал руку Майклу так спокойно, будто между ними никогда не было судебного процесса.",
+    "en": "The old adversary shook Michael's hand so calmly as if there had never been a lawsuit between them.",
+    "target_ru": "противник",
+    "target_en": "adversary",
+    "gloss_ru": "противник, враг",
+    "pronunciation": "эдвэрсэри"
+  },
+  {
+    "ru": "В ту ночь союзники встретились в пустом кафе у вокзала и говорили шёпотом до самого рассвета.",
+    "en": "That night, the allies met in an empty café near the station and whispered until sunrise.",
+    "target_ru": "союзники",
+    "target_en": "allies",
+    "gloss_ru": "союзники",
+    "pronunciation": "элайз"
+  },
+  {
+    "ru": "Новый партнёр оказался единственным человеком, который не испугался рискнуть вместе с Софией.",
+    "en": "The new associate turned out to be the only person willing to take the risk with Sophia.",
+    "target_ru": "партнёр",
+    "target_en": "associate",
+    "gloss_ru": "партнер, коллега",
+    "pronunciation": "эсоусиэйт"
+  },
+  {
+    "ru": "После истории с наследством братья были в плохих отношениях и разговаривали только через адвокатов.",
+    "en": "After the inheritance dispute, the brothers were on bad terms with each other and spoke only through lawyers.",
+    "target_ru": "в плохих отношениях",
+    "target_en": "be on bad terms with",
+    "gloss_ru": "быть в плохих отношениях",
+    "pronunciation": "би он бэд тёрмз виз"
+  },
+  {
+    "ru": "Когда Ник предал команду перед финалом, в раздевалке наступила такая тишина, что слышно было дождь за окнами.",
+    "en": "When Nick chose to betray the team before the final, the locker room became so silent that the rain outside could be heard.",
+    "target_ru": "предал",
+    "target_en": "betray",
+    "gloss_ru": "предавать",
+    "pronunciation": "битрэй"
+  },
+  {
+    "ru": "Две компании были заклятыми врагами с девяностых, но их дети неожиданно начали встречаться.",
+    "en": "The two companies had been bitter rivals since the nineties, but their children unexpectedly started dating.",
+    "target_ru": "заклятыми врагами",
+    "target_en": "bitter rivals",
+    "gloss_ru": "заклятые враги",
+    "pronunciation": "битэр райвэлз"
+  },
+  {
+    "ru": "Марк вырос в неполной семье и до сих пор хранит записки, которые отец оставлял ему перед ночными сменами.",
+    "en": "Mark grew up in a broken home and still keeps the notes his father left before night shifts.",
+    "target_ru": "неполной семье",
+    "target_en": "broken home",
+    "gloss_ru": "неполная семья",
+    "pronunciation": "броукэн хоум"
+  },
+  {
+    "ru": "Их отношения были неровными: после каждой красивой недели обязательно случалась громкая ссора.",
+    "en": "Their relationship was bumpy: every wonderful week was followed by a loud argument.",
+    "target_ru": "неровными",
+    "target_en": "bumpy relationship",
+    "gloss_ru": "неровные отношения",
+    "pronunciation": "бампи рилейшншип"
+  },
+  {
+    "ru": "Коллега тихо оставил на столе кофе и ушёл, понимая, что Эми сейчас лучше не задавать вопросов.",
+    "en": "The colleague quietly left coffee on the desk and walked away, knowing Amy did not want questions right now.",
+    "target_ru": "коллега",
+    "target_en": "colleague",
+    "gloss_ru": "коллега",
+    "pronunciation": "колиг"
+  },
+  {
+    "ru": "Старый компаньон сопровождал профессора во всех экспедициях, даже когда у них заканчивались деньги и еда.",
+    "en": "The old companion followed the professor on every expedition, even when they ran out of money and food.",
+    "target_ru": "компаньон",
+    "target_en": "companion",
+    "gloss_ru": "компаньон",
+    "pronunciation": "компэньон"
+  },
+  {
+    "ru": "После похорон именно Сара стала его доверенным лицом и знала о нём больше, чем вся семья.",
+    "en": "After the funeral, Sarah became his confidant and knew more about him than the entire family.",
+    "target_ru": "доверенным лицом",
+    "target_en": "confidant",
+    "gloss_ru": "доверенное лицо",
+    "pronunciation": "конфидант"
+  },
+  {
+    "ru": "В университете Даниэля называли Дон Жуаном, потому что каждую неделю его видели с новой девушкой.",
+    "en": "At university, Daniel was called a Don Juan because he was seen with a different girl every week.",
+    "target_ru": "Дон Жуаном",
+    "target_en": "Don Juan",
+    "gloss_ru": "Дон Жуан",
+    "pronunciation": "дон хуан"
+  },
+  {
+    "ru": "После переезда в разные страны друзья начали постепенно отдаляться, хотя сначала обещали созваниваться каждый день.",
+    "en": "After moving to different countries, the friends slowly began to drift apart, although they had promised to call each other daily.",
+    "target_ru": "отдаляться",
+    "target_en": "drift apart",
+    "gloss_ru": "расходиться, отдаляться",
+    "pronunciation": "дрифт эпарт"
+  },
+  {
+    "ru": "Ненадёжный друг исчез именно в тот момент, когда Оливеру понадобилась помощь с долгами.",
+    "en": "The fair-weather friend disappeared at the exact moment Oliver needed help with his debts.",
+    "target_ru": "ненадёжный друг",
+    "target_en": "fair-weather friend",
+    "gloss_ru": "ненадежный друг",
+    "pronunciation": "фэа-вэзэр фрэнд"
+  },
+  {
+    "ru": "Семейная вражда длилась так долго, что соседи уже не помнили, с чего всё началось.",
+    "en": "The family feud lasted so long that even the neighbors no longer remembered how it had started.",
+    "target_ru": "семейная вражда",
+    "target_en": "family feud",
+    "gloss_ru": "семейная вражда",
+    "pronunciation": "фэмили фьюд"
+  },
+  {
+    "ru": "В маленьком баре у моря появилась роковая женщина в красном пальто, и разговоры сразу стихли.",
+    "en": "A femme fatale in a red coat entered the small seaside bar, and the conversations instantly faded away.",
+    "target_ru": "роковая женщина",
+    "target_en": "femme fatale",
+    "gloss_ru": "роковая женщина",
+    "pronunciation": "фэм фаталь"
+  },
+  {
+    "ru": "Лёгкий флирт за ужином неожиданно закончился совместной поездкой в Исландию через месяц.",
+    "en": "A light flirtation over dinner unexpectedly ended with a trip to Iceland a month later.",
+    "target_ru": "флирт",
+    "target_en": "flirtation",
+    "gloss_ru": "флирт",
+    "pronunciation": "флёртэйшн"
+  },
+  {
+    "ru": "Старый враг стоял у двери больницы с букетом, и никто не понимал, зачем он пришёл.",
+    "en": "The old foe stood outside the hospital with flowers, and nobody understood why he had come.",
+    "target_ru": "враг",
+    "target_en": "foe",
+    "gloss_ru": "враг, недруг",
+    "pronunciation": "фоу"
+  },
+  {
+    "ru": "Между ними были настоящие недоразумения, а не холодность, как сначала решила Лора.",
+    "en": "There were genuine misunderstandings between them, not coldness as Laura had first assumed.",
+    "target_ru": "настоящие недоразумения",
+    "target_en": "genuine misunderstandings",
+    "gloss_ru": "настоящие недоразумения",
+    "pronunciation": "джэньюин мисандэрстэндингз"
+  },
+  {
+    "ru": "Поклонение герою началось после той самой статьи, где пилота назвали спасителем города.",
+    "en": "The hero-worship started after the article that called the pilot the savior of the city.",
+    "target_ru": "поклонение герою",
+    "target_en": "hero-worship",
+    "gloss_ru": "поклонение герою",
+    "pronunciation": "хиро уоршип"
+  },
+  {
+    "ru": "Маленькая Нора боготворила старшего брата и даже пыталась копировать его походку.",
+    "en": "Little Nora used to idolize her older brother and even tried to copy the way he walked.",
+    "target_ru": "боготворила",
+    "target_en": "idolize",
+    "gloss_ru": "боготворить",
+    "pronunciation": "айдэлайз"
+  },
+  {
+    "ru": "Безрассудное увлечение молодым художником прошло только тогда, когда Эмма увидела его настоящую жизнь.",
+    "en": "Emma's infatuation with the young painter disappeared only after she saw his real life.",
+    "target_ru": "безрассудное увлечение",
+    "target_en": "infatuation",
+    "gloss_ru": "безрассудное увлечение",
+    "pronunciation": "инфэчуэйшн"
+  },
+  {
+    "ru": "Непреодолимое влечение к приключениям однажды привело Генри на грузовой корабль вместо самолёта домой.",
+    "en": "An irresistible lure of adventure once led Henry onto a cargo ship instead of a flight home.",
+    "target_ru": "непреодолимое влечение",
+    "target_en": "irresible lure",
+    "gloss_ru": "непреодолимое влечение",
+    "pronunciation": "иризистэбл льюэ"
+  },
+  {
+    "ru": "Старый приятель позвонил в три часа ночи и сразу понял по голосу, что с Лукасом что‑то случилось.",
+    "en": "An old mate called at three in the morning and immediately understood from Lucas's voice that something was wrong.",
+    "target_ru": "приятель",
+    "target_en": "mate",
+    "gloss_ru": "приятель, товарищ",
+    "pronunciation": "мэйт"
+  },
+  {
+    "ru": "Их взаимное молчание за завтраком говорило о проблемах больше, чем вчерашняя ссора.",
+    "en": "Their mutual silence at breakfast said more about the problem than yesterday's argument.",
+    "target_ru": "взаимное",
+    "target_en": "mutual",
+    "gloss_ru": "взаимный",
+    "pronunciation": "мьючуэл"
+  },
+  {
+    "ru": "Естественно выглядящий макияж занял у актрисы почти два часа перед интервью.",
+    "en": "The naturally looking makeup took the actress almost two hours before the interview.",
+    "target_ru": "естественно выглядящий",
+    "target_en": "naturally looking",
+    "gloss_ru": "естественно выглядящий",
+    "pronunciation": "нэчуралли лукинг"
+  },
+  {
+    "ru": "Старая любовь неожиданно написала Томасу именно в тот вечер, когда он собирался сделать предложение другой женщине.",
+    "en": "An old flame texted Thomas on the exact evening he was planning to propose to another woman.",
+    "target_ru": "старая любовь",
+    "target_en": "old flame",
+    "gloss_ru": "старая любовь",
+    "pronunciation": "оулд флэйм"
+  },
+  {
+    "ru": "Их дружба стала односторонней: сообщения отправлял только Майкл, а ответы приходили всё реже.",
+    "en": "Their friendship became one-sided: only Michael kept sending messages, and the replies came less and less often.",
+    "target_ru": "односторонней",
+    "target_en": "one-sided",
+    "gloss_ru": "односторонний",
+    "pronunciation": "уан сайдид"
+  },
+  {
+    "ru": "Оппонент улыбался слишком спокойно, и это пугало Карлу сильнее любых угроз.",
+    "en": "The opponent smiled too calmly, and that frightened Carla more than any threat.",
+    "target_ru": "оппонент",
+    "target_en": "opponent",
+    "gloss_ru": "противник, оппонент",
+    "pronunciation": "эпоунонт"
+  },
+  {
+    "ru": "Партнёры молча подписали контракт, понимая, что после этой сделки дороги назад уже не будет.",
+    "en": "The partners signed the contract in silence, knowing there would be no way back after the deal.",
+    "target_ru": "партнёры",
+    "target_en": "partners",
+    "gloss_ru": "партнеры",
+    "pronunciation": "партнэрз"
+  },
+  {
+    "ru": "Друг по переписке из Японии присылал Софии открытки с зимними улицами Киото каждое Рождество.",
+    "en": "Sophia's pen-pal from Japan sent her postcards of snowy Kyoto streets every Christmas.",
+    "target_ru": "друг по переписке",
+    "target_en": "pen-pal",
+    "gloss_ru": "друг по переписке",
+    "pronunciation": "пэн-пэл"
+  },
+  {
+    "ru": "Их чувства были платоническими, но окружающие всё равно придумывали про них романы.",
+    "en": "Their relationship was platonic, but people around them still invented love stories about them.",
+    "target_ru": "платоническими",
+    "target_en": "platonic",
+    "gloss_ru": "платонический",
+    "pronunciation": "плэтоник"
+  },
+  {
+    "ru": "Соперник неожиданно помог Эрику подняться после падения прямо во время марафона.",
+    "en": "Eric's rival unexpectedly helped him stand up after he fell during the marathon.",
+    "target_ru": "соперник",
+    "target_en": "rival",
+    "gloss_ru": "соперник",
+    "pronunciation": "райвэл"
+  },
+  {
+    "ru": "Они никогда не сходились во взглядах на деньги, зато всегда одинаково любили море.",
+    "en": "They never saw eye to eye about money, but they always loved the sea in the same way.",
+    "target_ru": "сходились во взглядах",
+    "target_en": "see eye to eye",
+    "gloss_ru": "сходиться во взглядах",
+    "pronunciation": "си ай ту ай"
+  },
+  {
+    "ru": "После восьми лет вместе пара решила расстаться прямо перед переездом в новый город.",
+    "en": "After eight years together, the couple decided to split up just before moving to a new city.",
+    "target_ru": "расстаться",
+    "target_en": "split up",
+    "gloss_ru": "расставаться",
+    "pronunciation": "сплит ап"
+  },
+  {
+    "ru": "Во время скандала именно Сара оказалась самым верным союзником и отказалась уходить из офиса.",
+    "en": "During the scandal, Sarah proved to be the staunchest ally and refused to leave the office.",
+    "target_ru": "самым верным союзником",
+    "target_en": "staunchest ally",
+    "gloss_ru": "самый верный союзник",
+    "pronunciation": "стончэст элай"
+  },
+  {
+    "ru": "На свадьбе внезапно отключили свет, но гости продолжили танцевать под музыку из телефона.",
+    "en": "The wedding party suddenly lost electricity, but the guests kept dancing to music from a phone.",
+    "target_ru": "свадьбе",
+    "target_en": "wedding party",
+    "gloss_ru": "свадьба",
+    "pronunciation": "уэддинг парти"
+  },
+  {
+    "ru": "Подростковая преступность в этом районе выросла после закрытия единственного спортивного клуба.",
+    "en": "Juvenile delinquency in the area increased after the only sports club was closed.",
+    "target_ru": "подростковая преступность",
+    "target_en": "juvenile delinquency",
+    "gloss_ru": "подростковая преступность",
+    "pronunciation": "джувэнайл дилинквэнси"
+  },
+  {
+    "ru": "Его воспитание было строгим, поэтому даже сейчас он автоматически встаёт, когда в комнату входит пожилой человек.",
+    "en": "His upbringing was strict, so even now he automatically stands up when an elderly person enters the room.",
+    "target_ru": "воспитание",
+    "target_en": "upbringing",
+    "gloss_ru": "воспитание",
+    "pronunciation": "апбрингинг"
+  },
+  {
+    "ru": "Подростковый возраст Эммы прошёл в маленьком портовом городе, где все знали чужие секреты.",
+    "en": "Emma's adolescence passed in a small port town where everyone knew each other's secrets.",
+    "target_ru": "подростковый возраст",
+    "target_en": "adolescence",
+    "gloss_ru": "подростковый возраст",
+    "pronunciation": "эдэлесэнс"
+  },
+  {
+    "ru": "В его по‑детски искреннем смехе было что‑то такое, что заставляло даже строгих людей улыбаться.",
+    "en": "There was something childlike in his sincere laugh that made even strict people smile.",
+    "target_ru": "по‑детски",
+    "target_en": "childlike",
+    "gloss_ru": "детский, по-детски",
+    "pronunciation": "чайлдлайк"
+  },
+  {
+    "ru": "Журналисты обвинили директора в сокрытии документов после того, как архив внезапно исчез из офиса.",
+    "en": "Journalists accused the director of hiding documents after the archive suddenly disappeared from the office.",
+    "target_ru": "обвинили",
+    "target_en": "accuse of",
+    "gloss_ru": "обвинять",
+    "pronunciation": "экьюз ов"
+  },
+  {
+    "ru": "Во время лекции Эмма так эмоционально говорила о правах животных, что в зале впервые стало тихо.",
+    "en": "During the lecture, Emma spoke so passionately about animal rights that the hall finally fell silent.",
+    "target_ru": "правах животных",
+    "target_en": "animal rights",
+    "gloss_ru": "права животных",
+    "pronunciation": "энимэл райтс"
+  },
+  {
+    "ru": "Мэр решил запретить ночные гонки после аварии у старого моста.",
+    "en": "The mayor decided to ban street racing after the accident near the old bridge.",
+    "target_ru": "запретить",
+    "target_en": "ban",
+    "gloss_ru": "запрещать",
+    "pronunciation": "бэн"
+  },
+  {
+    "ru": "Запрещённая книга лежала прямо у входа в библиотеку, словно кто‑то специально хотел её заметить.",
+    "en": "The banned book lay right by the library entrance, as if someone wanted people to notice it.",
+    "target_ru": "запрещённая",
+    "target_en": "banned",
+    "gloss_ru": "запрещенный",
+    "pronunciation": "бэнд"
+  },
+  {
+    "ru": "Варварский поступок солдат потряс даже тех, кто давно привык к плохим новостям.",
+    "en": "The barbaric actions of the soldiers shocked even those who had grown used to terrible news.",
+    "target_ru": "варварский",
+    "target_en": "barbaric",
+    "gloss_ru": "варварский",
+    "pronunciation": "барбэрик"
+  },
+  {
+    "ru": "Взятка лежала в конверте между страницами старого туристического путеводителя.",
+    "en": "The bribe was hidden inside an envelope between the pages of an old travel guide.",
+    "target_ru": "взятка",
+    "target_en": "bribe",
+    "gloss_ru": "взятка",
+    "pronunciation": "брайб"
+  },
+  {
+    "ru": "Репортёр пообещал сделать эту историю достоянием гласности, даже если ему придётся уехать из города.",
+    "en": "The reporter promised to bring the story into the open even if he had to leave the city afterward.",
+    "target_ru": "сделать достоянием гласности",
+    "target_en": "bring into the open",
+    "gloss_ru": "сделать достоянием гласности",
+    "pronunciation": "бринг инту зи оупэн"
+  },
+  {
+    "ru": "Следователь собирался обвинить владельца галереи в подделке документов уже на следующей неделе.",
+    "en": "The investigator was going to charge the gallery owner with document forgery the following week.",
+    "target_ru": "обвинить",
+    "target_en": "charge with",
+    "gloss_ru": "обвинять",
+    "pronunciation": "чардж виз"
+  },
+  {
+    "ru": "Телесное наказание в этой школе отменили только после громкого скандала с родителями.",
+    "en": "Corporal punishment at the school was abolished only after a major scandal involving parents.",
+    "target_ru": "телесное наказание",
+    "target_en": "corporal punishment",
+    "gloss_ru": "телесное наказание",
+    "pronunciation": "корпэрэл панишмэнт"
+  },
+  {
+    "ru": "Развращающее влияние популярного блогера обсуждали даже на семейном ужине у бабушки.",
+    "en": "The corrupting influence of the popular blogger was discussed even during Grandma's family dinner.",
+    "target_ru": "развращающее",
+    "target_en": "corrupting",
+    "gloss_ru": "развращающий",
+    "pronunciation": "корраптинг"
+  },
+  {
+    "ru": "Подделка выглядела настолько убедительно, что музейные сотрудники спорили до самого утра.",
+    "en": "The counterfeit looked so convincing that the museum staff argued until morning.",
+    "target_ru": "подделка",
+    "target_en": "counterfeit",
+    "gloss_ru": "подделка",
+    "pronunciation": "каунтэрфит"
+  },
+  {
+    "ru": "Старый полицейский любил повторять, что преступление не окупается, хотя сам выглядел очень уставшим человеком.",
+    "en": "The old policeman liked to repeat that crime doesn't pay, although he himself looked deeply exhausted.",
+    "target_ru": "преступление не окупается",
+    "target_en": "crime doesn't pay",
+    "gloss_ru": "преступление не окупается",
+    "pronunciation": "крайм дазнт пэй"
+  },
+  {
+    "ru": "Смертная казнь снова стала главной темой вечерних дебатов на телевидении.",
+    "en": "The death penalty became the main topic of the evening television debate again.",
+    "target_ru": "смертная казнь",
+    "target_en": "death penalty",
+    "gloss_ru": "смертная казнь",
+    "pronunciation": "дэс пэнэлти"
+  },
+  {
+    "ru": "Такое отношение унижает людей сильнее, чем открытая грубость.",
+    "en": "That kind of treatment degrades people more than open rudeness.",
+    "target_ru": "унижает",
+    "target_en": "degrades",
+    "gloss_ru": "унижает",
+    "pronunciation": "дигрэйдз"
+  },
+  {
+    "ru": "Новый закон может лишить сотни семей возможности жить рядом с морем.",
+    "en": "The new law may deprive hundreds of families of the chance to live near the sea.",
+    "target_ru": "лишить",
+    "target_en": "deprive of",
+    "gloss_ru": "лишать",
+    "pronunciation": "дипрайв ов"
+  },
+  {
+    "ru": "Высокие штрафы стали единственным сдерживающим фактором для ночных гонщиков.",
+    "en": "High fines became the only real deterrent for illegal street racers.",
+    "target_ru": "сдерживающим фактором",
+    "target_en": "deterrent",
+    "gloss_ru": "сдерживающий фактор",
+    "pronunciation": "дитэрэнт"
+  },
+  {
+    "ru": "В старом романе зло всегда приходило тихо, ещё до первых тревожных новостей.",
+    "en": "In the old novel, evil always arrived quietly before the first alarming news.",
+    "target_ru": "зло",
+    "target_en": "evil",
+    "gloss_ru": "зло",
+    "pronunciation": "ивэл"
+  },
+  {
+    "ru": "Если Алекс нарушит условия сделки, он утратит право пользоваться семейным домом.",
+    "en": "If Alex breaks the terms of the agreement, he will forfeit the right to use the family house.",
+    "target_ru": "утратит",
+    "target_en": "forfeit",
+    "gloss_ru": "лишаться, утрачивать",
+    "pronunciation": "форфит"
+  },
+  {
+    "ru": "Компания продолжала нарушать права работников, несмотря на предупреждения суда.",
+    "en": "The company kept trying to infringe workers' rights despite the court warnings.",
+    "target_ru": "нарушать",
+    "target_en": "infringe",
+    "gloss_ru": "нарушать (права)",
+    "pronunciation": "инфриндж"
+  },
+  {
+    "ru": "Законопослушный сосед неожиданно оказался человеком, который годами скрывал чужие письма.",
+    "en": "The law-abiding neighbor unexpectedly turned out to be someone who had hidden other people's letters for years.",
+    "target_ru": "законопослушный",
+    "target_en": "law-abiding",
+    "gloss_ru": "законопослушный",
+    "pronunciation": "лоу эбайдинг"
+  },
+  {
+    "ru": "Старые монеты больше не считались законным платёжным средством, но коллекционеры всё равно охотились за ними.",
+    "en": "The old coins were no longer considered legal tender, but collectors still searched for them.",
+    "target_ru": "законным платёжным средством",
+    "target_en": "legal tender",
+    "gloss_ru": "законное платежное средство",
+    "pronunciation": "лигэл тэндэр"
+  },
+  {
+    "ru": "Его проступки в подростковом возрасте неожиданно всплыли во время предвыборной кампании.",
+    "en": "His misdeeds from adolescence unexpectedly surfaced during the election campaign.",
+    "target_ru": "проступки",
+    "target_en": "misdeeds",
+    "gloss_ru": "проступки",
+    "pronunciation": "мисдидз"
+  },
+  {
+    "ru": "Моральные стандарты в их семье были настолько строгими, что дети боялись опаздывать даже на ужин.",
+    "en": "The moral standards in their family were so strict that the children were afraid of being late even for dinner.",
+    "target_ru": "моральные стандарты",
+    "target_en": "moral standards",
+    "gloss_ru": "моральные стандарты",
+    "pronunciation": "морэл стэндэрдз"
+  },
+  {
+    "ru": "Небольшое правонарушение превратилось в серьёзную проблему после появления журналистов.",
+    "en": "The minor offence turned into a serious problem after journalists arrived.",
+    "target_ru": "правонарушение",
+    "target_en": "offence",
+    "gloss_ru": "правонарушение, обида",
+    "pronunciation": "офэнс"
+  },
+  {
+    "ru": "Правонарушитель сидел у окна полицейского участка и всё время смотрел на дождь.",
+    "en": "The offender sat by the police station window and kept watching the rain.",
+    "target_ru": "правонарушитель",
+    "target_en": "offender",
+    "gloss_ru": "правонарушитель",
+    "pronunciation": "офэндэр"
+  },
+  {
+    "ru": "Политический скандал разгорелся после публикации старых фотографий министра.",
+    "en": "The political scandal erupted after old photographs of the minister were published.",
+    "target_ru": "политический",
+    "target_en": "political",
+    "gloss_ru": "политический",
+    "pronunciation": "политикэл"
+  },
+  {
+    "ru": "Политик улыбался слишком уверенно, словно заранее знал результаты голосования.",
+    "en": "The politician smiled too confidently, as if he already knew the voting results.",
+    "target_ru": "политик",
+    "target_en": "politician",
+    "gloss_ru": "политик",
+    "pronunciation": "политишн"
+  },
+  {
+    "ru": "Политика разрушила их дружбу быстрее, чем расстояние и годы молчания.",
+    "en": "Politics destroyed their friendship faster than distance and years of silence.",
+    "target_ru": "политика",
+    "target_en": "politics",
+    "gloss_ru": "политика",
+    "pronunciation": "политикс"
+  },
+  {
+    "ru": "Городские власти решили запретить костры на пляже после сильного пожара в июле.",
+    "en": "The city authorities decided to prohibit fires on the beach after the major fire in July.",
+    "target_ru": "запретить",
+    "target_en": "prohibit",
+    "gloss_ru": "запрещать",
+    "pronunciation": "прохибит"
+  },
+  {
+    "ru": "Реформа системы образования вызвала споры даже среди преподавателей, которые обычно соглашались друг с другом.",
+    "en": "The reform of the education system caused arguments even among teachers who normally agreed with each other.",
+    "target_ru": "реформа",
+    "target_en": "reform",
+    "gloss_ru": "реформа, реформировать",
+    "pronunciation": "риформ"
+  },
+  {
+    "ru": "Её отказ подписывать документы удивил всех, кроме старого адвоката у двери.",
+    "en": "Her refusal to sign the documents surprised everyone except the old lawyer by the door.",
+    "target_ru": "отказ",
+    "target_en": "refusal",
+    "gloss_ru": "отказ",
+    "pronunciation": "рифьюзэл"
+  },
+  {
+    "ru": "Постоянная муштра в академии постепенно превратила весёлых студентов в молчаливых людей.",
+    "en": "The constant regimentation at the academy gradually turned cheerful students into silent people.",
+    "target_ru": "муштра",
+    "target_en": "regimentation",
+    "gloss_ru": "регламентация, муштра",
+    "pronunciation": "рэджимэнтэйшн"
+  },
+  {
+    "ru": "Неприятие нового директора стало заметно уже после его первой речи перед коллективом.",
+    "en": "The rejection of the new director became obvious right after his first speech to the staff.",
+    "target_ru": "неприятие",
+    "target_en": "rejection",
+    "gloss_ru": "отказ, неприятие",
+    "pronunciation": "риджекшн"
+  },
+  {
+    "ru": "Представительство маленьких городов в парламенте оказалось намного слабее, чем ожидали жители.",
+    "en": "The representation of small towns in parliament turned out to be much weaker than the citizens had expected.",
+    "target_ru": "представительство",
+    "target_en": "representation",
+    "gloss_ru": "представительство",
+    "pronunciation": "рэпрэзэнтэйшн"
+  },
+  {
+    "ru": "Возмездие пришло неожиданно: человек, которого все боялись, однажды остался совершенно один.",
+    "en": "Retribution arrived unexpectedly: the man everyone feared suddenly found himself completely alone.",
+    "target_ru": "возмездие",
+    "target_en": "retribution",
+    "gloss_ru": "возмездие, кара",
+    "pronunciation": "рэтрибьюшн"
+  },
+  {
+    "ru": "Восстание началось после того, как солдаты отказались выполнять приказ командира.",
+    "en": "The revolt began after the soldiers refused to follow the commander's order.",
+    "target_ru": "восстание",
+    "target_en": "revolt",
+    "gloss_ru": "восстание, бунт, вызывать отвращение",
+    "pronunciation": "риволт"
+  },
+  {
+    "ru": "Каждое утро городской житель, ездящий на работу, проводил почти два часа в переполненной электричке.",
+    "en": "Every morning, the urban commuter spent nearly two hours on an overcrowded train.",
+    "target_ru": "городской житель, ездящий на работу",
+    "target_en": "urban commuter",
+    "gloss_ru": "городской житель, ездящий на работу",
+    "pronunciation": "ёрбэн кэмьютэр"
+  },
+  {
+    "ru": "Оценка нового сотрудника затянулась до вечера, потому что директор лично перечитывал все отзывы команды.",
+    "en": "The assessment of the new employee lasted until evening because the director personally reread every review from the team.",
+    "target_ru": "оценка",
+    "target_en": "assessment",
+    "gloss_ru": "оценка, аттестация",
+    "pronunciation": "эсэсмэнт"
+  },
+  {
+    "ru": "Молодой клерк в банке узнал старика из газет, но всё равно спокойно попросил его подождать своей очереди.",
+    "en": "The young clerk at the bank recognized the old man from newspapers but calmly asked him to wait for his turn anyway.",
+    "target_ru": "клерк",
+    "target_en": "clerk",
+    "gloss_ru": "клерк",
+    "pronunciation": "кла'рк"
+  },
+  {
+    "ru": "Обязательный экзамен по истории оказался сложнее, чем весь прошлый семестр вместе взятый.",
+    "en": "The compulsory history exam turned out to be harder than the entire previous semester combined.",
+    "target_ru": "обязательный",
+    "target_en": "compulsory",
+    "gloss_ru": "обязательный",
+    "pronunciation": "кэмпа'лсэри"
+  },
+  {
+    "ru": "Во время вечернего курса по фотографии Эмма впервые поняла, что хочет уехать из офиса навсегда.",
+    "en": "During the evening photography course, Emma realized for the first time that she wanted to leave office life forever.",
+    "target_ru": "курса",
+    "target_en": "course",
+    "gloss_ru": "курс",
+    "pronunciation": "ко'рс"
+  },
+  {
+    "ru": "Резюме Лукаса выглядело скромно, но именно оно заинтересовало самого требовательного инвестора.",
+    "en": "Lucas's CV looked modest, but it attracted the most demanding investor.",
+    "target_ru": "резюме",
+    "target_en": "CV, resume",
+    "gloss_ru": "резюме",
+    "pronunciation": "си-ви, рэзюмэй"
+  },
+  {
+    "ru": "Обязанность заботиться о младшем брате заставила Нору слишком рано повзрослеть.",
+    "en": "The duty of taking care of her younger brother made Nora grow up too early.",
+    "target_ru": "обязанность",
+    "target_en": "duty",
+    "gloss_ru": "обязанность",
+    "pronunciation": "дьюти"
+  },
+  {
+    "ru": "После нескольких часов усилий Томас всё-таки починил старое радио, которое отец собирался выбросить.",
+    "en": "After hours of effort, Thomas finally repaired the old radio his father had planned to throw away.",
+    "target_ru": "усилий",
+    "target_en": "effort",
+    "gloss_ru": "усилие",
+    "pronunciation": "эфэрт"
+  },
+  {
+    "ru": "Городская элита собралась в театре, даже не подозревая, что электричество отключат через десять минут.",
+    "en": "The city's elite gathered at the theatre without knowing the electricity would fail ten minutes later.",
+    "target_ru": "элита",
+    "target_en": "elite",
+    "gloss_ru": "элита",
+    "pronunciation": "элит"
+  },
+  {
+    "ru": "Работник склада заметил дым раньше остальных и успел вывести людей через запасной выход.",
+    "en": "The warehouse employee noticed the smoke before anyone else and managed to lead people out through the emergency exit.",
+    "target_ru": "работник",
+    "target_en": "employee",
+    "gloss_ru": "работник",
+    "pronunciation": "эмплойи"
+  },
+  {
+    "ru": "Майя пообещала выполнить просьбу дедушки, даже если ради этого придётся вернуться в родной город.",
+    "en": "Maya promised to fulfill her grandfather's request even if she had to return to her hometown.",
+    "target_ru": "выполнить",
+    "target_en": "fulfill",
+    "gloss_ru": "выполнять, исполнять",
+    "pronunciation": "фулфил"
+  },
+  {
+    "ru": "Выполнение старого обещания неожиданно оказалось важнее всех карьерных планов Алекса.",
+    "en": "The fulfillment of an old promise suddenly became more important to Alex than all his career plans.",
+    "target_ru": "выполнение",
+    "target_en": "fulfillment",
+    "gloss_ru": "выполнение, исполнение",
+    "pronunciation": "фулфилмэнт"
+  },
+  {
+    "ru": "После того как Сара окончила университет, она сразу уехала работать в маленький город у моря.",
+    "en": "After Sarah graduated from university, she immediately moved to a small seaside town for work.",
+    "target_ru": "окончила",
+    "target_en": "graduate from",
+    "gloss_ru": "окончить (учебное заведение)",
+    "pronunciation": "грэджуэйт фром"
+  },
+  {
+    "ru": "Лиам забыл сдать эссе вовремя и теперь сидел в пустой аудитории почти один.",
+    "en": "Liam forgot to hand in the essay on time and now sat almost alone in the empty classroom.",
+    "target_ru": "сдать",
+    "target_en": "hand in",
+    "gloss_ru": "сдавать (работу)",
+    "pronunciation": "хэнд ин"
+  },
+  {
+    "ru": "Инициатива молодой стажёрки спасла презентацию, когда проектор внезапно перестал работать.",
+    "en": "The initiative of the young intern saved the presentation when the projector suddenly stopped working.",
+    "target_ru": "инициатива",
+    "target_en": "initiative",
+    "gloss_ru": "инициатива",
+    "pronunciation": "инишэтив"
+  },
+  {
+    "ru": "Требования к работе были такими странными, будто компания искала одновременно пилота и поэта.",
+    "en": "The job requirements were so unusual that it sounded as if the company wanted both a pilot and a poet.",
+    "target_ru": "требования к работе",
+    "target_en": "job requirements",
+    "gloss_ru": "требования к работе",
+    "pronunciation": "джоб риквайэрмэнтс"
+  },
+  {
+    "ru": "Их миссия казалась простой только на бумаге, пока ночью не начался сильный шторм.",
+    "en": "Their mission looked simple only on paper until a violent storm began at night.",
+    "target_ru": "миссия",
+    "target_en": "mission",
+    "gloss_ru": "миссия, задание",
+    "pronunciation": "мишн"
+  },
+  {
+    "ru": "Главной целью экспедиции было найти старый маяк до наступления зимы.",
+    "en": "The main objective of the expedition was to find the old lighthouse before winter arrived.",
+    "target_ru": "целью",
+    "target_en": "objective",
+    "gloss_ru": "цель, задача",
+    "pronunciation": "обджектив"
+  },
+  {
+    "ru": "Настоящая цель поездки открылась только тогда, когда поезд уже пересёк границу.",
+    "en": "The real purpose of the journey became clear only after the train had crossed the border.",
+    "target_ru": "цель",
+    "target_en": "purpose",
+    "gloss_ru": "цель",
+    "pronunciation": "пёрпэс"
+  },
+  {
+    "ru": "Компания собиралась нанимать только опытных специалистов, но в итоге выбрала талантливых новичков.",
+    "en": "The company planned to recruit only experienced specialists but eventually chose talented beginners.",
+    "target_ru": "нанимать",
+    "target_en": "recruit",
+    "gloss_ru": "нанимать, вербовать",
+    "pronunciation": "рикрут"
+  },
+  {
+    "ru": "Эмма успела сдать документы за минуту до закрытия университета.",
+    "en": "Emma managed to submit the documents one minute before the university closed.",
+    "target_ru": "сдать",
+    "target_en": "submit, hand in",
+    "gloss_ru": "сдавать (документ)",
+    "pronunciation": "сабмит, хэнд ин"
+  },
+  {
+    "ru": "После учебного курса по первой помощи Томас уже не паниковал, когда кому‑то становилось плохо рядом с ним.",
+    "en": "After the training course in first aid, Thomas no longer panicked when someone felt sick nearby.",
+    "target_ru": "учебного курса",
+    "target_en": "training course",
+    "gloss_ru": "учебный курс",
+    "pronunciation": "трэнинг ко'рс"
+  },
+  {
+    "ru": "После повышения аренды Лиам больше не мог позволить себе маленькое кафе рядом с офисом.",
+    "en": "After the rent increase, Liam could no longer afford the small café near the office.",
+    "target_ru": "позволить себе",
+    "target_en": "afford",
+    "gloss_ru": "позволить себе",
+    "pronunciation": "эфо'рд"
+  },
+  {
+    "ru": "Старая виниловая пластинка оказалась такой выгодной сделкой, что Эмма весь вечер не выпускала её из рук.",
+    "en": "The old vinyl record turned out to be such a bargain that Emma could not stop smiling all evening.",
+    "target_ru": "выгодной сделкой",
+    "target_en": "bargain",
+    "gloss_ru": "выгодная сделка",
+    "pronunciation": "ба'ргэн"
+  },
+  {
+    "ru": "Томасу пришлось брать в долг деньги у соседа, чтобы успеть купить билет домой.",
+    "en": "Thomas had to borrow money from his neighbor to buy a ticket home in time.",
+    "target_ru": "брать в долг",
+    "target_en": "borrow",
+    "gloss_ru": "брать в долг",
+    "pronunciation": "бо'роу"
+  },
+  {
+    "ru": "К концу поездки друзья остались совсем без денег и ужинали только дешёвыми бутербродами.",
+    "en": "By the end of the trip, the friends were completely broke and survived on cheap sandwiches.",
+    "target_ru": "без денег",
+    "target_en": "broke",
+    "gloss_ru": "без денег",
+    "pronunciation": "броук"
+  },
+  {
+    "ru": "Теперь Майя может позволить себе небольшую квартиру у моря, о которой мечтала ещё в университете.",
+    "en": "Now Maya can afford a small apartment by the sea that she had dreamed about since university.",
+    "target_ru": "может позволить себе",
+    "target_en": "can afford",
+    "gloss_ru": "могу позволить",
+    "pronunciation": "кэн эфо'рд"
+  },
+  {
+    "ru": "Для миллионера эта сумма была просто мелочью, но для официанта она означала целую неделю работы.",
+    "en": "For the millionaire, the amount was chickenfeed, but for the waiter it meant an entire week of work.",
+    "target_ru": "мелочью",
+    "target_en": "chickenfeed",
+    "gloss_ru": "мелочь, гроши",
+    "pronunciation": "чикенфид"
+  },
+  {
+    "ru": "После переезда в Лондон стоимость жизни удивила даже тех, кто заранее всё просчитал.",
+    "en": "After moving to London, the cost of living shocked even those who had carefully planned everything.",
+    "target_ru": "стоимость жизни",
+    "target_en": "cost of living",
+    "gloss_ru": "стоимость жизни",
+    "pronunciation": "кост ов ливинг"
+  },
+  {
+    "ru": "На корешке чека Томас заметил номер, который позже помог полиции найти мошенника.",
+    "en": "On the counterfoil, Thomas noticed a number that later helped the police find the fraudster.",
+    "target_ru": "корешке чека",
+    "target_en": "counterfoil",
+    "gloss_ru": "корешок (чека)",
+    "pronunciation": "каунтэрфойл"
+  },
+  {
+    "ru": "Старая валюта всё ещё лежала у дедушки в коробке из‑под печенья вместе с письмами военных лет.",
+    "en": "The old currency was still hidden in Grandpa's cookie tin along with wartime letters.",
+    "target_ru": "валюта",
+    "target_en": "currency",
+    "gloss_ru": "валюта",
+    "pronunciation": "ка'рэнси"
+  },
+  {
+    "ru": "Долг за обучение висел над Алексом так долго, что он перестал открывать письма из банка.",
+    "en": "The debt for his education hung over Alex for so long that he stopped opening letters from the bank.",
+    "target_ru": "долг",
+    "target_en": "debt",
+    "gloss_ru": "долг",
+    "pronunciation": "дэт"
+  },
+  {
+    "ru": "Экономический кризис изменил город быстрее, чем сильный шторм или новый мэр.",
+    "en": "The economic crisis changed the city faster than any storm or new mayor ever could.",
+    "target_ru": "экономический",
+    "target_en": "economic",
+    "gloss_ru": "экономический",
+    "pronunciation": "икэно'мик"
+  },
+  {
+    "ru": "Экономный сосед всегда выключал свет даже во время коротких разговоров на кухне.",
+    "en": "The economical neighbor always switched off the lights even during short conversations in the kitchen.",
+    "target_ru": "экономный",
+    "target_en": "economical",
+    "gloss_ru": "экономный",
+    "pronunciation": "икэно'микэл"
+  },
+  {
+    "ru": "Экономика страны стала главной темой разговоров в очередях, такси и даже на свадьбах.",
+    "en": "The economy of the country became the main topic of conversations in queues, taxis, and even at weddings.",
+    "target_ru": "экономика",
+    "target_en": "economy",
+    "gloss_ru": "экономика",
+    "pronunciation": "ико'номи"
+  },
+  {
+    "ru": "После поездки Эмма открыла приложение банка и ужаснулась своим расходам за неделю.",
+    "en": "After the trip, Emma opened her banking app and was horrified by her expenditure for the week.",
+    "target_ru": "расходам",
+    "target_en": "expenditure",
+    "gloss_ru": "расход, трата",
+    "pronunciation": "икспэндичэр"
+  },
+  {
+    "ru": "Старую машину они купили в рассрочку, потому что иначе пришлось бы отказаться от отпуска.",
+    "en": "They bought the old car through hire purchase because otherwise they would have had to cancel their holiday.",
+    "target_ru": "в рассрочку",
+    "target_en": "hire purchase",
+    "gloss_ru": "покупка в рассрочку",
+    "pronunciation": "хайэр пёрчэс"
+  },
+  {
+    "ru": "На столе лежала долговая расписка, написанная торопливым почерком прямо на салфетке.",
+    "en": "An I.O.U. lay on the table, written hastily on a paper napkin.",
+    "target_ru": "долговая расписка",
+    "target_en": "I.O.U.",
+    "gloss_ru": "долговая расписка",
+    "pronunciation": "ай-оу-ю"
+  },
+  {
+    "ru": "Платежи в рассрочку казались удобными, пока Лукас не подсчитал итоговую сумму.",
+    "en": "The instalments seemed convenient until Lucas calculated the final amount.",
+    "target_ru": "платежи в рассрочку",
+    "target_en": "instalments",
+    "gloss_ru": "платежи в рассрочку",
+    "pronunciation": "инстолмэнтс"
+  },
+  {
+    "ru": "Нора редко давала в долг деньги друзьям после истории с исчезнувшим соседом.",
+    "en": "Nora rarely chose to lend money to friends after the incident with the missing neighbor.",
+    "target_ru": "давать в долг",
+    "target_en": "lend",
+    "gloss_ru": "давать в долг",
+    "pronunciation": "лэнд"
+  },
+  {
+    "ru": "Молодая семья едва могла сводить концы с концами после закрытия завода у реки.",
+    "en": "The young family could barely make ends meet after the factory by the river shut down.",
+    "target_ru": "сводить концы с концами",
+    "target_en": "make ends meet",
+    "gloss_ru": "сводить концы с концами",
+    "pronunciation": "мэйк эндз мит"
+  },
+  {
+    "ru": "Ипотека превратила мечту о доме в список ежемесячных тревог и бессонных ночей.",
+    "en": "The mortgage turned the dream of a house into a list of monthly worries and sleepless nights.",
+    "target_ru": "ипотека",
+    "target_en": "mortgage",
+    "gloss_ru": "ипотека",
+    "pronunciation": "мо'ргидж"
+  },
+  {
+    "ru": "У Лукаса в кармане осталось всего пять фунтов, но он всё равно купил цветы для матери.",
+    "en": "Lucas had only five quid left in his pocket, but he still bought flowers for his mother.",
+    "target_ru": "фунтов",
+    "target_en": "quid",
+    "gloss_ru": "фунт стерлингов (сленг)",
+    "pronunciation": "квид"
+  },
+  {
+    "ru": "Чек из маленького кафе оказался единственным доказательством того, что Томас был в городе той ночью.",
+    "en": "The receipt from the small café turned out to be the only proof that Thomas had been in town that night.",
+    "target_ru": "чек",
+    "target_en": "receipt",
+    "gloss_ru": "чек, квитанция",
+    "pronunciation": "рисит"
+  },
+  {
+    "ru": "Единоличный владелец магазина лично встречал покупателей даже спустя двадцать лет работы.",
+    "en": "The sole proprietor of the shop still greeted customers personally even after twenty years in business.",
+    "target_ru": "единоличный владелец",
+    "target_en": "sole proprietor",
+    "gloss_ru": "единоличный владелец",
+    "pronunciation": "соул прэпрайэтэр"
+  },
+  {
+    "ru": "Постоянное поручение на оплату квартиры спасало Эмму каждый раз, когда она забывала про счета.",
+    "en": "The standing order for the apartment payment saved Emma every time she forgot about the bills.",
+    "target_ru": "постоянное поручение",
+    "target_en": "standing order",
+    "gloss_ru": "постоянное поручение (в банке)",
+    "pronunciation": "стэндинг ордэр"
+  },
+  {
+    "ru": "Банковская выписка неожиданно показала перевод, которого Сара никогда раньше не видела.",
+    "en": "The bank statement unexpectedly showed a transfer Sarah had never seen before.",
+    "target_ru": "банковская выписка",
+    "target_en": "statement",
+    "gloss_ru": "заявление, выписка (из банка)",
+    "pronunciation": "стэйтмэнт"
+  },
+  {
+    "ru": "Старый нумизмат мог часами рассказывать истории о монетах, найденных в разрушенных городах.",
+    "en": "The old numismatist could spend hours telling stories about coins found in ruined cities.",
+    "target_ru": "нумизмат",
+    "target_en": "numismatist",
+    "gloss_ru": "нумизмат",
+    "pronunciation": "ньюмизматист"
+  },
+  {
+    "ru": "В разделе благодарностей Эмма упомянула школьную библиотекаршу, которая когда‑то дала ей первую книгу о путешествиях.",
+    "en": "In the acknowledgements, Emma mentioned the school librarian who had once given her the first book about travel.",
+    "target_ru": "благодарностей",
+    "target_en": "acknowledgements",
+    "gloss_ru": "благодарности",
+    "pronunciation": "экно'лиджмэнтс"
+  },
+  {
+    "ru": "В приложении к письму Томас неожиданно нашёл старую карту с пометками красными чернилами.",
+    "en": "In the appendix to the letter, Thomas unexpectedly found an old map marked with red ink.",
+    "target_ru": "приложении",
+    "target_en": "appendix",
+    "gloss_ru": "приложение",
+    "pronunciation": "эпэ'ндикс"
+  },
+  {
+    "ru": "Вверху страницы кто‑то карандашом написал дату, которая не совпадала ни с одним известным событием.",
+    "en": "At the top of the page, someone had written a date in pencil that matched no known event.",
+    "target_ru": "вверху страницы",
+    "target_en": "at the top of the page",
+    "gloss_ru": "вверху страницы",
+    "pronunciation": "эт зэ топ ов зэ пэйдж"
+  },
+  {
+    "ru": "Библиография в конце книги оказалась длиннее самого романа, и это почему‑то впечатлило Луку.",
+    "en": "The bibliography at the end of the book was longer than the novel itself, and that somehow impressed Luca.",
+    "target_ru": "библиография",
+    "target_en": "bibliography",
+    "gloss_ru": "библиография",
+    "pronunciation": "библио'грэфи"
+  },
+  {
+    "ru": "Старая ручка перестала писать именно в тот момент, когда Сара собиралась подписать договор.",
+    "en": "The old biro stopped working at the exact moment Sarah was about to sign the agreement.",
+    "target_ru": "ручка",
+    "target_en": "biro",
+    "gloss_ru": "ручка",
+    "pronunciation": "байроу"
+  },
+  {
+    "ru": "Учитель попросил написать имя печатными буквами, потому что никто не мог разобрать почерк Майкла.",
+    "en": "The teacher asked Michael to write his name in block-letters because nobody could read his handwriting.",
+    "target_ru": "печатными буквами",
+    "target_en": "block-letters",
+    "gloss_ru": "печатные буквы",
+    "pronunciation": "блок-летэрз"
+  },
+  {
+    "ru": "Аннотация на обратной стороне книги обещала историю любви, но внутри оказался мрачный детектив.",
+    "en": "The blurb on the back of the book promised a love story, but inside there was a dark detective novel.",
+    "target_ru": "аннотация",
+    "target_en": "blurb",
+    "gloss_ru": "аннотация",
+    "pronunciation": "блёрб"
+  },
+  {
+    "ru": "Заголовок книги пришёл Эмме в голову ночью, когда за окном уже начинался снегопад.",
+    "en": "The book title came to Emma in the middle of the night when the snowfall had already begun outside.",
+    "target_ru": "заголовок книги",
+    "target_en": "book title",
+    "gloss_ru": "заголовок книги",
+    "pronunciation": "бук тайтл"
+  },
+  {
+    "ru": "Хронология событий разрушила красивую легенду, которую семья рассказывала детям много лет.",
+    "en": "The chronology of events destroyed the beautiful legend the family had told their children for years.",
+    "target_ru": "хронология",
+    "target_en": "chronology",
+    "gloss_ru": "хронология",
+    "pronunciation": "кронолоджи"
+  },
+  {
+    "ru": "Содержание старого дневника выглядело странно: некоторые главы были вырваны полностью.",
+    "en": "The contents of the old diary looked strange because several chapters had been torn out completely.",
+    "target_ru": "содержание",
+    "target_en": "contents",
+    "gloss_ru": "содержание",
+    "pronunciation": "контэнтс"
+  },
+  {
+    "ru": "Во время болезни Нора прочитала роман от корки до корки всего за одну бессонную ночь.",
+    "en": "During her illness, Nora read the novel from cover to cover in a single sleepless night.",
+    "target_ru": "от корки до корки",
+    "target_en": "cover to cover",
+    "gloss_ru": "от корки до корки",
+    "pronunciation": "кавер ту кавер"
+  },
+  {
+    "ru": "Перед экзаменом студенты пытались зубрить формулы прямо в очереди у аудитории.",
+    "en": "Before the exam, the students tried to cram formulas while standing outside the classroom.",
+    "target_ru": "зубрить",
+    "target_en": "cram",
+    "gloss_ru": "зубрить",
+    "pronunciation": "крэм"
+  },
+  {
+    "ru": "Посвящение в начале романа было адресовано женщине, о которой автор никогда не говорил публично.",
+    "en": "The dedication at the beginning of the novel was addressed to a woman the writer had never mentioned publicly.",
+    "target_ru": "посвящение",
+    "target_en": "dedication",
+    "gloss_ru": "посвящение",
+    "pronunciation": "дедикэйшн"
+  },
+  {
+    "ru": "Первое издание книги стояло за стеклом, и библиотекарь разрешал трогать его только в перчатках.",
+    "en": "The first edition of the book stood behind glass, and the librarian allowed people to touch it only with gloves.",
+    "target_ru": "издание",
+    "target_en": "edition",
+    "gloss_ru": "издание",
+    "pronunciation": "эдишн"
+  },
+  {
+    "ru": "Эссе Лукаса о заброшенных городах неожиданно выиграло конкурс молодых писателей.",
+    "en": "Lucas's essay about abandoned towns unexpectedly won a competition for young writers.",
+    "target_ru": "эссе",
+    "target_en": "essay",
+    "gloss_ru": "эссе, очерк",
+    "pronunciation": "эсэй"
+  },
+  {
+    "ru": "В поезде Эмма машинально пролистывала журнал, пока напротив неё кто‑то тихо плакал.",
+    "en": "On the train, Emma absent-mindedly flipped through a magazine while someone across from her quietly cried.",
+    "target_ru": "пролистывала",
+    "target_en": "flip through",
+    "gloss_ru": "пролистывать",
+    "pronunciation": "флип сру"
+  },
+  {
+    "ru": "Сноски оказались интереснее самой статьи и постепенно превратились в отдельную историю.",
+    "en": "The footnotes turned out to be more interesting than the article itself and slowly became a story of their own.",
+    "target_ru": "сноски",
+    "target_en": "footnotes",
+    "gloss_ru": "сноски",
+    "pronunciation": "футноутс"
+  },
+  {
+    "ru": "На фронтисписе старой книги кто‑то нарисовал корабль, которого не было в оригинальном издании.",
+    "en": "On the frontispiece of the old book, someone had drawn a ship that was not part of the original edition.",
+    "target_ru": "фронтисписе",
+    "target_en": "frontispiece",
+    "gloss_ru": "фронтиспис",
+    "pronunciation": "франтиспис"
+  },
+  {
+    "ru": "Глоссарий в конце учебника спас Майю, когда преподаватель начал использовать слишком сложные термины.",
+    "en": "The glossary at the end of the textbook saved Maya when the professor started using overly complex terms.",
+    "target_ru": "глоссарий",
+    "target_en": "glossary",
+    "gloss_ru": "глоссарий",
+    "pronunciation": "глосэри"
+  },
+  {
+    "ru": "Старый путеводитель советовал избегать узких улиц после полуночи, и Томас быстро понял почему.",
+    "en": "The old guide book advised travelers to avoid narrow streets after midnight, and Thomas quickly understood why.",
+    "target_ru": "путеводитель",
+    "target_en": "guide book",
+    "gloss_ru": "путеводитель",
+    "pronunciation": "гайд бук"
+  },
+  {
+    "ru": "Книга в твёрдом переплёте пережила пожар лучше, чем большинство вещей в доме.",
+    "en": "The hardback survived the fire better than most things in the house.",
+    "target_ru": "книга в твёрдом переплёте",
+    "target_en": "hardback",
+    "gloss_ru": "книга в твердом переплете",
+    "pronunciation": "хардбэк"
+  },
+  {
+    "ru": "Во время ужина Сара постоянно искала незнакомые слова в словаре под столом.",
+    "en": "During dinner, Sarah kept looking up unfamiliar words under the table.",
+    "target_ru": "искала",
+    "target_en": "look up",
+    "gloss_ru": "искать (в словаре)",
+    "pronunciation": "лук ап"
+  },
+  {
+    "ru": "Рукопись нашли в старом чемодане вместе с билетами на поезд и засохшими цветами.",
+    "en": "The manuscript was discovered in an old suitcase together with train tickets and dried flowers.",
+    "target_ru": "рукопись",
+    "target_en": "manuscript",
+    "gloss_ru": "рукопись",
+    "pronunciation": "мэньюскрипт"
+  },
+  {
+    "ru": "Книга в мягкой обложке выглядела дешёвой, но внутри скрывался лучший роман года.",
+    "en": "The paperback looked cheap, but inside it contained the best novel of the year.",
+    "target_ru": "книга в мягкой обложке",
+    "target_en": "paperback",
+    "gloss_ru": "книга в мягкой обложке",
+    "pronunciation": "пэйпэрбэк"
+  },
+  {
+    "ru": "Профессор внимательно изучал письмо так долго, будто ожидал найти между строк чьё‑то признание.",
+    "en": "The professor perused the letter for so long as if he expected to find a confession hidden between the lines.",
+    "target_ru": "внимательно изучал",
+    "target_en": "peruse",
+    "gloss_ru": "внимательно изучать",
+    "pronunciation": "пэру'з"
+  },
+  {
+    "ru": "Стихотворение лежало в кармане пальто уже десять лет, прежде чем Нора решилась его прочитать.",
+    "en": "The poem stayed in the coat pocket for ten years before Nora finally dared to read it.",
+    "target_ru": "стихотворение",
+    "target_en": "poem",
+    "gloss_ru": "стихотворение",
+    "pronunciation": "поуэм"
+  },
+  {
+    "ru": "Корректуру привезли поздно ночью, и редакторы сразу принялись искать последние ошибки.",
+    "en": "The proofs arrived late at night, and the editors immediately started searching for the final mistakes.",
+    "target_ru": "корректуру",
+    "target_en": "proofs",
+    "gloss_ru": "корректура",
+    "pronunciation": "пруфс"
+  },
+  {
+    "ru": "После публикации статьи телефон журналистки не замолкал почти двое суток.",
+    "en": "After the publication of the article, the journalist's phone did not stop ringing for nearly two days.",
+    "target_ru": "публикации",
+    "target_en": "publication",
+    "gloss_ru": "публикация, издание",
+    "pronunciation": "пабликэйшн"
+  },
+  {
+    "ru": "Во время церемонии актёр читал из старого письма, найденного в семейном архиве.",
+    "en": "During the ceremony, the actor read from an old letter discovered in the family archive.",
+    "target_ru": "читал из",
+    "target_en": "read from",
+    "gloss_ru": "читать из",
+    "pronunciation": "рид фром"
+  },
+  {
+    "ru": "Перед экзаменом Лукас всю ночь повторял конспекты и пил слишком крепкий кофе.",
+    "en": "Before the exam, Lucas revised his notes all night while drinking extremely strong coffee.",
+    "target_ru": "повторял",
+    "target_en": "revise",
+    "gloss_ru": "повторять, пересматривать",
+    "pronunciation": "ривайз"
+  },
+  {
+    "ru": "Новый сериал оказался настолько захватывающим, что Эмма забыла ответить друзьям на сообщения.",
+    "en": "The new series was so gripping that Emma forgot to reply to her friends' messages.",
+    "target_ru": "сериал",
+    "target_en": "series",
+    "gloss_ru": "сериал",
+    "pronunciation": "сири'з"
+  },
+  {
+    "ru": "Томас бегло просмотрел газету и вдруг заметил фотографию человека, которого считал пропавшим.",
+    "en": "Thomas skimmed the newspaper and suddenly noticed a photograph of a man he believed was missing.",
+    "target_ru": "бегло просмотрел",
+    "target_en": "skim",
+    "gloss_ru": "бегло просматривать",
+    "pronunciation": "ским"
+  },
+  {
+    "ru": "Во время лекции Майя начала пропускать сложные главы, чтобы успеть дочитать книгу до утра.",
+    "en": "During the lecture, Maya started to skip difficult chapters to finish the book before morning.",
+    "target_ru": "пропускать",
+    "target_en": "skip",
+    "gloss_ru": "пропускать",
+    "pronunciation": "скип"
+  },
+  {
+    "ru": "Главный источник слухов в городе работал в маленькой парикмахерской у рынка.",
+    "en": "The main source of rumors in town worked at a small hair salon near the market.",
+    "target_ru": "источник",
+    "target_en": "source",
+    "gloss_ru": "источник",
+    "pronunciation": "со'рс"
+  },
+  {
+    "ru": "Последний том энциклопедии оказался тяжелее, чем чемодан, который Лукас взял в поездку.",
+    "en": "The final volume of the encyclopedia turned out to be heavier than the suitcase Lucas had taken on the trip.",
+    "target_ru": "том",
+    "target_en": "volume",
+    "gloss_ru": "том, объем",
+    "pronunciation": "волюм"
+  },
+  {
+    "ru": "Старый детектив лежал на подоконнике рядом с чашкой холодного чая и мокрым от дождя плащом.",
+    "en": "The old whodunnit lay on the windowsill beside a cup of cold tea and a rain-soaked coat.",
+    "target_ru": "детектив",
+    "target_en": "whodunnit",
+    "gloss_ru": "детектив",
+    "pronunciation": "худаннит"
+  },
+  {
+    "ru": "У Эммы оказалась сильная аллергия на клубнику, и вечерний пикник пришлось закончить раньше.",
+    "en": "Emma had a severe allergy to strawberries, so the evening picnic ended much earlier than planned.",
+    "target_ru": "аллергия на",
+    "target_en": "allergy to",
+    "gloss_ru": "аллергия на",
+    "pronunciation": "элэрджи ту"
+  },
+  {
+    "ru": "Антибиотик подействовал не сразу, и Томас ещё несколько дней говорил почти шёпотом.",
+    "en": "The antibiotic did not work immediately, and Thomas spoke almost in a whisper for several more days.",
+    "target_ru": "антибиотик",
+    "target_en": "antibiotic",
+    "gloss_ru": "антибиотик",
+    "pronunciation": "энтибайотик"
+  },
+  {
+    "ru": "После бессонной недели цвет лица Майи стал таким бледным, что коллеги начали переживать.",
+    "en": "After a sleepless week, Maya's complexion became so pale that her colleagues started worrying.",
+    "target_ru": "цвет лица",
+    "target_en": "complexion",
+    "gloss_ru": "цвет лица",
+    "pronunciation": "комплекшн"
+  },
+  {
+    "ru": "Полиция подозревала, что водитель находился под действием наркотиков во время аварии у моста.",
+    "en": "The police suspected that the driver had been drugged during the accident near the bridge.",
+    "target_ru": "под действием наркотиков",
+    "target_en": "drugs / to be drugged",
+    "gloss_ru": "наркотики / быть под действием наркотиков",
+    "pronunciation": "драгз / ту би драгд"
+  },
+  {
+    "ru": "С самого утра Сара плохо себя чувствовала, но всё равно решила выйти на работу.",
+    "en": "Sarah felt unwell from early morning but still decided to go to work.",
+    "target_ru": "плохо себя чувствовала",
+    "target_en": "feel unwell",
+    "gloss_ru": "плохо себя чувствовать",
+    "pronunciation": "фил анвэл"
+  },
+  {
+    "ru": "Перед поездкой в Африку Лукас решил сделать прививку, хотя ужасно боялся уколов.",
+    "en": "Before traveling to Africa, Lucas decided to have vaccination even though he was terrified of injections.",
+    "target_ru": "сделать прививку",
+    "target_en": "have vaccination",
+    "gloss_ru": "сделать прививку",
+    "pronunciation": "хэв ваксинэйшн"
+  },
+  {
+    "ru": "После уличной еды у вокзала у Томаса началось сильное несварение.",
+    "en": "After eating street food near the station, Thomas developed severe indigestion.",
+    "target_ru": "несварение",
+    "target_en": "indigestion",
+    "gloss_ru": "несварение",
+    "pronunciation": "индайджэстчэн"
+  },
+  {
+    "ru": "Врач объяснил, что один больной человек может заразить половину офиса всего за пару дней.",
+    "en": "The doctor explained that one sick person could infect half the office within a few days.",
+    "target_ru": "заразить",
+    "target_en": "infect",
+    "gloss_ru": "заражать",
+    "pronunciation": "инфэкт"
+  },
+  {
+    "ru": "Во время шторма Эмма повредила руку, пытаясь закрыть старое окно на чердаке.",
+    "en": "During the storm, Emma managed to injure her arm while trying to close the old attic window.",
+    "target_ru": "повредила",
+    "target_en": "injure",
+    "gloss_ru": "ранить, повредить",
+    "pronunciation": "инджэр"
+  },
+  {
+    "ru": "Травма колена не позволила Майклу закончить марафон, к которому он готовился почти год.",
+    "en": "The knee injury prevented Michael from finishing the marathon he had trained for almost a year.",
+    "target_ru": "травма",
+    "target_en": "injury",
+    "gloss_ru": "травма, повреждение",
+    "pronunciation": "инджэри"
+  },
+  {
+    "ru": "Аптека у старого театра работала даже ночью, и это однажды спасло Нору от серьёзных проблем.",
+    "en": "The pharmacy near the old theatre stayed open at night, and one day it saved Nora from serious trouble.",
+    "target_ru": "аптека",
+    "target_en": "pharmacy, chemist",
+    "gloss_ru": "аптека",
+    "pronunciation": "фармаси, кэмист"
+  },
+  {
+    "ru": "Доктор отказался прописывать сильное лекарство, пока не увидел результаты анализов.",
+    "en": "The doctor refused to prescribe strong medicine until he had seen the test results.",
+    "target_ru": "прописывать",
+    "target_en": "prescribe",
+    "gloss_ru": "прописывать (лекарство)",
+    "pronunciation": "прискрáйб"
+  },
+  {
+    "ru": "После операции Сара выздоравливала медленно и почти всё время проводила у окна.",
+    "en": "After the surgery, Sarah recovered slowly and spent most of her time by the window.",
+    "target_ru": "выздоравливала",
+    "target_en": "recover",
+    "gloss_ru": "выздоравливать",
+    "pronunciation": "рикавэр"
+  },
+  {
+    "ru": "У мужчины был желтоватый цвет лица, и врач сразу попросил его сдать дополнительные анализы.",
+    "en": "The man had a sallow complexion, and the doctor immediately asked for additional tests.",
+    "target_ru": "желтоватый цвет лица",
+    "target_en": "sallow complexion",
+    "gloss_ru": "желтоватый цвет лица",
+    "pronunciation": "сэлоу комплекшн"
+  },
+  {
+    "ru": "После падения с лестницы Томас долго жаловался на боль в позвоночнике.",
+    "en": "After falling from the ladder, Thomas complained about pain in his spine for weeks.",
+    "target_ru": "позвоночнике",
+    "target_en": "spine",
+    "gloss_ru": "позвоночник",
+    "pronunciation": "спайн"
+  },
+  {
+    "ru": "Учёные осторожно работали с опасными веществами в лаборатории без окон.",
+    "en": "The scientists handled dangerous substances carefully in the windowless laboratory.",
+    "target_ru": "веществами",
+    "target_en": "substances",
+    "gloss_ru": "вещества",
+    "pronunciation": "сабстэнсиз"
+  },
+  {
+    "ru": "Старый термометр всё ещё лежал в аптечке, хотя никто в семье уже им не пользовался.",
+    "en": "The old thermometer was still kept in the medicine cabinet although nobody in the family used it anymore.",
+    "target_ru": "термометр",
+    "target_en": "thermometer",
+    "gloss_ru": "термометр",
+    "pronunciation": "сэрмомитэр"
+  },
+  {
+    "ru": "Доктор попросил мальчика показать язык, и тот сразу перестал притворяться здоровым.",
+    "en": "The doctor asked the boy to show his tongue, and he immediately stopped pretending to be healthy.",
+    "target_ru": "язык",
+    "target_en": "tongue",
+    "gloss_ru": "язык (орган)",
+    "pronunciation": "танг"
+  },
+  {
+    "ru": "Городские власти решили вакцинировать школьников до начала зимнего сезона.",
+    "en": "The city authorities decided to vaccinate schoolchildren before the winter season began.",
+    "target_ru": "вакцинировать",
+    "target_en": "vaccinate",
+    "gloss_ru": "вакцинировать",
+    "pronunciation": "ваксинэйт"
+  },
+  {
+    "ru": "Вакцинированный турист спокойно пересёк границу, пока остальные ждали проверки документов.",
+    "en": "The vaccinated tourist crossed the border calmly while the others waited for document checks.",
+    "target_ru": "вакцинированный",
+    "target_en": "vaccinated",
+    "gloss_ru": "вакцинированный",
+    "pronunciation": "ваксинэйтид"
+  },
+  {
+    "ru": "На ужин бабушка приготовила говядину с розмарином, и вся квартира сразу запахла праздником.",
+    "en": "For dinner, Grandma cooked beef with rosemary, and the whole flat immediately smelled of a celebration.",
+    "target_ru": "говядину",
+    "target_en": "beef",
+    "gloss_ru": "говядина",
+    "pronunciation": "биф"
+  },
+  {
+    "ru": "Суп оказался таким пресным, что Томас незаметно добавил туда половину перечницы.",
+    "en": "The soup was so bland that Thomas quietly added half the pepper shaker to it.",
+    "target_ru": "пресным",
+    "target_en": "bland",
+    "gloss_ru": "безвкусный, пресный",
+    "pronunciation": "блэнд"
+  },
+  {
+    "ru": "После тренировки Лукас так проголодался, что проглотил бургер почти не жуя.",
+    "en": "After training, Lucas was so hungry that he bolted down his burger without properly chewing it.",
+    "target_ru": "проглотил почти не жуя",
+    "target_en": "bolt",
+    "gloss_ru": "глотать не разжевывая",
+    "pronunciation": "боулт"
+  },
+  {
+    "ru": "Местный пивовар знал всех посетителей по именам и всегда оставлял лучший столик у окна.",
+    "en": "The local brewer knew all the regulars by name and always kept the best table by the window free.",
+    "target_ru": "пивовар",
+    "target_en": "brewer",
+    "gloss_ru": "пивовар",
+    "pronunciation": "брюэр"
+  },
+  {
+    "ru": "Когда Эмма заболела, мама три дня кормила её гречкой и горячим чаем с мёдом.",
+    "en": "When Emma fell ill, her mother fed her buckwheat and hot tea with honey for three days.",
+    "target_ru": "гречкой",
+    "target_en": "buckwheat",
+    "gloss_ru": "гречка",
+    "pronunciation": "баквит"
+  },
+  {
+    "ru": "В поход они взяли только консервированный суп и пару пачек крекеров.",
+    "en": "For the hike, they packed only canned soup and a few packets of crackers.",
+    "target_ru": "консервированный",
+    "target_en": "canned",
+    "gloss_ru": "консервированный",
+    "pronunciation": "кэнд"
+  },
+  {
+    "ru": "«Ваше здоровье!» — крикнул Майкл, поднимая бокал прямо посреди шумного паба.",
+    "en": "“Cheers!” shouted Michael as he raised his glass in the middle of the noisy pub.",
+    "target_ru": "Ваше здоровье!",
+    "target_en": "cheers",
+    "gloss_ru": "ваше здоровье! (тост)",
+    "pronunciation": "чирз"
+  },
+  {
+    "ru": "Доктор попросил мальчика жевать медленнее, а не заглатывать еду на бегу.",
+    "en": "The doctor asked the boy to chew more slowly instead of swallowing his food in a rush.",
+    "target_ru": "жевать",
+    "target_en": "chew",
+    "gloss_ru": "жевать",
+    "pronunciation": "чу"
+  },
+  {
+    "ru": "На завтрак Сара ела творог с ягодами и листала новости в телефоне.",
+    "en": "For breakfast, Sarah ate cottage cheese with berries while scrolling through the news on her phone.",
+    "target_ru": "творог",
+    "target_en": "cottage cheese",
+    "gloss_ru": "творог",
+    "pronunciation": "котидж чиз"
+  },
+  {
+    "ru": "На столе осталась всего одна крошка от пирога, и дети тут же начали спорить, кто её съел.",
+    "en": "Only a single crumb from the pie was left on the table, and the children immediately started arguing about who had eaten it.",
+    "target_ru": "крошка",
+    "target_en": "crumb",
+    "gloss_ru": "крошка",
+    "pronunciation": "крам"
+  },
+  {
+    "ru": "Дедушка до сих пор покупает домашний творог у одной и той же женщины на рынке.",
+    "en": "Grandfather still buys homemade curd from the same woman at the market.",
+    "target_ru": "творог",
+    "target_en": "curd",
+    "gloss_ru": "творог",
+    "pronunciation": "кёрд"
+  },
+  {
+    "ru": "После ужина официант неожиданно принёс десерт за счёт заведения.",
+    "en": "After dinner, the waiter unexpectedly brought a dessert on the house.",
+    "target_ru": "десерт",
+    "target_en": "dessert",
+    "gloss_ru": "десерт",
+    "pronunciation": "дизёрт"
+  },
+  {
+    "ru": "После такой жирной еды мой желудок это точно не переварит.",
+    "en": "After such heavy food, my stomach definitely will not digest it properly.",
+    "target_ru": "переварит",
+    "target_en": "digest",
+    "gloss_ru": "переваривать",
+    "pronunciation": "дайджест"
+  },
+  {
+    "ru": "Эмма любила окунать картошку фри в острый соус, хотя друзья считали это странным.",
+    "en": "Emma loved to dip her chips into spicy sauce, although her friends found it odd.",
+    "target_ru": "окунать",
+    "target_en": "dip",
+    "gloss_ru": "окунать, погружать",
+    "pronunciation": "дип"
+  },
+  {
+    "ru": "По вечерам Томас любил углубляться в старые кулинарные книги вместо сериалов.",
+    "en": "In the evenings, Thomas liked to dip into old cookery books instead of watching television series.",
+    "target_ru": "углубляться",
+    "target_en": "dip into",
+    "gloss_ru": "углубляться",
+    "pronunciation": "дип инту"
+  },
+  {
+    "ru": "На свадьбе гости так объелись, что танцевать уже почти никто не хотел.",
+    "en": "At the wedding, the guests gorged themselves so much that hardly anyone wanted to dance afterwards.",
+    "target_ru": "объелись",
+    "target_en": "gorge",
+    "gloss_ru": "объедаться",
+    "pronunciation": "гордж"
+  },
+  {
+    "ru": "Пока официантка наливала чай, две соседки снова начали обсуждать чужие сплетни.",
+    "en": "While the waitress was pouring tea, the two neighbours started gossiping again.",
+    "target_ru": "сплетни",
+    "target_en": "gossip",
+    "gloss_ru": "сплетня, сплетничать",
+    "pronunciation": "госип"
+  },
+  {
+    "ru": "Фермер показал детям зерно, из которого потом делают хлеб и кашу.",
+    "en": "The farmer showed the children the grain used to make bread and porridge.",
+    "target_ru": "зерно",
+    "target_en": "grain",
+    "gloss_ru": "зерно",
+    "pronunciation": "грейн"
+  },
+  {
+    "ru": "На завтрак в отеле подавали ветчину, яйца и невероятно крепкий кофе.",
+    "en": "The hotel breakfast included ham, eggs, and unbelievably strong coffee.",
+    "target_ru": "ветчину",
+    "target_en": "ham",
+    "gloss_ru": "ветчина",
+    "pronunciation": "хэм"
+  },
+  {
+    "ru": "Перед праздником Сара полночи покрывала торт глазурью и слушала старый джаз.",
+    "en": "Before the celebration, Sarah spent half the night icing a cake while listening to old jazz records.",
+    "target_ru": "покрывала торт глазурью",
+    "target_en": "ice a cake",
+    "gloss_ru": "покрывать торт глазурью",
+    "pronunciation": "айс э кейк"
+  },
+  {
+    "ru": "Бабушка терпеливо месила тесто, пока за окном начиналась гроза.",
+    "en": "Grandma patiently kneaded dough while a storm was beginning outside.",
+    "target_ru": "месила тесто",
+    "target_en": "knead dough",
+    "gloss_ru": "месить тесто",
+    "pronunciation": "нид доу"
+  },
+  {
+    "ru": "Маленький мальчик начал лизать ложку с шоколадным кремом, пока мама отвернулась.",
+    "en": "The little boy started to lick the spoon covered in chocolate cream while his mother looked away.",
+    "target_ru": "лизать",
+    "target_en": "lick",
+    "gloss_ru": "лизать",
+    "pronunciation": "лик"
+  },
+  {
+    "ru": "Картофельное пюре получилось таким нежным, что дедушка попросил добавку.",
+    "en": "The mashed potato was so soft and creamy that Grandfather asked for a second helping.",
+    "target_ru": "картофельное пюре",
+    "target_en": "mash potato",
+    "gloss_ru": "картофельное пюре",
+    "pronunciation": "мэш потэйтоу"
+  },
+  {
+    "ru": "Мясник быстро рубил мясо, не обращая внимания на длинную очередь у прилавка.",
+    "en": "The butcher minced meat quickly without paying attention to the long queue at the counter.",
+    "target_ru": "рубил мясо",
+    "target_en": "mince meat",
+    "gloss_ru": "рубить мясо",
+    "pronunciation": "минс мит"
+  },
+  {
+    "ru": "В маленьком ресторане у порта подавали баранину по старому семейному рецепту.",
+    "en": "The small restaurant by the harbour served mutton prepared according to an old family recipe.",
+    "target_ru": "баранину",
+    "target_en": "mutton",
+    "gloss_ru": "баранина",
+    "pronunciation": "матн"
+  },
+  {
+    "ru": "После тяжёлого дня Лукас заказал чистый виски и сел подальше от шумной компании.",
+    "en": "After a difficult day, Lucas ordered neat whisky and sat away from the noisy crowd.",
+    "target_ru": "чистый виски",
+    "target_en": "neat whisky",
+    "gloss_ru": "чистый виски",
+    "pronunciation": "нит виски"
+  },
+  {
+    "ru": "Старый щелкунчик лежал на кухне ещё со времён бабушкиной молодости.",
+    "en": "The old nut-cracker had been lying in the kitchen since Grandma's youth.",
+    "target_ru": "щелкунчик",
+    "target_en": "nut-cracker",
+    "gloss_ru": "щелкунчик",
+    "pronunciation": "нат-крэкэр"
+  },
+  {
+    "ru": "После ссоры Эмма весь вечер ковырялась в салате и почти ничего не съела.",
+    "en": "After the argument, Emma only pecked at her salad and barely ate anything all evening.",
+    "target_ru": "ковырялась в салате",
+    "target_en": "peck at",
+    "gloss_ru": "клевать, есть нехотя",
+    "pronunciation": "пэк эт"
+  },
+  {
+    "ru": "Пока поезд стоял на станции, Томас спокойно чистил апельсин и смотрел в окно.",
+    "en": "While the train stood at the station, Thomas calmly peeled an orange and looked out of the window.",
+    "target_ru": "чистил апельсин",
+    "target_en": "peel an orange",
+    "gloss_ru": "чистить апельсин",
+    "pronunciation": "пил эн орандж"
+  },
+  {
+    "ru": "Это дешёвое вино оказалось неожиданно вкусным для своей цены.",
+    "en": "The plonk turned out to be surprisingly good for such a cheap wine.",
+    "target_ru": "дешёвое вино",
+    "target_en": "plonk",
+    "gloss_ru": "дешевое вино",
+    "pronunciation": "плонк"
+  },
+  {
+    "ru": "На ферме дети впервые увидели, как ощипывают курицу перед ужином.",
+    "en": "At the farm, the children saw someone pluck a chicken before dinner for the first time.",
+    "target_ru": "ощипывают курицу",
+    "target_en": "pluck chicken",
+    "gloss_ru": "ощипывать курицу",
+    "pronunciation": "плак чикэн"
+  },
+  {
+    "ru": "После долгой прогулки друзья за пять минут прикончили целую пиццу.",
+    "en": "After the long walk, the friends polished off an entire pizza in five minutes.",
+    "target_ru": "прикончили",
+    "target_en": "polish off",
+    "gloss_ru": "быстро съесть, прикончить",
+    "pronunciation": "полиш оф"
+  },
+  {
+    "ru": "По воскресеньям отец всегда жарил свинину с яблоками и тимьяном.",
+    "en": "On Sundays, Father always roasted pork with apples and thyme.",
+    "target_ru": "свинину",
+    "target_en": "pork",
+    "gloss_ru": "свинина",
+    "pronunciation": "порк"
+  },
+  {
+    "ru": "Официант начал наливать вино ещё до того, как гости успели сесть за стол.",
+    "en": "The waiter started to pour the wine before the guests had even sat down.",
+    "target_ru": "наливать",
+    "target_en": "pour",
+    "gloss_ru": "лить, наливать",
+    "pronunciation": "по"
+  },
+  {
+    "ru": "Тренер объяснил, что белок важен не только спортсменам, но и людям после болезни.",
+    "en": "The coach explained that protein was important not only for athletes but also for people recovering from illness.",
+    "target_ru": "белок",
+    "target_en": "protein",
+    "gloss_ru": "белок",
+    "pronunciation": "проутин"
+  },
+  {
+    "ru": "На рождественской ярмарке продавали горячий пунш с корицей и апельсином.",
+    "en": "At the Christmas market, they were serving hot punch with cinnamon and orange.",
+    "target_ru": "пунш",
+    "target_en": "punch",
+    "gloss_ru": "пунш",
+    "pronunciation": "панч"
+  },
+  {
+    "ru": "За зиму Майкл немного набрал вес и теперь снова ходит в спортзал по утрам.",
+    "en": "Over the winter, Michael put on weight and has started going back to the gym in the mornings.",
+    "target_ru": "набрал вес",
+    "target_en": "put on weight",
+    "gloss_ru": "набрать вес",
+    "pronunciation": "пут он вейт"
+  },
+  {
+    "ru": "Летом Эмма любила заказывать шенди и сидеть на террасе до самого заката.",
+    "en": "In summer, Emma liked ordering shandy and sitting on the terrace until sunset.",
+    "target_ru": "шенди",
+    "target_en": "shandy",
+    "gloss_ru": "шенди (пиво с лимонадом)",
+    "pronunciation": "шэнди"
+  },
+  {
+    "ru": "Дедушка аккуратно чистил варёное яйцо, пока слушал утренние новости по радио.",
+    "en": "Grandfather carefully shelled a hard-boiled egg while listening to the morning news on the radio.",
+    "target_ru": "чистил варёное яйцо",
+    "target_en": "shell a hard-boiled egg",
+    "gloss_ru": "чистить вареное яйцо",
+    "pronunciation": "шел э хард-бойлд эг"
+  },
+  {
+    "ru": "Сара медленно пила кофе маленькими глотками и смотрела, как просыпается город.",
+    "en": "Sarah sipped her coffee slowly while watching the city wake up.",
+    "target_ru": "пила маленькими глотками",
+    "target_en": "sip",
+    "gloss_ru": "глоток, пить маленькими глотками",
+    "pronunciation": "сип"
+  },
+  {
+    "ru": "Пекарь начал нарезать буханку ещё тёплого хлеба прямо перед покупателями.",
+    "en": "The baker started to slice a loaf of still-warm bread in front of the customers.",
+    "target_ru": "нарезать буханку",
+    "target_en": "slice a loaf",
+    "gloss_ru": "нарезать буханку",
+    "pronunciation": "слайс э лоуф"
+  },
+  {
+    "ru": "После тренировки Лукас не хотел перекус, ему нужна была нормальная полноценная еда.",
+    "en": "After training, Lucas did not want a snack; he wanted a proper square meal.",
+    "target_ru": "полноценная еда",
+    "target_en": "snack/square meal",
+    "gloss_ru": "перекус/полноценная еда",
+    "pronunciation": "снэк / сквэа мил"
+  },
+  {
+    "ru": "В детстве Эмма обожала сквош с апельсиновым вкусом больше любого лимонада.",
+    "en": "As a child, Emma loved orange squash more than any fizzy drink.",
+    "target_ru": "сквош",
+    "target_en": "squash",
+    "gloss_ru": "сквош (напиток)",
+    "pronunciation": "сквош"
+  },
+  {
+    "ru": "Хлеб оказался таким черствым и заплесневелым, что даже голуби к нему не притронулись.",
+    "en": "The bread was so stale and mouldy that even the pigeons would not touch it.",
+    "target_ru": "черствым и заплесневелым",
+    "target_en": "stale and mouldy",
+    "gloss_ru": "черствый и заплесневелый",
+    "pronunciation": "стэйл энд моулди"
+  },
+  {
+    "ru": "Перед Рождеством бабушка всегда начиняла курицу яблоками и ароматными травами.",
+    "en": "Before Christmas, Grandma always stuffed the chicken with apples and fragrant herbs.",
+    "target_ru": "начиняла курицу",
+    "target_en": "stuff chicken",
+    "gloss_ru": "начинять курицу",
+    "pronunciation": "стаф чикэн"
+  },
+  {
+    "ru": "Томас нервно сглотнул, когда официант принёс счёт за ужин.",
+    "en": "Thomas nervously swallowed when the waiter brought the bill.",
+    "target_ru": "сглотнул",
+    "target_en": "swallow",
+    "gloss_ru": "глотать",
+    "pronunciation": "сволоу"
+  },
+  {
+    "ru": "На новогоднем столе всегда лежали мандарины, и квартира пахла зимой ещё с утра.",
+    "en": "There were always tangerines on the New Year's table, and the flat smelled of winter from early morning.",
+    "target_ru": "мандарины",
+    "target_en": "tangerine",
+    "gloss_ru": "мандарин",
+    "pronunciation": "тэнджэрин"
+  },
+  {
+    "ru": "Во время ужина дедушка поднял бокал и произнёс короткий, но очень тёплый тост.",
+    "en": "During dinner, Grandfather raised his glass and gave a short but heartfelt toast.",
+    "target_ru": "тост",
+    "target_en": "toast",
+    "gloss_ru": "тост, произносить тост",
+    "pronunciation": "тоуст"
+  },
+  {
+    "ru": "Повар ловко подбрасывал блин на сковородке, пока гости аплодировали ему из-за стойки.",
+    "en": "The cook skillfully tossed the pancake in the pan while the guests applauded from the counter.",
+    "target_ru": "подбрасывал блин",
+    "target_en": "toss pancake",
+    "gloss_ru": "подбрасывать блин",
+    "pronunciation": "тос пэнкейк"
+  },
+  {
+    "ru": "В ресторане у театра подавали телятину с грибным соусом и запечённым картофелем.",
+    "en": "The restaurant near the theatre served veal with mushroom sauce and roasted potatoes.",
+    "target_ru": "телятину",
+    "target_en": "veal",
+    "gloss_ru": "телятина",
+    "pronunciation": "вил"
+  },
+  {
+    "ru": "На охотничьем ужине впервые подали оленину, и гости долго обсуждали её вкус.",
+    "en": "At the hunting dinner, venison was served for the first time, and the guests discussed its flavour for hours.",
+    "target_ru": "оленину",
+    "target_en": "venison",
+    "gloss_ru": "оленина",
+    "pronunciation": "вэнизн"
+  },
+  {
+    "ru": "Сара взбивала сливки так долго, что музыка на кухне успела закончиться два раза.",
+    "en": "Sarah whipped the cream for so long that the music in the kitchen finished twice.",
+    "target_ru": "взбивала сливки",
+    "target_en": "whip cream",
+    "gloss_ru": "взбивать сливки",
+    "pronunciation": "уип крим"
+  },
+  {
+    "ru": "После концерта Лукас заказал виски со льдом и сел ближе к камину.",
+    "en": "After the concert, Lucas ordered whisky on the rocks and sat closer to the fireplace.",
+    "target_ru": "виски со льдом",
+    "target_en": "whisky on the rocks",
+    "gloss_ru": "виски со льдом",
+    "pronunciation": "виски он зэ рокс"
+  },
+  {
+    "ru": "На ужине у соседей подали домашнее вино, которое делал ещё дед хозяина.",
+    "en": "At the neighbours' dinner party, homemade wine made by the host's grandfather was served.",
+    "target_ru": "вино",
+    "target_en": "wine",
+    "gloss_ru": "вино",
+    "pronunciation": "вайн"
+  },
+  {
+    "ru": "Собака сидела у двери и грызла старую кость, не обращая внимания на шум вокруг.",
+    "en": "The dog sat by the door gnawing an old bone and ignoring all the noise around it.",
+    "target_ru": "грызла",
+    "target_en": "gnaw",
+    "gloss_ru": "грызть",
+    "pronunciation": "но"
+  },
+  {
+    "ru": "После вечеринки у Майкла было такое похмелье, что он не мог смотреть даже на кофе.",
+    "en": "After the party, Michael had such a terrible hangover that he could not even look at coffee.",
+    "target_ru": "похмелье",
+    "target_en": "hangover",
+    "gloss_ru": "похмелье",
+    "pronunciation": "хэнговэр"
+  },
+  {
+    "ru": "Владелец паба лично встречал постоянных гостей и всегда помнил их любимые напитки.",
+    "en": "The publican personally greeted the regular customers and always remembered their favourite drinks.",
+    "target_ru": "владелец паба",
+    "target_en": "publican",
+    "gloss_ru": "владелец паба",
+    "pronunciation": "пабликан"
+  },
+  {
+    "ru": "После кислотного дождя на машине Эммы остались странные светлые пятна, которые не смывались неделями.",
+    "en": "After the acid rain, strange pale marks appeared on Emma's car and would not wash off for weeks.",
+    "target_ru": "кислотного дождя",
+    "target_en": "acid rain",
+    "gloss_ru": "кислотный дождь",
+    "pronunciation": "эсид рэйн"
+  },
+  {
+    "ru": "На побережье было так тихо, что слышно было, как волны разбиваются о старый пирс.",
+    "en": "The coast was so quiet that the waves crashing against the old pier could be heard clearly.",
+    "target_ru": "побережье",
+    "target_en": "coast",
+    "gloss_ru": "побережье",
+    "pronunciation": "коуст"
+  },
+  {
+    "ru": "Завод продолжал загрязнять реку, несмотря на штрафы и протесты местных жителей.",
+    "en": "The factory continued to contaminate the river despite fines and protests from local residents.",
+    "target_ru": "загрязнять",
+    "target_en": "contaminate",
+    "gloss_ru": "загрязнять, заражать",
+    "pronunciation": "контэминэйт"
+  },
+  {
+    "ru": "Пустыня за городом казалась бесконечной, особенно на закате, когда исчезали последние тени.",
+    "en": "The desert beyond the town looked endless, especially at sunset when the last shadows disappeared.",
+    "target_ru": "пустыня",
+    "target_en": "desert",
+    "gloss_ru": "пустыня",
+    "pronunciation": "дэзэрт"
+  },
+  {
+    "ru": "Проблема утилизации пластика снова стала главной темой городского собрания.",
+    "en": "The issue of plastic disposal once again became the main topic at the town meeting.",
+    "target_ru": "утилизации",
+    "target_en": "disposal",
+    "gloss_ru": "утилизация, удаление",
+    "pronunciation": "диспоузэл"
+  },
+  {
+    "ru": "В сумерках старый маяк выглядел так, будто его давно забыли люди и время.",
+    "en": "At dusk, the old lighthouse looked as though both people and time had forgotten it.",
+    "target_ru": "сумерках",
+    "target_en": "dusk, twilight",
+    "gloss_ru": "сумерки",
+    "pronunciation": "даск, твайлайт"
+  },
+  {
+    "ru": "Учёные предупреждали, что экологическое вымирание может начаться быстрее, чем все ожидали.",
+    "en": "Scientists warned that ecological extinction could begin far sooner than anyone expected.",
+    "target_ru": "экологическое вымирание",
+    "target_en": "ecological extinction",
+    "gloss_ru": "экологическое вымирание",
+    "pronunciation": "иколоджикэл экстинкшн"
+  },
+  {
+    "ru": "История вымирания мамонтов всегда казалась Лукасу гораздо грустнее школьных учебников.",
+    "en": "The story of the extinction of mammoths always seemed much sadder to Lucas than school textbooks suggested.",
+    "target_ru": "вымирания",
+    "target_en": "extinction",
+    "gloss_ru": "вымирание",
+    "pronunciation": "экстинкшн"
+  },
+  {
+    "ru": "Последний паром ушёл прямо перед носом Томаса, и ему пришлось ночевать в порту.",
+    "en": "The last ferry left just before Thomas reached the dock, so he had to spend the night in the harbour.",
+    "target_ru": "паром",
+    "target_en": "ferry",
+    "gloss_ru": "паром",
+    "pronunciation": "фэри"
+  },
+  {
+    "ru": "На городской площади запустили такой громкий фейерверк, что дети начали закрывать уши.",
+    "en": "Such loud fireworks were set off in the town square that the children started covering their ears.",
+    "target_ru": "фейерверк",
+    "target_en": "fire works",
+    "gloss_ru": "фейерверк",
+    "pronunciation": "файэрворкс"
+  },
+  {
+    "ru": "Пламя свечи дрожало от сквозняка, пока Сара читала письмо у окна.",
+    "en": "The flame of the candle trembled in the draft while Sarah read the letter by the window.",
+    "target_ru": "пламя",
+    "target_en": "flame",
+    "gloss_ru": "пламя",
+    "pronunciation": "флэйм"
+  },
+  {
+    "ru": "В небе внезапно появилась яркая вспышка, и люди на пляже сразу замолчали.",
+    "en": "A sudden flare appeared in the sky, and everyone on the beach immediately fell silent.",
+    "target_ru": "вспышка",
+    "target_en": "flare",
+    "gloss_ru": "вспышка",
+    "pronunciation": "флэр"
+  },
+  {
+    "ru": "Во время грозы молния ударила совсем рядом с домом, и свет погас во всём районе.",
+    "en": "During the storm, lightning struck very close to the house and the entire neighbourhood lost electricity.",
+    "target_ru": "молния",
+    "target_en": "flash/lightning",
+    "gloss_ru": "вспышка/молния",
+    "pronunciation": "флэш / лайтнинг"
+  },
+  {
+    "ru": "Утренний мороз покрыл окна такими узорами, будто их разрисовал художник.",
+    "en": "The morning frost covered the windows with patterns as though an artist had painted them.",
+    "target_ru": "мороз",
+    "target_en": "frost",
+    "gloss_ru": "мороз",
+    "pronunciation": "фрост"
+  },
+  {
+    "ru": "Фермер отказался использовать гербициды, потому что хотел сохранить старый сад живым.",
+    "en": "The farmer refused to use herbicides because he wanted to keep the old orchard alive.",
+    "target_ru": "гербициды",
+    "target_en": "herbicides",
+    "gloss_ru": "гербициды",
+    "pronunciation": "хёрбисайдс"
+  },
+  {
+    "ru": "Старый фонарь всё ещё висел у входа в дом и загорался каждый вечер автоматически.",
+    "en": "The old lantern still hung by the entrance to the house and lit up automatically every evening.",
+    "target_ru": "фонарь",
+    "target_en": "lantern",
+    "gloss_ru": "фонарь",
+    "pronunciation": "лэнтэрн"
+  },
+  {
+    "ru": "Эмма старалась покупать только органические продукты на рынке у фермеров.",
+    "en": "Emma tried to buy only organic food from the farmers' market.",
+    "target_ru": "органические",
+    "target_en": "organic",
+    "gloss_ru": "органический",
+    "pronunciation": "органик"
+  },
+  {
+    "ru": "Ночью сова сидела на крыше сарая и внимательно наблюдала за садом.",
+    "en": "At night, an owl sat on the roof of the barn and watched the garden carefully.",
+    "target_ru": "сова",
+    "target_en": "owl",
+    "gloss_ru": "сова",
+    "pronunciation": "аул"
+  },
+  {
+    "ru": "После скандала местные фермеры начали реже использовать пестициды на полях.",
+    "en": "After the scandal, local farmers began using fewer pesticides on their fields.",
+    "target_ru": "пестициды",
+    "target_en": "pesticides",
+    "gloss_ru": "пестициды",
+    "pronunciation": "пэстисайдс"
+  },
+  {
+    "ru": "Учёный объяснил детям, почему даже крошечный планктон так важен для океана.",
+    "en": "The scientist explained to the children why even tiny plankton was so important for the ocean.",
+    "target_ru": "планктон",
+    "target_en": "plankton",
+    "gloss_ru": "планктон",
+    "pronunciation": "плэнктон"
+  },
+  {
+    "ru": "Весной соседи решили посадить дерево во дворе вместо старой сломанной скамейки.",
+    "en": "In spring, the neighbours decided to plant a tree where the old broken bench had stood.",
+    "target_ru": "посадить",
+    "target_en": "plant",
+    "gloss_ru": "растение, сажать",
+    "pronunciation": "плант"
+  },
+  {
+    "ru": "Загрязнение воздуха стало особенно заметным зимой, когда над городом висел густой туман.",
+    "en": "Air pollution became especially noticeable in winter when thick fog hung over the city.",
+    "target_ru": "загрязнение",
+    "target_en": "pollution",
+    "gloss_ru": "загрязнение",
+    "pronunciation": "полюшн"
+  },
+  {
+    "ru": "После сильного дождя сточные воды снова попали в реку рядом с жилыми домами.",
+    "en": "After the heavy rain, sewage once again entered the river near the residential area.",
+    "target_ru": "сточные воды",
+    "target_en": "sewage",
+    "gloss_ru": "сточные воды",
+    "pronunciation": "сьюидж"
+  },
+  {
+    "ru": "Утром вместо снега пошёл мокрый снег, и дороги сразу превратились в кашу.",
+    "en": "In the morning, sleet started falling instead of snow, and the roads quickly turned slushy.",
+    "target_ru": "мокрый снег",
+    "target_en": "sleet",
+    "gloss_ru": "мокрый снег",
+    "pronunciation": "слит"
+  },
+  {
+    "ru": "Искра от костра случайно попала на старую куртку Томаса.",
+    "en": "A spark from the fire accidentally landed on Thomas's old jacket.",
+    "target_ru": "искра",
+    "target_en": "spark",
+    "gloss_ru": "искра",
+    "pronunciation": "спарк"
+  },
+  {
+    "ru": "После дождя мокрые улицы начинали сверкать в свете фонарей.",
+    "en": "After the rain, the wet streets started to sparkle under the street lamps.",
+    "target_ru": "сверкать",
+    "target_en": "sparkle",
+    "gloss_ru": "сверкать",
+    "pronunciation": "спаркл"
+  },
+  {
+    "ru": "Архитектор пытался создать устойчивый проект, который прослужит городу десятки лет.",
+    "en": "The architect was trying to create a sustainable project that would serve the city for decades.",
+    "target_ru": "устойчивый",
+    "target_en": "sustainable",
+    "gloss_ru": "устойчивый, жизнеспособный",
+    "pronunciation": "састэйнэбл"
+  },
+  {
+    "ru": "После долгой зимы началась оттепель, и во дворах наконец появился запах весны.",
+    "en": "After the long winter, the thaw began and the courtyards finally smelled of spring again.",
+    "target_ru": "оттепель",
+    "target_en": "thaw",
+    "gloss_ru": "оттепель, таять",
+    "pronunciation": "со"
+  },
+  {
+    "ru": "Грузовики с древесиной медленно двигались по узкой дороге через лес.",
+    "en": "The lorries carrying timber moved slowly along the narrow forest road.",
+    "target_ru": "древесиной",
+    "target_en": "timber",
+    "gloss_ru": "лесоматериалы, древесина",
+    "pronunciation": "тимбэр"
+  },
+  {
+    "ru": "После дождя зелёный газон возле дома выглядел почти идеально.",
+    "en": "After the rain, the green turf outside the house looked almost perfect.",
+    "target_ru": "газон",
+    "target_en": "turf",
+    "gloss_ru": "дерн, газон",
+    "pronunciation": "тёрф"
+  },
+  {
+    "ru": "В проходе самолёта застряла тележка с едой, и пассажиры начали нервно переглядываться.",
+    "en": "A food trolley became stuck in the aisle of the plane, and the passengers started exchanging nervous looks.",
+    "target_ru": "проходе",
+    "target_en": "aisle",
+    "gloss_ru": "проход",
+    "pronunciation": "айл"
+  },
+  {
+    "ru": "Когда Томас открыл капот, из машины сразу повалил густой белый дым.",
+    "en": "When Thomas lifted the bonnet, thick white smoke immediately poured out of the car.",
+    "target_ru": "капот",
+    "target_en": "bonnet",
+    "gloss_ru": "капот",
+    "pronunciation": "бонит"
+  },
+  {
+    "ru": "Как типичный городской житель, Майкл растерялся уже через пять минут в настоящем лесу.",
+    "en": "Like a typical city-dweller, Michael became confused after only five minutes in a real forest.",
+    "target_ru": "городской житель",
+    "target_en": "city-dweller",
+    "gloss_ru": "городской житель",
+    "pronunciation": "сити-двэлэр"
+  },
+  {
+    "ru": "Гардеробщик сразу узнал актрису, хотя она пришла в театр в обычном сером пальто.",
+    "en": "The cloak watcher recognised the actress immediately, although she arrived at the theatre in an ordinary grey coat.",
+    "target_ru": "гардеробщик",
+    "target_en": "cloak watcher",
+    "gloss_ru": "гардеробщик",
+    "pronunciation": "клоук уотчэр"
+  },
+  {
+    "ru": "Из‑за ужасного затора автобус едва двигался, а люди уже начали опаздывать на работу.",
+    "en": "Because of the terrible congestion, the bus barely moved and people were already running late for work.",
+    "target_ru": "затора",
+    "target_en": "congestion",
+    "gloss_ru": "затор, скопление",
+    "pronunciation": "конджэстчэн"
+  },
+  {
+    "ru": "Помятый бампер сразу выдал историю о вчерашней парковке возле супермаркета.",
+    "en": "The dented bumper immediately revealed the story of yesterday's parking attempt near the supermarket.",
+    "target_ru": "помятый бампер",
+    "target_en": "dented bumper",
+    "gloss_ru": "помятый бампер",
+    "pronunciation": "дэнтид бампэр"
+  },
+  {
+    "ru": "Незваный гость появился на свадьбе так уверенно, будто его лично приглашали молодожёны.",
+    "en": "The gate-crasher arrived at the wedding so confidently that it seemed the couple had invited him personally.",
+    "target_ru": "незваный гость",
+    "target_en": "gate-crasher",
+    "gloss_ru": "незваный гость",
+    "pronunciation": "гейт-крэшэр"
+  },
+  {
+    "ru": "Гид рассказывал о старом городе так увлечённо, что туристы забыли про дождь и холод.",
+    "en": "The guide spoke about the old town so passionately that the tourists forgot about the rain and cold.",
+    "target_ru": "гид",
+    "target_en": "guide",
+    "gloss_ru": "гид, проводник",
+    "pronunciation": "гайд"
+  },
+  {
+    "ru": "Рабочие начали устанавливать новые камеры прямо перед открытием магазина.",
+    "en": "The workers started to install new cameras just before the shop opened.",
+    "target_ru": "устанавливать",
+    "target_en": "install",
+    "gloss_ru": "устанавливать",
+    "pronunciation": "инстол"
+  },
+  {
+    "ru": "Богатый путешественник жаловался на скуку даже в роскошном отеле у океана.",
+    "en": "The jet-setter complained of boredom even in a luxurious hotel by the ocean.",
+    "target_ru": "богатый путешественник",
+    "target_en": "jet-setter",
+    "gloss_ru": "богатый путешественник",
+    "pronunciation": "джет-сэтэр"
+  },
+  {
+    "ru": "На скользкой дороге машину занесло, и она едва не сбила мужчину с собакой.",
+    "en": "On the slippery road, the car nearly knocked down a man walking his dog.",
+    "target_ru": "сбила",
+    "target_en": "knock down",
+    "gloss_ru": "сбивать с ног",
+    "pronunciation": "нок даун"
+  },
+  {
+    "ru": "Старый грузовик пытался обогнать автобус на узкой дороге у обрыва.",
+    "en": "The old lorry tried to overtake the bus on the narrow road beside the cliff.",
+    "target_ru": "обогнать",
+    "target_en": "overtake",
+    "gloss_ru": "обгонять",
+    "pronunciation": "оувэртэйк"
+  },
+  {
+    "ru": "Посылка из Италии пришла только через месяц, зато внутри лежала записка от бабушки.",
+    "en": "The parcel from Italy arrived only a month later, but inside there was a note from Grandma.",
+    "target_ru": "посылка",
+    "target_en": "parcel",
+    "gloss_ru": "посылка",
+    "pronunciation": "парсэл"
+  },
+  {
+    "ru": "На последней заправке бензин оказался почти в два раза дороже обычного.",
+    "en": "At the last petrol station, the fuel was almost twice as expensive as usual.",
+    "target_ru": "бензин",
+    "target_en": "petrol",
+    "gloss_ru": "бензин",
+    "pronunciation": "пэтрол"
+  },
+  {
+    "ru": "Чёрная машина резко остановилась прямо перед входом в отель.",
+    "en": "The black car suddenly pulled up right outside the hotel entrance.",
+    "target_ru": "остановилась",
+    "target_en": "pull up",
+    "gloss_ru": "останавливаться",
+    "pronunciation": "пул ап"
+  },
+  {
+    "ru": "Эмма случайно включила задний ход и чуть не врезалась в мусорный бак.",
+    "en": "Emma accidentally put the car into reverse and nearly crashed into a rubbish bin.",
+    "target_ru": "задний ход",
+    "target_en": "reverse",
+    "gloss_ru": "задний ход, двигаться назад",
+    "pronunciation": "ривёрс"
+  },
+  {
+    "ru": "Перед закатом друзья решили поставить палатку прямо у озера.",
+    "en": "Before sunset, the friends decided to set up a tent beside the lake.",
+    "target_ru": "поставить палатку",
+    "target_en": "set up a tent",
+    "gloss_ru": "ставить палатку",
+    "pronunciation": "сэт ап э тэнт"
+  },
+  {
+    "ru": "Во время дождя машину неожиданно занесло на повороте возле моста.",
+    "en": "During the rain, the car suddenly began to skid on the bend near the bridge.",
+    "target_ru": "занесло",
+    "target_en": "skid",
+    "gloss_ru": "занос, скользить",
+    "pronunciation": "скид"
+  },
+  {
+    "ru": "Старый чемодан Лукаса выглядел так, будто объехал уже половину мира.",
+    "en": "Lucas's old suitcase looked as though it had already travelled around half the world.",
+    "target_ru": "чемодан",
+    "target_en": "suit case",
+    "gloss_ru": "чемодан",
+    "pronunciation": "сьюткейс"
+  },
+  {
+    "ru": "Чтобы не сбить кота, водитель резко свернул в сторону и задел забор.",
+    "en": "To avoid hitting the cat, the driver had to swerve sharply and clipped the fence.",
+    "target_ru": "свернул в сторону",
+    "target_en": "swerve",
+    "gloss_ru": "сворачивать (в сторону)",
+    "pronunciation": "свёрв"
+  },
+  {
+    "ru": "Бак оказался почти пустым, и Томас начал нервно искать ближайшую заправку.",
+    "en": "The tank was nearly empty, and Thomas nervously started looking for the nearest petrol station.",
+    "target_ru": "бак",
+    "target_en": "tank",
+    "gloss_ru": "бак",
+    "pronunciation": "тэнк"
+  },
+  {
+    "ru": "У входа на рынок стояла маленькая палатка, где продавали горячие пирожки и кофе.",
+    "en": "Near the market entrance, there was a small stall selling hot pastries and coffee.",
+    "target_ru": "палатка",
+    "target_en": "tent, stall",
+    "gloss_ru": "палатка, ларек",
+    "pronunciation": "тэнт, стол"
+  },
+  {
+    "ru": "Светофор внезапно перестал работать, и на перекрёстке сразу начался хаос.",
+    "en": "The traffic lights suddenly stopped working, and chaos immediately broke out at the crossroads.",
+    "target_ru": "светофор",
+    "target_en": "traffic lights",
+    "gloss_ru": "светофор",
+    "pronunciation": "трэфик лайтс"
+  },
+  {
+    "ru": "Дворники едва справлялись с ливнем, и дорога почти исчезла из вида.",
+    "en": "The wipers could barely cope with the heavy rain, and the road almost disappeared from view.",
+    "target_ru": "дворники",
+    "target_en": "wipers",
+    "gloss_ru": "дворники (автомобиля)",
+    "pronunciation": "уайпэрз"
+  },
+  {
+    "ru": "Эмма долго выбирала аксессуар к чёрному платью, потому что вечером у неё было важное свидание.",
+    "en": "Emma spent ages choosing an accessory for her black dress because she had an important date that evening.",
+    "target_ru": "аксессуар",
+    "target_en": "accessory",
+    "gloss_ru": "аксессуар",
+    "pronunciation": "эксэсэри"
+  },
+  {
+    "ru": "На стене старого замка висел огромный боевой топор, покрытый пылью и паутиной.",
+    "en": "A huge battle axe covered in dust and cobwebs hung on the wall of the old castle.",
+    "target_ru": "боевой топор",
+    "target_en": "battle axe",
+    "gloss_ru": "боевой топор",
+    "pronunciation": "бэтл экс"
+  },
+  {
+    "ru": "Лезвие ножа блеснуло в свете кухни, и Сара сразу убрала руку подальше.",
+    "en": "The blade of the knife flashed in the kitchen light, and Sarah immediately pulled her hand away.",
+    "target_ru": "лезвие",
+    "target_en": "blade",
+    "gloss_ru": "лезвие",
+    "pronunciation": "блэйд"
+  },
+  {
+    "ru": "Полицейские нашли пулю прямо под старым деревянным столом в баре.",
+    "en": "The police found a bullet right beneath the old wooden table in the bar.",
+    "target_ru": "пулю",
+    "target_en": "bullet",
+    "gloss_ru": "пуля",
+    "pronunciation": "булит"
+  },
+  {
+    "ru": "Люстра в театре качнулась от сквозняка, и зрители тревожно подняли головы.",
+    "en": "The chandelier in the theatre swayed in the draft, and the audience looked up nervously.",
+    "target_ru": "люстра",
+    "target_en": "chandelier",
+    "gloss_ru": "люстра",
+    "pronunciation": "шэндэлиэр"
+  },
+  {
+    "ru": "Из телефона раздался короткий писк, и экран внезапно погас.",
+    "en": "A short bleep came from the phone, and the screen suddenly went dark.",
+    "target_ru": "писк",
+    "target_en": "bleep",
+    "gloss_ru": "писк",
+    "pronunciation": "блип"
+  },
+  {
+    "ru": "Мяч отскочил от стены и едва не разбил вазу у окна.",
+    "en": "The ball bounced off the wall and nearly smashed the vase by the window.",
+    "target_ru": "отскочил",
+    "target_en": "bounce",
+    "gloss_ru": "отскакивать",
+    "pronunciation": "баунс"
+  },
+  {
+    "ru": "По коридору медленно полз туман, и в доме стало жутко тихо.",
+    "en": "Fog crept slowly along the corridor, and the house became eerily quiet.",
+    "target_ru": "полз",
+    "target_en": "creep",
+    "gloss_ru": "ползти",
+    "pronunciation": "крип"
+  },
+  {
+    "ru": "После долгого тире в сообщении Эмма вдруг поняла, что разговор окончен.",
+    "en": "After the long dash in the message, Emma suddenly realised the conversation was over.",
+    "target_ru": "тире",
+    "target_en": "dash",
+    "gloss_ru": "тире, рывок",
+    "pronunciation": "дэш"
+  },
+  {
+    "ru": "Яркий снег ослеплял так сильно, что Томасу пришлось надеть очки.",
+    "en": "The bright snow dazzled Thomas so much that he had to put on sunglasses.",
+    "target_ru": "ослеплял",
+    "target_en": "dazzle",
+    "gloss_ru": "ослеплять",
+    "pronunciation": "дэзл"
+  },
+  {
+    "ru": "Космический корабль должен был состыковаться со станцией ещё до рассвета.",
+    "en": "The spacecraft was supposed to dock with the station before dawn.",
+    "target_ru": "состыковаться",
+    "target_en": "dock",
+    "gloss_ru": "стыковаться",
+    "pronunciation": "док"
+  },
+  {
+    "ru": "Прожектор у стадиона освещал пустую парковку почти всю ночь.",
+    "en": "The floodlight by the stadium lit up the empty car park almost all night.",
+    "target_ru": "прожектор",
+    "target_en": "floodlight",
+    "gloss_ru": "прожектор",
+    "pronunciation": "фладлайт"
+  },
+  {
+    "ru": "В окне старого дома появилось слабое мерцание, и дети сразу насторожились.",
+    "en": "A faint glimmer appeared in the window of the old house, and the children immediately grew uneasy.",
+    "target_ru": "мерцание",
+    "target_en": "glimmer",
+    "gloss_ru": "мерцание",
+    "pronunciation": "глимэр"
+  },
+  {
+    "ru": "Мягкое свечение лампы делало комнату удивительно уютной.",
+    "en": "The soft glow of the lamp made the room feel surprisingly cosy.",
+    "target_ru": "свечение",
+    "target_en": "glow",
+    "gloss_ru": "свечение",
+    "pronunciation": "глоу"
+  },
+  {
+    "ru": "Из старой трубы доносилось тихое шипение, которое никто не мог объяснить.",
+    "en": "A quiet hiss came from the old pipe, and nobody could explain it.",
+    "target_ru": "шипение",
+    "target_en": "hiss",
+    "gloss_ru": "шипение",
+    "pronunciation": "хис"
+  },
+  {
+    "ru": "Мальчик перепрыгнул через лужу и всё равно промочил ботинки.",
+    "en": "The boy jumped over the puddle and still managed to soak his shoes.",
+    "target_ru": "перепрыгнул",
+    "target_en": "jump",
+    "gloss_ru": "прыгать",
+    "pronunciation": "джамп"
+  },
+  {
+    "ru": "Один мощный прыжок спас собаку от ледяной воды у моста.",
+    "en": "One powerful leap saved the dog from the freezing water near the bridge.",
+    "target_ru": "прыжок",
+    "target_en": "leap",
+    "gloss_ru": "прыжок",
+    "pronunciation": "лип"
+  },
+  {
+    "ru": "Во время взлёта ракеты люди на площади начали аплодировать.",
+    "en": "During the rocket's lift-off, people in the square began to applaud.",
+    "target_ru": "взлёта",
+    "target_en": "lift-off",
+    "gloss_ru": "старт, взлет",
+    "pronunciation": "лифт-оф"
+  },
+  {
+    "ru": "После скандального интервью актёр снова оказался в центре внимания.",
+    "en": "After the scandalous interview, the actor found himself back in the limelight.",
+    "target_ru": "в центре внимания",
+    "target_en": "limelight",
+    "gloss_ru": "в центре внимания",
+    "pronunciation": "лаймлайт"
+  },
+  {
+    "ru": "Из кухни раздался громкий хлопок, и Эмма уронила чашку от неожиданности.",
+    "en": "A loud pop came from the kitchen, and Emma dropped her cup in surprise.",
+    "target_ru": "хлопок",
+    "target_en": "pop",
+    "gloss_ru": "хлопок, хлопать",
+    "pronunciation": "поп"
+  },
+  {
+    "ru": "Старик сидел на скамейке и делал медленные затяжки трубкой.",
+    "en": "The old man sat on the bench taking slow puffs from his pipe.",
+    "target_ru": "затяжки",
+    "target_en": "puff",
+    "gloss_ru": "пыхтение, затяжка",
+    "pronunciation": "паф"
+  },
+  {
+    "ru": "Осенью деревья начинают сбрасывать листья почти за одну неделю.",
+    "en": "In autumn, the trees begin to shed their leaves within just one week.",
+    "target_ru": "сбрасывать",
+    "target_en": "shed",
+    "gloss_ru": "проливать, сарай",
+    "pronunciation": "шед"
+  },
+  {
+    "ru": "Маленький ребёнок размазал варенье по всей скатерти.",
+    "en": "The little child smeared jam all over the tablecloth.",
+    "target_ru": "размазал",
+    "target_en": "smear",
+    "gloss_ru": "мазать, размазывать",
+    "pronunciation": "смиэр"
+  },
+  {
+    "ru": "После пожара в комнате всё ещё чувствовался тлеющий запах дыма.",
+    "en": "After the fire, the room still smelled faintly of smouldered wood and smoke.",
+    "target_ru": "тлеющий",
+    "target_en": "smouldered",
+    "gloss_ru": "тлеющий, задымленный",
+    "pronunciation": "смолдэрд"
+  },
+  {
+    "ru": "Томас так громко храпел, что никто в доме не мог уснуть.",
+    "en": "Thomas snored so loudly that nobody in the house could fall asleep.",
+    "target_ru": "храпел",
+    "target_en": "snore",
+    "gloss_ru": "храпеть",
+    "pronunciation": "снор"
+  },
+  {
+    "ru": "Её голос звучал спокойно, хотя руки заметно дрожали.",
+    "en": "Her voice sounded calm although her hands were clearly shaking.",
+    "target_ru": "звучал",
+    "target_en": "sound",
+    "gloss_ru": "звучать, звук",
+    "pronunciation": "саунд"
+  },
+  {
+    "ru": "Лукас случайно пролил кофе прямо на новые документы.",
+    "en": "Lucas accidentally spilled coffee all over the new documents.",
+    "target_ru": "пролил",
+    "target_en": "spill",
+    "gloss_ru": "проливать",
+    "pronunciation": "спил"
+  },
+  {
+    "ru": "Прожектор осветил сцену, и зал сразу затих.",
+    "en": "The spotlight lit up the stage, and the audience immediately fell silent.",
+    "target_ru": "прожектор",
+    "target_en": "spotlight",
+    "gloss_ru": "прожектор",
+    "pronunciation": "спотлайт"
+  },
+  {
+    "ru": "Чайки пронзительно кричали над портом ещё до рассвета.",
+    "en": "The seagulls squawked loudly above the harbour long before sunrise.",
+    "target_ru": "пронзительно кричали",
+    "target_en": "squawk",
+    "gloss_ru": "пронзительно кричать",
+    "pronunciation": "сквок"
+  },
+  {
+    "ru": "Старая дверь издала тихий писк и медленно открылась.",
+    "en": "The old door gave a quiet squeak and slowly opened.",
+    "target_ru": "писк",
+    "target_en": "squeak",
+    "gloss_ru": "писк",
+    "pronunciation": "сквик"
+  },
+  {
+    "ru": "После бессонной ночи Майкл шатался по кухне с чашкой холодного чая.",
+    "en": "After a sleepless night, Michael staggered around the kitchen holding a cup of cold tea.",
+    "target_ru": "шатался",
+    "target_en": "stagger",
+    "gloss_ru": "шататься",
+    "pronunciation": "стэгэр"
+  },
+  {
+    "ru": "Девочка уставилась на старую картину так, будто увидела в ней что‑то знакомое.",
+    "en": "The girl stared at the old painting as though she recognised something in it.",
+    "target_ru": "уставилась",
+    "target_en": "stare",
+    "gloss_ru": "уставиться, пристально смотреть",
+    "pronunciation": "стэр"
+  },
+  {
+    "ru": "Сверху раздался глухой удар, и в квартире вдруг стало тихо.",
+    "en": "A heavy thud came from upstairs, and the flat suddenly went quiet.",
+    "target_ru": "глухой удар",
+    "target_en": "thud",
+    "gloss_ru": "глухой удар",
+    "pronunciation": "сад"
+  },
+  {
+    "ru": "Где‑то в глубине дома тихо звенели старые часы.",
+    "en": "Somewhere deep inside the house, old clocks were softly tinkling.",
+    "target_ru": "звенели",
+    "target_en": "tinkle",
+    "gloss_ru": "звенеть, звон",
+    "pronunciation": "тинкл"
+  },
+  {
+    "ru": "Колокол начал звонить ровно в полночь, и улица сразу опустела.",
+    "en": "The bell began to toll exactly at midnight, and the street immediately emptied.",
+    "target_ru": "звонить",
+    "target_en": "toll",
+    "gloss_ru": "звонить (о колоколе), пошлина",
+    "pronunciation": "тоул"
+  },
+  {
+    "ru": "Огни на набережной мерцали в воде после дождя.",
+    "en": "The lights along the embankment twinkled in the water after the rain.",
+    "target_ru": "мерцали",
+    "target_en": "twinkle",
+    "gloss_ru": "мерцать",
+    "pronunciation": "твинкл"
+  },
+  {
+    "ru": "После ливня людям пришлось с трудом пробираться через огромные лужи.",
+    "en": "After the storm, people had to wade through enormous puddles.",
+    "target_ru": "с трудом пробираться",
+    "target_en": "wade through",
+    "gloss_ru": "пробираться с трудом",
+    "pronunciation": "уэйд сру"
+  },
+  {
+    "ru": "Аудио оказалось таким плохим, что никто не понял половину интервью.",
+    "en": "The audio quality was so poor that nobody understood half of the interview.",
+    "target_ru": "аудио",
+    "target_en": "audio",
+    "gloss_ru": "аудио",
+    "pronunciation": "одиоу"
+  },
+  {
+    "ru": "Потоковое вещание полностью изменило то, как люди слушают музыку дома.",
+    "en": "Streaming has completely changed the way people listen to music at home.",
+    "target_ru": "Потоковое вещание",
+    "target_en": "streaming",
+    "gloss_ru": "потоковое вещание, разделение (учеников)",
+    "pronunciation": "стриминг"
+  },
+  {
+    "ru": "Навязчивая рекламная мелодия крутилась у Эммы в голове весь день.",
+    "en": "The catchy jingle stayed in Emma's head for the entire day.",
+    "target_ru": "Навязчивая рекламная мелодия",
+    "target_en": "catchy jingles",
+    "gloss_ru": "навязчивая рекламная мелодия",
+    "pronunciation": "кэчи джинглз"
+  },
+  {
+    "ru": "Хор начал петь так тихо, что зрители перестали даже шевелиться.",
+    "en": "The choir began singing so softly that the audience stopped moving altogether.",
+    "target_ru": "Хор",
+    "target_en": "choir",
+    "gloss_ru": "хор",
+    "pronunciation": "куайэр"
+  },
+  {
+    "ru": "В детстве Эмма мечтала стать астронавтом и часами смотрела передачи про космос.",
+    "en": "As a child, Emma dreamed of becoming an astronaut and spent hours watching programmes about space.",
+    "target_ru": "астронавтом",
+    "target_en": "astronaut",
+    "gloss_ru": "астронавт",
+    "pronunciation": "эстронот"
+  },
+  {
+    "ru": "Техник пытался соединить компьютер с сервером, пока остальные ждали начала презентации.",
+    "en": "The technician tried to connect the computer to the server while everyone else waited for the presentation to begin.",
+    "target_ru": "соединить",
+    "target_en": "connect to",
+    "gloss_ru": "соединять с",
+    "pronunciation": "коннект ту"
+  },
+  {
+    "ru": "На Луне гравитация намного слабее, поэтому астронавты двигаются совсем иначе.",
+    "en": "Gravity is much weaker on the Moon, so astronauts move very differently there.",
+    "target_ru": "гравитация",
+    "target_en": "gravity",
+    "gloss_ru": "гравитация, серьезность",
+    "pronunciation": "грэвити"
+  },
+  {
+    "ru": "В университетской лаборатории даже ночью горел свет и кто‑то тихо спорил о формулах.",
+    "en": "Even late at night, the lights were still on in the university laboratory and someone could be heard arguing quietly about formulas.",
+    "target_ru": "лаборатории",
+    "target_en": "laboratory",
+    "gloss_ru": "лаборатория",
+    "pronunciation": "лэборатри"
+  },
+  {
+    "ru": "Компания собирается запустить новый спутник уже следующей весной.",
+    "en": "The company is planning to launch a new satellite next spring.",
+    "target_ru": "запустить",
+    "target_en": "launch",
+    "gloss_ru": "запускать",
+    "pronunciation": "лонч"
+  },
+  {
+    "ru": "На стартовой площадке стояла ракета, освещённая десятками мощных прожекторов.",
+    "en": "A rocket stood on the launching pad illuminated by dozens of powerful floodlights.",
+    "target_ru": "стартовой площадке",
+    "target_en": "launching pad",
+    "gloss_ru": "стартовая площадка",
+    "pronunciation": "лончинг пэд"
+  },
+  {
+    "ru": "Первый пилотируемый полёт вызвал такой ажиотаж, что люди ночевали у музея ради билетов.",
+    "en": "The first manned flight caused such excitement that people spent the night outside the museum to buy tickets.",
+    "target_ru": "пилотируемый",
+    "target_en": "manned",
+    "gloss_ru": "с экипажем, пилотируемый",
+    "pronunciation": "мэнд"
+  },
+  {
+    "ru": "Спутник вышел на орбиту точно по плану, и в центре управления все начали аплодировать.",
+    "en": "The satellite entered orbit exactly as planned, and everyone in mission control started applauding.",
+    "target_ru": "орбиту",
+    "target_en": "orbit",
+    "gloss_ru": "орбита",
+    "pronunciation": "орбит"
+  },
+  {
+    "ru": "Молодой физик так увлёкся своей лекцией, что не заметил, как аудитория опустела.",
+    "en": "The young physicist became so absorbed in his lecture that he did not notice the audience leaving.",
+    "target_ru": "физик",
+    "target_en": "physicist",
+    "gloss_ru": "физик",
+    "pronunciation": "физисист"
+  },
+  {
+    "ru": "Старый спутник всё ещё передавал слабый сигнал спустя много лет после запуска.",
+    "en": "The old satellite was still transmitting a weak signal many years after its launch.",
+    "target_ru": "спутник",
+    "target_en": "satellite",
+    "gloss_ru": "спутник",
+    "pronunciation": "сэтэлайт"
+  },
+  {
+    "ru": "Космический корабль медленно исчезал в тёмном небе, пока люди молча смотрели вверх.",
+    "en": "The spacecraft slowly disappeared into the dark sky while the crowd watched silently.",
+    "target_ru": "Космический корабль",
+    "target_en": "spacecraft",
+    "gloss_ru": "космический корабль",
+    "pronunciation": "спэйскрафт"
+  },
+  {
+    "ru": "Новая техника обучения помогла студентам быстрее запоминать сложные формулы.",
+    "en": "The new technique helped the students memorise complicated formulas much more quickly.",
+    "target_ru": "техника",
+    "target_en": "technique",
+    "gloss_ru": "техника, метод",
+    "pronunciation": "тэкник"
+  },
+  {
+    "ru": "Полиция пыталась отследить сигнал телефона, прежде чем машина исчезла за городом.",
+    "en": "The police tried to trace the phone signal before the car disappeared outside the city.",
+    "target_ru": "отследить",
+    "target_en": "trace",
+    "gloss_ru": "след, отслеживать",
+    "pronunciation": "трэйс"
+  },
+  {
+    "ru": "Томас забыл включить микрофон, и половина встречи прошла в полной тишине.",
+    "en": "Thomas forgot to turn on the microphone, and half of the meeting passed in complete silence.",
+    "target_ru": "включить",
+    "target_en": "turn on",
+    "gloss_ru": "включать",
+    "pronunciation": "тёрн он"
+  },
+  {
+    "ru": "Несмотря на современные тренды, дедушка по-прежнему предпочитает традиционный английский завтрак.",
+    "en": "Despite modern trends, Grandfather still prefers a conventional English breakfast.",
+    "target_ru": "традиционный",
+    "target_en": "conventional",
+    "gloss_ru": "традиционный",
+    "pronunciation": "кэнвэншэнэл"
+  },
+  {
+    "ru": "Обратный отсчёт до запуска ракеты показывали на огромном экране прямо посреди площади.",
+    "en": "The countdown to the rocket launch was displayed on a huge screen in the middle of the square.",
+    "target_ru": "Обратный отсчёт",
+    "target_en": "countdown",
+    "gloss_ru": "обратный отсчет",
+    "pronunciation": "каунтдаун"
+  },
+  {
+    "ru": "Постоянные совещания оказались настолько контрпродуктивными, что команда перестала успевать в сроки.",
+    "en": "The endless meetings became so counter-productive that the team stopped meeting deadlines.",
+    "target_ru": "контрпродуктивными",
+    "target_en": "counter-productive",
+    "gloss_ru": "контрпродуктивный",
+    "pronunciation": "каунтэр-прэдактив"
+  },
+  {
+    "ru": "Шторм нанёс серьёзный ущерб старому мосту возле деревни.",
+    "en": "The storm caused serious damage to the old bridge near the village.",
+    "target_ru": "ущерб",
+    "target_en": "damage to",
+    "gloss_ru": "ущерб чему-то",
+    "pronunciation": "дэмидж ту"
+  },
+  {
+    "ru": "За последнее десятилетие этот район изменился почти до неузнаваемости.",
+    "en": "Over the last decade, this district has changed almost beyond recognition.",
+    "target_ru": "десятилетие",
+    "target_en": "decade",
+    "gloss_ru": "десятилетие",
+    "pronunciation": "дэкэйд"
+  },
+  {
+    "ru": "Маленькая девочка смотрела на снег с таким восторгом, будто видела его впервые.",
+    "en": "The little girl looked at the snow with such delight as if she had never seen it before.",
+    "target_ru": "восторгом",
+    "target_en": "delight",
+    "gloss_ru": "восторг, наслаждение",
+    "pronunciation": "дилайт"
+  },
+  {
+    "ru": "Редактор начал диктовать правки так быстро, что секретарь едва успевала записывать.",
+    "en": "The editor started to dictate the corrections so quickly that the secretary could barely keep up.",
+    "target_ru": "диктовать",
+    "target_en": "dictate",
+    "gloss_ru": "диктовать",
+    "pronunciation": "диктэйт"
+  },
+  {
+    "ru": "Жёсткая дисциплина в школе пугала новых учеников уже с первого дня.",
+    "en": "The strict discipline at the school frightened new students from the very first day.",
+    "target_ru": "дисциплина",
+    "target_en": "discipline",
+    "gloss_ru": "дисциплина",
+    "pronunciation": "дисиплин"
+  },
+  {
+    "ru": "После выборов в семье начались серьёзные разногласия, и за ужином почти никто не разговаривал.",
+    "en": "After the election, serious discord appeared in the family and hardly anyone spoke during dinner.",
+    "target_ru": "разногласия",
+    "target_en": "discord",
+    "gloss_ru": "разногласие, раздор",
+    "pronunciation": "дискорд"
+  },
+  {
+    "ru": "Его странная маскировка никого не обманула, потому что голос всё равно был узнаваемым.",
+    "en": "His strange disguise fooled nobody because his voice was still recognisable.",
+    "target_ru": "маскировка",
+    "target_en": "disguise",
+    "gloss_ru": "маскировка",
+    "pronunciation": "дисгайз"
+  },
+  {
+    "ru": "Газеты часто искажают факты, чтобы сделать историю более драматичной.",
+    "en": "Newspapers often distort facts in order to make a story more dramatic.",
+    "target_ru": "искажают",
+    "target_en": "distort",
+    "gloss_ru": "искажать",
+    "pronunciation": "дисторт"
+  },
+  {
+    "ru": "Его комментарий оказался настолько вызывающим разногласия, что спор продолжался до ночи.",
+    "en": "His comment was so divisive that the argument continued late into the night.",
+    "target_ru": "вызывающим разногласия",
+    "target_en": "divisive",
+    "gloss_ru": "вызывающий разногласия",
+    "pronunciation": "дивайсив"
+  },
+  {
+    "ru": "На кухне стояла целая дюжина свежих булочек с корицей.",
+    "en": "There was a dozen fresh cinnamon buns on the kitchen table.",
+    "target_ru": "дюжина",
+    "target_en": "dozen",
+    "gloss_ru": "дюжина",
+    "pronunciation": "дазн"
+  },
+  {
+    "ru": "Как настоящая ранняя пташка, Сара всегда приходит в офис раньше всех.",
+    "en": "Like a true early bird, Sarah always arrives at the office before everyone else.",
+    "target_ru": "ранняя пташка",
+    "target_en": "early bird",
+    "gloss_ru": "ранняя пташка",
+    "pronunciation": "ёрли бёрд"
+  },
+  {
+    "ru": "Учитель пытался вовлечь детей в обсуждение, но большинство молчало.",
+    "en": "The teacher tried to engage the children into the discussion, but most of them stayed silent.",
+    "target_ru": "вовлечь",
+    "target_en": "engage into",
+    "gloss_ru": "вовлекать в",
+    "pronunciation": "ингейдж инту"
+  },
+  {
+    "ru": "Просвещённый король поощрял науку и приглашал учёных со всей Европы.",
+    "en": "The enlightened king encouraged science and invited scholars from all over Europe.",
+    "target_ru": "Просвещённый",
+    "target_en": "enlightened",
+    "gloss_ru": "просвещенный",
+    "pronunciation": "инлайтэнд"
+  },
+  {
+    "ru": "Компания пообещала обеспечить безопасность данных всех пользователей.",
+    "en": "The company promised to ensure the safety of all users' data.",
+    "target_ru": "обеспечить",
+    "target_en": "ensure",
+    "gloss_ru": "обеспечивать, гарантировать",
+    "pronunciation": "иншур"
+  },
+  {
+    "ru": "Люди до сих пор спорят о том, какой была настоящая атмосфера той эпохи.",
+    "en": "People still argue about what life was really like during that era.",
+    "target_ru": "эпохи",
+    "target_en": "era",
+    "gloss_ru": "эра",
+    "pronunciation": "иэра"
+  },
+  {
+    "ru": "Чрезмерный шум с улицы мешал Томасу сосредоточиться на работе.",
+    "en": "The excessive noise from the street prevented Thomas from concentrating on his work.",
+    "target_ru": "Чрезмерный",
+    "target_en": "excessive",
+    "gloss_ru": "чрезмерный",
+    "pronunciation": "иксэсив"
+  },
+  {
+    "ru": "На новой выставке показывали редкие фотографии Лондона начала прошлого века.",
+    "en": "The new exhibition displayed rare photographs of London from the beginning of the last century.",
+    "target_ru": "выставке",
+    "target_en": "exhibition",
+    "gloss_ru": "выставка",
+    "pronunciation": "эксибишн"
+  },
+  {
+    "ru": "Некоторые компании продолжают эксплуатировать сотрудников, заставляя их работать без выходных.",
+    "en": "Some companies still exploit their employees by forcing them to work without days off.",
+    "target_ru": "эксплуатировать",
+    "target_en": "exploit",
+    "gloss_ru": "эксплуатировать",
+    "pronunciation": "эксплойт"
+  },
+  {
+    "ru": "В ресторане подали изысканный десерт с клубникой и мятным кремом.",
+    "en": "The restaurant served an exquisite dessert with strawberries and mint cream.",
+    "target_ru": "изысканный",
+    "target_en": "exquisite",
+    "gloss_ru": "изысканный",
+    "pronunciation": "эксквизит"
+  },
+  {
+    "ru": "Его дальновидное решение спасло компанию от серьёзных финансовых проблем.",
+    "en": "His far-sighted decision saved the company from serious financial difficulties.",
+    "target_ru": "дальновидное",
+    "target_en": "far-sighted",
+    "gloss_ru": "дальновидный",
+    "pronunciation": "фар-сайтид"
+  },
+  {
+    "ru": "Перед взлётом стюардесса попросила всех пристегнуть ремни.",
+    "en": "Before take-off, the flight attendant asked everyone to fasten their seat belts.",
+    "target_ru": "пристегнуть",
+    "target_en": "fasten",
+    "gloss_ru": "пристегивать",
+    "pronunciation": "фасэн"
+  },
+  {
+    "ru": "По какой-то причине Майкл весь вечер избегал разговора о своей новой работе.",
+    "en": "For some reason, Michael avoided talking about his new job all evening.",
+    "target_ru": "По какой-то причине",
+    "target_en": "for some reason",
+    "gloss_ru": "по какой-то причине",
+    "pronunciation": "фор сам ризэн"
+  },
+  {
+    "ru": "В комнате стоял тонкий аромат кофе и свежей выпечки.",
+    "en": "A delicate fragrance of coffee and fresh pastries filled the room.",
+    "target_ru": "аромат",
+    "target_en": "fragrance",
+    "gloss_ru": "аромат, запах",
+    "pronunciation": "фрэйгрэнс"
+  },
+  {
+    "ru": "За несколько месяцев Сара приобрела огромный опыт работы с клиентами.",
+    "en": "Within a few months, Sarah gained a great deal of experience working with clients.",
+    "target_ru": "приобрела",
+    "target_en": "gain",
+    "gloss_ru": "получать, приобретать",
+    "pronunciation": "гейн"
+  },
+  {
+    "ru": "Хозяин дома оказался настолько щедрым, что оплатил ужин для всех гостей.",
+    "en": "The host was so generous that he paid for dinner for all the guests.",
+    "target_ru": "щедрым",
+    "target_en": "generous",
+    "gloss_ru": "щедрый",
+    "pronunciation": "джэнэрэс"
+  },
+  {
+    "ru": "Его грубый комментарий выглядел совершенно необоснованным.",
+    "en": "His rude comment seemed completely gratuitous.",
+    "target_ru": "необоснованным",
+    "target_en": "gratuitous",
+    "gloss_ru": "безвозмездный, необоснованный",
+    "pronunciation": "грэтьюитэс"
+  },
+  {
+    "ru": "Привычный маршрут до офиса внезапно оказался перекрыт из-за аварии.",
+    "en": "The habitual route to the office was suddenly blocked because of an accident.",
+    "target_ru": "Привычный",
+    "target_en": "habitual",
+    "gloss_ru": "привычный",
+    "pronunciation": "хэбитчуэл"
+  },
+  {
+    "ru": "Эмма поняла намёк и сразу сменила тему разговора.",
+    "en": "Emma understood the hint and immediately changed the subject.",
+    "target_ru": "намёк",
+    "target_en": "hint",
+    "gloss_ru": "намек",
+    "pronunciation": "хинт"
+  },
+  {
+    "ru": "Учитель не хотел унижать мальчика перед всем классом.",
+    "en": "The teacher did not want to humiliate the boy in front of the whole class.",
+    "target_ru": "унижать",
+    "target_en": "humiliate",
+    "gloss_ru": "унижать",
+    "pronunciation": "хьюмилиэйт"
+  },
+  {
+    "ru": "У сестёр были почти идентичные голоса, и люди постоянно их путали.",
+    "en": "The sisters had almost identical voices, and people constantly confused them.",
+    "target_ru": "идентичные",
+    "target_en": "identical",
+    "gloss_ru": "идентичный",
+    "pronunciation": "айдэнтикэл"
+  },
+  {
+    "ru": "Никто не имеет права навязывать другим свои политические взгляды.",
+    "en": "Nobody has the right to impose their political views on others.",
+    "target_ru": "навязывать",
+    "target_en": "impose",
+    "gloss_ru": "налагать, навязывать",
+    "pronunciation": "импоуз"
+  },
+  {
+    "ru": "На публике Томас всегда выглядел уверенным, хотя внутри сильно нервничал.",
+    "en": "In public, Thomas always appeared confident although he felt extremely nervous inside.",
+    "target_ru": "На публике",
+    "target_en": "in public",
+    "gloss_ru": "на публике",
+    "pronunciation": "ин паблик"
+  },
+  {
+    "ru": "В прошлом этот дом принадлежал известному писателю.",
+    "en": "In the past, the house belonged to a famous writer.",
+    "target_ru": "В прошлом",
+    "target_en": "in the past",
+    "gloss_ru": "в прошлом",
+    "pronunciation": "ин зэ паст"
+  },
+  {
+    "ru": "Красная стрелка указывала на маленькую дверь в конце коридора.",
+    "en": "The red arrow indicated the small door at the end of the corridor.",
+    "target_ru": "указывала",
+    "target_en": "indicate",
+    "gloss_ru": "указывать",
+    "pronunciation": "индикэйт"
+  },
+  {
+    "ru": "Майкл казался совершенно безразличным к чужому мнению.",
+    "en": "Michael seemed completely indifferent to other people's opinions.",
+    "target_ru": "безразличным к",
+    "target_en": "indifferent to",
+    "gloss_ru": "безразличный к",
+    "pronunciation": "индифэрэнт ту"
+  },
+  {
+    "ru": "Страх перемен — это неотъемлемая часть человеческой природы.",
+    "en": "Fear of change is an inherent part of human nature.",
+    "target_ru": "неотъемлемая",
+    "target_en": "inherent",
+    "gloss_ru": "неотъемлемый",
+    "pronunciation": "инхирэнт"
+  },
+  {
+    "ru": "Их взаимодействие выглядело настолько естественным, будто они знали друг друга много лет.",
+    "en": "Their interaction looked so natural as if they had known each other for years.",
+    "target_ru": "взаимодействие",
+    "target_en": "interaction",
+    "gloss_ru": "взаимодействие",
+    "pronunciation": "интэракшн"
+  },
+  {
+    "ru": "Во время конференции учёные активно взаимодействовали с журналистами.",
+    "en": "During the conference, the scientists actively interacted with journalists.",
+    "target_ru": "взаимодействовали",
+    "target_en": "interact",
+    "gloss_ru": "взаимодействовать",
+    "pronunciation": "интэракт"
+  },
+  {
+    "ru": "Соседи постоянно вмешивались в чужие разговоры, чем ужасно раздражали всех вокруг.",
+    "en": "The neighbours constantly interfered in other people's conversations, which annoyed everyone around them.",
+    "target_ru": "вмешивались",
+    "target_en": "interfere",
+    "gloss_ru": "вмешиваться",
+    "pronunciation": "интэфир"
+  },
+  {
+    "ru": "Журналист слишком настойчиво вторгался в личную жизнь актрисы, и интервью быстро закончилось.",
+    "en": "The journalist intruded into the actress's private life so aggressively that the interview ended quickly.",
+    "target_ru": "вторгался",
+    "target_en": "intrude",
+    "gloss_ru": "вторгаться",
+    "pronunciation": "интруд"
+  },
+  {
+    "ru": "Новый проект вовлёк в работу даже тех сотрудников, которые раньше держались в стороне.",
+    "en": "The new project involved even those employees who had previously stayed away from teamwork.",
+    "target_ru": "вовлёк",
+    "target_en": "involve",
+    "gloss_ru": "вовлекать",
+    "pronunciation": "инволв"
+  },
+  {
+    "ru": "Главной проблемой на встрече оказался постоянный перенос сроков.",
+    "en": "The main issue at the meeting turned out to be the constant postponement of deadlines.",
+    "target_ru": "проблемой",
+    "target_en": "issue",
+    "gloss_ru": "вопрос, проблема, выпуск",
+    "pronunciation": "ишью"
+  },
+  {
+    "ru": "В списке покупок был странный пункт, написанный чужим почерком.",
+    "en": "There was a strange item on the shopping list written in someone else's handwriting.",
+    "target_ru": "пункт",
+    "target_en": "item",
+    "gloss_ru": "пункт, предмет",
+    "pronunciation": "айтэм"
+  },
+  {
+    "ru": "Ключ от старого дома всё это время лежал у бабушки в ящике стола.",
+    "en": "The key to the old house had been lying in Grandma's desk drawer all this time.",
+    "target_ru": "Ключ",
+    "target_en": "key",
+    "gloss_ru": "ключ",
+    "pronunciation": "ки"
+  },
+  {
+    "ru": "В его докладе явно не хватало конкретных примеров и цифр.",
+    "en": "His report was clearly lacking concrete examples and figures.",
+    "target_ru": "не хватало",
+    "target_en": "lacking",
+    "gloss_ru": "недостающий",
+    "pronunciation": "лэкинг"
+  },
+  {
+    "ru": "После увольнения Майкл несколько месяцев жил за счёт родителей.",
+    "en": "After losing his job, Michael lived off his parents for several months.",
+    "target_ru": "жил за счёт",
+    "target_en": "live off",
+    "gloss_ru": "жить за счет",
+    "pronunciation": "лив оф"
+  },
+  {
+    "ru": "Соседи слишком громко слушали музыку, и Эмма не могла уснуть до трёх ночи.",
+    "en": "The neighbours were playing music so loudly that Emma could not fall asleep until three in the morning.",
+    "target_ru": "громко",
+    "target_en": "loudly",
+    "gloss_ru": "громко",
+    "pronunciation": "лаудли"
+  },
+  {
+    "ru": "Учитель сделал скидку на её волнение и не стал снижать оценку.",
+    "en": "The teacher made allowances for her nervousness and decided not to lower her grade.",
+    "target_ru": "сделал скидку на",
+    "target_en": "make allowances for",
+    "gloss_ru": "делать скидку на",
+    "pronunciation": "мейк элауэнсиз фор"
+  },
+  {
+    "ru": "Томас даже не упомянул о том, что собирается переехать в другую страну.",
+    "en": "Thomas did not even mention that he was planning to move to another country.",
+    "target_ru": "упомянул",
+    "target_en": "mention",
+    "gloss_ru": "упоминать",
+    "pronunciation": "мэншн"
+  },
+  {
+    "ru": "Такие аварии редко происходят в этом спокойном районе.",
+    "en": "Such accidents rarely occur in this quiet neighbourhood.",
+    "target_ru": "происходят",
+    "target_en": "occur",
+    "gloss_ru": "происходить, случаться",
+    "pronunciation": "экёр"
+  },
+  {
+    "ru": "В его поведении было что‑то странное, но никто не мог понять что именно.",
+    "en": "There was something odd about his behaviour, but nobody could explain what it was.",
+    "target_ru": "странное",
+    "target_en": "odd",
+    "gloss_ru": "нечетный, странный",
+    "pronunciation": "од"
+  },
+  {
+    "ru": "По причине сильного тумана рейс задержали почти на четыре часа.",
+    "en": "On account of the heavy fog, the flight was delayed for almost four hours.",
+    "target_ru": "По причине",
+    "target_en": "on account of",
+    "gloss_ru": "по причине",
+    "pronunciation": "он экаунт оф"
+  },
+  {
+    "ru": "Напротив кафе открылся маленький книжный магазин с редкими изданиями.",
+    "en": "A small bookshop with rare editions opened opposite the café.",
+    "target_ru": "Напротив",
+    "target_en": "opposite",
+    "gloss_ru": "напротив",
+    "pronunciation": "опэзит"
+  },
+  {
+    "ru": "Для всей семьи переезд зимой без денег стал настоящим суровым испытанием.",
+    "en": "Moving house in winter without money became a real ordeal for the whole family.",
+    "target_ru": "суровым испытанием",
+    "target_en": "ordeal",
+    "gloss_ru": "суровое испытание",
+    "pronunciation": "ордиэл"
+  },
+  {
+    "ru": "Соотношение сахара и муки оказалось неправильным, поэтому пирог не поднялся.",
+    "en": "The ratio of sugar to flour was wrong, so the cake did not rise properly.",
+    "target_ru": "Соотношение",
+    "target_en": "ratio",
+    "gloss_ru": "соотношение, пропорция",
+    "pronunciation": "рэйшиоу"
+  },
+  {
+    "ru": "В своей статье профессор ссылался на редкие архивные документы.",
+    "en": "In his article, the professor referred to rare archival documents.",
+    "target_ru": "ссылался",
+    "target_en": "refer to",
+    "gloss_ru": "ссылаться на",
+    "pronunciation": "рифёр ту"
+  },
+  {
+    "ru": "Перед посадкой всем пассажирам пришлось зарегистрировать багаж.",
+    "en": "Before boarding, all passengers had to register their luggage.",
+    "target_ru": "зарегистрировать",
+    "target_en": "register",
+    "gloss_ru": "регистрировать",
+    "pronunciation": "рэджистэр"
+  },
+  {
+    "ru": "Эмма до сих пор сожалела, что не попрощалась с дедушкой перед отъездом.",
+    "en": "Emma still regretted not saying goodbye to her grandfather before leaving.",
+    "target_ru": "сожалела",
+    "target_en": "regret",
+    "gloss_ru": "сожалеть",
+    "pronunciation": "ригрэт"
+  },
+  {
+    "ru": "После аварии спортсмену пришлось долго проходить реабилитацию.",
+    "en": "After the accident, the athlete had to rehabilitate for a long time.",
+    "target_ru": "проходить реабилитацию",
+    "target_en": "rehabilitate",
+    "gloss_ru": "реабилитировать",
+    "pronunciation": "риэхабилитэйт"
+  },
+  {
+    "ru": "Компания собирается выпустить новую модель телефона уже осенью.",
+    "en": "The company is going to release a new phone model this autumn.",
+    "target_ru": "выпустить",
+    "target_en": "release",
+    "gloss_ru": "отпускать, выпускать",
+    "pronunciation": "рилиз"
+  },
+  {
+    "ru": "Его грубое поведение отталкивало даже старых друзей.",
+    "en": "His rude behaviour repulsed even his old friends.",
+    "target_ru": "отталкивало",
+    "target_en": "repulse",
+    "gloss_ru": "отталкивать, отражать",
+    "pronunciation": "рипалс"
+  },
+  {
+    "ru": "Пожарные успели спасти ребёнка из горящего дома за несколько минут до обрушения крыши.",
+    "en": "The firefighters managed to rescue the child from the burning house just minutes before the roof collapsed.",
+    "target_ru": "спасти",
+    "target_en": "rescue",
+    "gloss_ru": "спасать",
+    "pronunciation": "рэскью"
+  },
+  {
+    "ru": "Помидоры начали созревать раньше обычного из-за жаркой погоды.",
+    "en": "The tomatoes started to ripen earlier than usual because of the hot weather.",
+    "target_ru": "созревать",
+    "target_en": "ripen",
+    "gloss_ru": "созревать",
+    "pronunciation": "райпэн"
+  }
+]

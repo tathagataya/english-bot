@@ -1,0 +1,1130 @@
+[
+    {
+        "ru": "Новая архитектура помогла команде заметно повысить производительность системы.",
+        "en": "The new architecture helped the team elevate system performance significantly.",
+        "target_ru": "повысить",
+        "target_en": "elevate",
+        "gloss_ru": "повысить",
+        "pronunciation": "э'левейт"
+    },
+    {
+        "ru": "Мария внесла значимый вклад во время планирования спринта.",
+        "en": "Maria contributed valuable ideas during the sprint planning meeting.",
+        "target_ru": "внесла вклад",
+        "target_en": "contribute",
+        "gloss_ru": "внести вклад",
+        "pronunciation": "кэнтри'бьют"
+    },
+    {
+        "ru": "CTO сделал сильный акцент на безопасности данных в новой платформе.",
+        "en": "The CTO placed strong emphasis on data security in the new platform.",
+        "target_ru": "акцент",
+        "target_en": "emphasis",
+        "gloss_ru": "акцент",
+        "pronunciation": "э'мфэсис"
+    },
+    {
+        "ru": "Разработчики доработали интерфейс на основе обратной связи от клиентов.",
+        "en": "The developers refined the user interface based on client feedback.",
+        "target_ru": "доработали",
+        "target_en": "refine",
+        "gloss_ru": "усовершенствовать",
+        "pronunciation": "ри'файн"
+    },
+    {
+        "ru": "QA-команда постаралась устранить критические баги перед релизом.",
+        "en": "The QA team worked hard to eliminate critical bugs before the release.",
+        "target_ru": "устранить",
+        "target_en": "eliminate",
+        "gloss_ru": "устранять",
+        "pronunciation": "или'минэйт"
+    },
+    {
+        "ru": "Благодаря открытой коммуникации команда стала быстрее решать проблемы.",
+        "en": "By embracing open communication, the team resolved issues much faster.",
+        "target_ru": "открытой коммуникации",
+        "target_en": "embracing open communication",
+        "gloss_ru": "внедряя открытую коммуникацию",
+        "pronunciation": "эмбрэйсинг оупэн комьюнике'йшн"
+    },
+    {
+        "ru": "Мы собирали обратную связь пользователей на протяжении всего жизненного цикла продукта.",
+        "en": "We monitored user feedback throughout the product development lifecycle.",
+        "target_ru": "на протяжении всего жизненного цикла продукта",
+        "target_en": "throughout the product development lifecycle",
+        "gloss_ru": "на протяжении всего жизненного цикла разработки продукта",
+        "pronunciation": "сруа'ут зэ продакт девелопмент лайфсайкл"
+    },
+    {
+        "ru": "Инженеры добавили дополнительные тесты, чтобы обеспечить стабильность системы.",
+        "en": "The engineers added extra tests to ensure system stability.",
+        "target_ru": "обеспечить",
+        "target_en": "to ensure",
+        "gloss_ru": "обеспечить",
+        "pronunciation": "ту эн'шур"
+    },
+    {
+        "ru": "Перед стартом проекта Алекс оценил осуществимость решения.",
+        "en": "Before starting the project, Alex analyzed the feasibility of the solution.",
+        "target_ru": "осуществимость",
+        "target_en": "feasibility",
+        "gloss_ru": "осуществимость",
+        "pronunciation": "физэ'билити"
+    },
+    {
+        "ru": "Младшие разработчики улучшили навыки, работая вместе с опытными командами.",
+        "en": "Junior developers improved their skills by working alongside experienced teams.",
+        "target_ru": "вместе с опытными командами",
+        "target_en": "alongside experienced teams",
+        "gloss_ru": "вместе с опытными командами",
+        "pronunciation": "элонгса'йд икспириэнст тимз"
+    },
+    {
+        "ru": "Компания использовала облачные технологии для масштабирования приложения.",
+        "en": "The company leveraged cloud technologies to scale the application.",
+        "target_ru": "использовала",
+        "target_en": "leverage",
+        "gloss_ru": "усиливать",
+        "pronunciation": "ли'веридж"
+    },
+    {
+        "ru": "Инструмент аналитики помогает отслеживать поведение пользователей в реальном времени.",
+        "en": "The analytics tool helps capture user behavior in real time.",
+        "target_ru": "отслеживать",
+        "target_en": "to capture",
+        "gloss_ru": "выявлять",
+        "pronunciation": "ту кэ'пчэ"
+    },
+    {
+        "ru": "Строгое соблюдение стандартов кодирования улучшило качество кода.",
+        "en": "Strict adherence to coding standards improved code quality.",
+        "target_ru": "соблюдение",
+        "target_en": "adherence",
+        "gloss_ru": "приверженность",
+        "pronunciation": "эд'хиренс"
+    },
+    {
+        "ru": "Софи продемонстрировала сильное бизнес-мышление при расстановке приоритетов.",
+        "en": "Sophie showed strong business acumen when prioritizing features.",
+        "target_ru": "бизнес-мышление",
+        "target_en": "business acumen",
+        "gloss_ru": "деловая хватка",
+        "pronunciation": "бизнэс э'кьюмэн"
+    },
+    {
+        "ru": "Команде пришлось столкнуться с рядом сложностей во время миграции системы.",
+        "en": "The team had to confront many challenges during the system migration.",
+        "target_ru": "столкнуться с вызовами",
+        "target_en": "confront with challenges",
+        "gloss_ru": "противостоять вызовам",
+        "pronunciation": "кэнфрант виз чэ'лэнджиз"
+    },
+    {
+        "ru": "Продуктовая команда решила запускать лёгкие discovery-циклы, чтобы быстрее тестировать идеи.",
+        "en": "The product team decided to run lightweight discovery cycles to test ideas quickly.",
+        "target_ru": "discovery-циклы",
+        "target_en": "run lightweight discovery cycles",
+        "gloss_ru": "запускать облегченные циклы поиска и разработки",
+        "pronunciation": "ран лайтвейт диска'вери сайклз"
+    },
+    {
+        "ru": "Разработчики настроили цикл обратной связи между пользователями и дизайнерами.",
+        "en": "The developers created a feedback loop between users and designers.",
+        "target_ru": "цикл",
+        "target_en": "loop",
+        "gloss_ru": "петля",
+        "pronunciation": "луп"
+    },
+    {
+        "ru": "Нам нужно улучшить коммуникацию между командами.",
+        "en": "We need to facilitate better communication between teams.",
+        "target_ru": "улучшить",
+        "target_en": "facilitate",
+        "gloss_ru": "способствовать / облегчать",
+        "pronunciation": "фэси'литэйт"
+    },
+    {
+        "ru": "Она успешно координировала весь процесс релиза.",
+        "en": "She orchestrated the whole release process successfully.",
+        "target_ru": "координировала",
+        "target_en": "orchestrate",
+        "gloss_ru": "координировать",
+        "pronunciation": "о'ркестрейt"
+    },
+    {
+        "ru": "Команда старалась заранее предвидеть возможные риски.",
+        "en": "The team tried to anticipate possible risks before launch.",
+        "target_ru": "предвидеть",
+        "target_en": "anticipate",
+        "gloss_ru": "предвидеть",
+        "pronunciation": "эн'тисипейт"
+    },
+    {
+        "ru": "Мы приняли меры, чтобы снизить риски на раннем этапе.",
+        "en": "We took steps to mitigate the risks early.",
+        "target_ru": "снизить",
+        "target_en": "mitigate",
+        "gloss_ru": "снижать (риски)",
+        "pronunciation": "ми'тигейт"
+    },
+    {
+        "ru": "Он чётко сформулировал свою идею на встрече.",
+        "en": "He clearly articulated his idea during the meeting.",
+        "target_ru": "сформулировал",
+        "target_en": "articulate",
+        "gloss_ru": "чётко формулировать",
+        "pronunciation": "а'ртикьюлейт"
+    },
+    {
+        "ru": "Она выступила за использование более простого решения.",
+        "en": "She advocated for using a simpler solution.",
+        "target_ru": "выступила за",
+        "target_en": "advocate for",
+        "gloss_ru": "отстаивать",
+        "pronunciation": "э'двокейт"
+    },
+    {
+        "ru": "Менеджер распределил ресурсы на самые важные задачи.",
+        "en": "The manager allocated resources to the most important tasks.",
+        "target_ru": "распределил",
+        "target_en": "allocate",
+        "gloss_ru": "распределять",
+        "pronunciation": "э'локейт"
+    },
+    {
+        "ru": "Мы решили объединить несколько сервисов в одну систему.",
+        "en": "We decided to consolidate several services into one system.",
+        "target_ru": "объединить",
+        "target_en": "consolidate",
+        "gloss_ru": "объединять",
+        "pronunciation": "кэн'солидейт"
+    },
+    {
+        "ru": "Компания хочет стандартизировать процессы разработки.",
+        "en": "The company wants to standardize development processes.",
+        "target_ru": "стандартизировать",
+        "target_en": "standardize",
+        "gloss_ru": "стандартизировать",
+        "pronunciation": "стэ'ндэрдайз"
+    },
+    {
+        "ru": "Команда строго следила за соблюдением кодстайла.",
+        "en": "The team enforced coding standards strictly.",
+        "target_ru": "следила за соблюдением",
+        "target_en": "enforce",
+        "gloss_ru": "обеспечивать соблюдение",
+        "pronunciation": "ин'форс"
+    },
+    {
+        "ru": "Нам нужно согласовать эту фичу с бизнес-целями.",
+        "en": "We need to align this feature with business goals.",
+        "target_ru": "согласовать",
+        "target_en": "align",
+        "gloss_ru": "согласовывать",
+        "pronunciation": "э'лайн"
+    },
+    {
+        "ru": "Система оптимизирована под высокую производительность.",
+        "en": "The system is optimized for performance.",
+        "target_ru": "оптимизирована",
+        "target_en": "optimize for",
+        "gloss_ru": "оптимизировать под",
+        "pronunciation": "о'птимайз"
+    },
+    {
+        "ru": "Нам нужно учитывать возможные задержки.",
+        "en": "We must account for possible delays.",
+        "target_ru": "учитывать",
+        "target_en": "account for",
+        "gloss_ru": "учитывать",
+        "pronunciation": "э'каунт фор"
+    },
+    {
+        "ru": "Они планируют развернуть фичу в следующем месяце.",
+        "en": "They will roll out the feature next month.",
+        "target_ru": "развернуть",
+        "target_en": "roll out",
+        "gloss_ru": "внедрять",
+        "pronunciation": "роул аут"
+    },
+    {
+        "ru": "Чтобы команда работала эффективнее, нам нужно выстроить более понятную коммуникацию между разработчиками и продактами.",
+        "en": "To improve team efficiency, we need to facilitate clearer communication between developers and product managers.",
+        "target_ru": "выстроить",
+        "target_en": "facilitate",
+        "gloss_ru": "способствовать / облегчать",
+        "pronunciation": "фэси'литэйт"
+    },
+    {
+        "ru": "Она координировала весь процесс релиза, чтобы все команды уложились в сроки.",
+        "en": "She orchestrated the entire release process to make sure all teams met the deadlines.",
+        "target_ru": "координировала",
+        "target_en": "orchestrate",
+        "gloss_ru": "координировать",
+        "pronunciation": "о'ркестрейт"
+    },
+    {
+        "ru": "Команда старалась заранее предвидеть возможные риски, чтобы избежать проблем на этапе запуска.",
+        "en": "The team tried to anticipate potential risks in advance to avoid issues during the launch.",
+        "target_ru": "предвидеть",
+        "target_en": "anticipate",
+        "gloss_ru": "предвидеть",
+        "pronunciation": "эн'тисипейт"
+    },
+    {
+        "ru": "Мы приняли ряд мер, чтобы снизить риски и минимизировать влияние на пользователей.",
+        "en": "We took several steps to mitigate risks and minimize the impact on users.",
+        "target_ru": "снизить",
+        "target_en": "mitigate",
+        "gloss_ru": "снижать (риски)",
+        "pronunciation": "ми'тигейт"
+    },
+    {
+        "ru": "Он смог чётко сформулировать свою позицию и объяснить, почему это решение лучше.",
+        "en": "He was able to clearly articulate his position and explain why this solution was better.",
+        "target_ru": "сформулировать",
+        "target_en": "articulate",
+        "gloss_ru": "формулировать",
+        "pronunciation": "а'ртикьюлейт"
+    },
+    {
+        "ru": "Она выступила за более простое решение, так как его было легче поддерживать в долгосрочной перспективе.",
+        "en": "She advocated for a simpler solution since it would be easier to maintain in the long term.",
+        "target_ru": "выступила за",
+        "target_en": "advocate for",
+        "gloss_ru": "отстаивать",
+        "pronunciation": "э'двокейт"
+    },
+    {
+        "ru": "Менеджер распределил ресурсы таким образом, чтобы команда могла сосредоточиться на приоритетных задачах.",
+        "en": "The manager allocated resources in a way that allowed the team to focus on high-priority tasks.",
+        "target_ru": "распределил",
+        "target_en": "allocate",
+        "gloss_ru": "распределять",
+        "pronunciation": "э'локейт"
+    },
+    {
+        "ru": "Мы решили объединить несколько сервисов, чтобы упростить архитектуру и снизить затраты на поддержку.",
+        "en": "We decided to consolidate several services to simplify the architecture and reduce maintenance costs.",
+        "target_ru": "объединить",
+        "target_en": "consolidate",
+        "gloss_ru": "объединять",
+        "pronunciation": "кэн'солидейт"
+    },
+    {
+        "ru": "Компания стремится стандартизировать процессы разработки, чтобы повысить предсказуемость результатов.",
+        "en": "The company aims to standardize development processes to improve predictability of outcomes.",
+        "target_ru": "стандартизировать",
+        "target_en": "standardize",
+        "gloss_ru": "стандартизировать",
+        "pronunciation": "стэ'ндэрдайз"
+    },
+    {
+        "ru": "Команда строго следила за соблюдением кодстайла, чтобы код оставался единообразным.",
+        "en": "The team strictly enforced coding standards to keep the codebase consistent.",
+        "target_ru": "соблюдением",
+        "target_en": "enforce",
+        "gloss_ru": "обеспечивать соблюдение",
+        "pronunciation": "ин'форс"
+    },
+    {
+        "ru": "Нам важно согласовать эту фичу с бизнес-целями, прежде чем начинать разработку.",
+        "en": "We need to align this feature with business goals before starting development.",
+        "target_ru": "согласовать",
+        "target_en": "align",
+        "gloss_ru": "согласовывать",
+        "pronunciation": "э'лайн"
+    },
+    {
+        "ru": "Система оптимизирована под высокую нагрузку, поэтому она стабильно работает даже в пиковые часы.",
+        "en": "The system is optimized for high load, so it performs reliably even during peak hours.",
+        "target_ru": "оптимизирована",
+        "target_en": "optimize",
+        "gloss_ru": "оптимизировать",
+        "pronunciation": "о'птимайз"
+    },
+    {
+        "ru": "При планировании нам нужно учитывать возможные задержки со стороны внешних команд.",
+        "en": "During planning, we need to account for possible delays from external teams.",
+        "target_ru": "учитывать",
+        "target_en": "account for",
+        "gloss_ru": "учитывать",
+        "pronunciation": "э'каунт фор"
+    },
+    {
+        "ru": "Компания постепенно отказывается от старой системы, заменяя её более современными решениями.",
+        "en": "The company is gradually phasing out the old system and replacing it with more modern solutions.",
+        "target_ru": "отказывается",
+        "target_en": "phase out",
+        "gloss_ru": "выводить из использования",
+        "pronunciation": "фэйз аут"
+    },
+    {
+        "ru": "Они планируют развернуть новую фичу сначала на ограниченную аудиторию, а затем на всех пользователей.",
+        "en": "They plan to roll out the new feature to a limited audience first and then to all users.",
+        "target_ru": "развернуть",
+        "target_en": "roll out",
+        "gloss_ru": "внедрять",
+        "pronunciation": "роул аут"
+    },
+    {
+        "ru": "Чтобы повысить эффективность команды, нам нужно выстроить более прозрачные процессы.",
+        "en": "To improve team efficiency, we need to streamline our processes.",
+        "target_ru": "выстроить",
+        "target_en": "streamline",
+        "gloss_ru": "оптимизировать / упрощать",
+        "pronunciation": "стримлайн"
+    },
+    {
+        "ru": "Эта архитектура хорошо масштабируется и выдерживает рост нагрузки.",
+        "en": "This architecture is highly scalable and can handle increasing load.",
+        "target_ru": "масштабируется",
+        "target_en": "scalable",
+        "gloss_ru": "масштабируемый",
+        "pronunciation": "скейлэбл"
+    },
+    {
+        "ru": "Нам нужно учитывать ограничения по ресурсам при планировании.",
+        "en": "We need to account for resource constraints during planning.",
+        "target_ru": "ограничения",
+        "target_en": "constraints",
+        "gloss_ru": "ограничения",
+        "pronunciation": "кэнстрэйнтс"
+    },
+    {
+        "ru": "Этот сервис стал узким местом в системе и требует оптимизации.",
+        "en": "This service has become a bottleneck and needs optimization.",
+        "target_ru": "узким местом",
+        "target_en": "bottleneck",
+        "gloss_ru": "узкое место",
+        "pronunciation": "боттлнек"
+    },
+    {
+        "ru": "Важно поддерживать единый стиль кода, чтобы избежать несогласованности.",
+        "en": "It is important to maintain consistency in the codebase.",
+        "target_ru": "несогласованности",
+        "target_en": "consistency",
+        "gloss_ru": "согласованность",
+        "pronunciation": "консистэнси"
+    },
+    {
+        "ru": "Мы стараемся принимать решения на основе данных, а не интуиции.",
+        "en": "We try to make data-driven decisions rather than relying on intuition.",
+        "target_ru": "на основе данных",
+        "target_en": "data-driven",
+        "gloss_ru": "основанный на данных",
+        "pronunciation": "дэйта-дривен"
+    },
+    {
+        "ru": "Команда столкнулась с высокой степенью неопределённости на старте проекта.",
+        "en": "The team faced a high level of ambiguity at the beginning of the project.",
+        "target_ru": "неопределённости",
+        "target_en": "ambiguity",
+        "gloss_ru": "неопределённость",
+        "pronunciation": "эмбигьюити"
+    },
+    {
+        "ru": "Мы выявили корневую причину проблемы после детального анализа.",
+        "en": "We identified the root cause of the issue after a detailed analysis.",
+        "target_ru": "корневую причину",
+        "target_en": "root cause",
+        "gloss_ru": "первопричина",
+        "pronunciation": "рут коз"
+    },
+    {
+        "ru": "Эта фича приносит реальную ценность пользователям.",
+        "en": "This feature delivers real value to users.",
+        "target_ru": "ценность",
+        "target_en": "value",
+        "gloss_ru": "ценность",
+        "pronunciation": "вэлью"
+    },
+    {
+        "ru": "Нам пришлось пойти на компромисс между скоростью разработки и качеством.",
+        "en": "We had to make a trade-off between development speed and quality.",
+        "target_ru": "компромисс",
+        "target_en": "trade-off",
+        "gloss_ru": "компромисс",
+        "pronunciation": "трейд-офф"
+    },
+    {
+        "ru": "Важно заранее определить объём работ, чтобы избежать недопонимания.",
+        "en": "It is important to define the scope in advance to avoid misunderstandings.",
+        "target_ru": "объём работ",
+        "target_en": "scope",
+        "gloss_ru": "объём работ",
+        "pronunciation": "скоуп"
+    },
+    {
+        "ru": "Мы регулярно собираем обратную связь от пользователей.",
+        "en": "We regularly gather feedback from users.",
+        "target_ru": "обратную связь",
+        "target_en": "feedback",
+        "gloss_ru": "обратная связь",
+        "pronunciation": "фидбэк"
+    },
+    {
+        "ru": "Команда должна уметь быстро адаптироваться к изменениям.",
+        "en": "The team needs to be flexible and adapt quickly to changes.",
+        "target_ru": "гибкой",
+        "target_en": "flexible",
+        "gloss_ru": "гибкий",
+        "pronunciation": "флексибл"
+    },
+    {
+        "ru": "Мы уделяем особое внимание производительности системы.",
+        "en": "We pay special attention to system performance.",
+        "target_ru": "производительности",
+        "target_en": "performance",
+        "gloss_ru": "производительность",
+        "pronunciation": "перфоманс"
+    },
+    {
+        "ru": "Этот компонент можно переиспользовать в других проектах.",
+        "en": "This component can be reused in other projects.",
+        "target_ru": "переиспользовать",
+        "target_en": "reused",
+        "gloss_ru": "переиспользовать",
+        "pronunciation": "риюзд"
+    },
+    {
+        "ru": "Нам нужно приоритизировать задачи в бэклоге.",
+        "en": "We need to prioritize tasks in the backlog.",
+        "target_ru": "приоритизировать",
+        "target_en": "prioritize",
+        "gloss_ru": "расставлять приоритеты",
+        "pronunciation": "прайоритайз"
+    },
+    {
+        "ru": "Эта проблема требует срочного решения.",
+        "en": "This is a critical issue that needs immediate attention.",
+        "target_ru": "критическая",
+        "target_en": "critical",
+        "gloss_ru": "критический",
+        "pronunciation": "критикал"
+    },
+    {
+        "ru": "Мы анализируем поведение пользователей, чтобы улучшить продукт.",
+        "en": "We analyze user behavior to improve the product.",
+        "target_ru": "анализируем",
+        "target_en": "analyze",
+        "gloss_ru": "анализировать",
+        "pronunciation": "эналайз"
+    },
+    {
+        "ru": "Система должна быть надёжной даже при высокой нагрузке.",
+        "en": "The system needs to be reliable even under high load.",
+        "target_ru": "надёжной",
+        "target_en": "reliable",
+        "gloss_ru": "надёжный",
+        "pronunciation": "релайэбл"
+    },
+    {
+        "ru": "Мы стараемся улучшать пользовательский опыт на каждом этапе.",
+        "en": "We aim to improve the user experience at every stage.",
+        "target_ru": "пользовательский опыт",
+        "target_en": "user experience",
+        "gloss_ru": "UX",
+        "pronunciation": "юзер икспириенс"
+    },
+    {
+        "ru": "Команда отвечает за весь процесс от идеи до релиза.",
+        "en": "The team owns the process end-to-end, from idea to release.",
+        "target_ru": "сквозной",
+        "target_en": "end-to-end",
+        "gloss_ru": "сквозной",
+        "pronunciation": "энд-ту-энд"
+    },
+    {
+        "ru": "Мы стараемся минимизировать технический долг.",
+        "en": "We try to minimize technical debt.",
+        "target_ru": "технический долг",
+        "target_en": "technical debt",
+        "gloss_ru": "технический долг",
+        "pronunciation": "текникал дэт"
+    },
+    {
+        "ru": "Важно вовремя выявлять зависимости между задачами.",
+        "en": "It is important to identify dependencies between tasks early.",
+        "target_ru": "зависимости",
+        "target_en": "dependencies",
+        "gloss_ru": "зависимости",
+        "pronunciation": "дипендэнсиз"
+    },
+    {
+        "ru": "Мы следуем лучшим практикам при разработке.",
+        "en": "We follow best practices during development.",
+        "target_ru": "лучшим практикам",
+        "target_en": "best practices",
+        "gloss_ru": "лучшие практики",
+        "pronunciation": "бест практисиз"
+    },
+    {
+        "ru": "Нам нужно убедиться, что система остаётся стабильной после изменений.",
+        "en": "We need to ensure system stability after the changes.",
+        "target_ru": "стабильной",
+        "target_en": "stability",
+        "gloss_ru": "стабильность",
+        "pronunciation": "стабилити"
+    },
+    {
+        "ru": "Чтобы повысить эффективность команды, нам нужно упростить внутренние процессы.",
+        "en": "To improve team efficiency, we need to streamline internal processes.",
+        "target_ru": "упростить",
+        "target_en": "streamline",
+        "gloss_ru": "упрощать / оптимизировать",
+        "pronunciation": "стримлайн"
+    },
+    {
+        "ru": "Эта система должна масштабироваться по мере роста числа пользователей.",
+        "en": "This system needs to be scalable as the number of users grows.",
+        "target_ru": "масштабироваться",
+        "target_en": "scalable",
+        "gloss_ru": "масштабируемый",
+        "pronunciation": "скейлэбл"
+    },
+    {
+        "ru": "При планировании важно учитывать все возможные ограничения по ресурсам.",
+        "en": "During planning, it is important to account for all possible resource constraints.",
+        "target_ru": "учитывать",
+        "target_en": "account for",
+        "gloss_ru": "учитывать",
+        "pronunciation": "экаунт фор"
+    },
+    {
+        "ru": "Этот сервис стал узким местом и замедляет всю систему.",
+        "en": "This service has become a bottleneck and slows down the entire system.",
+        "target_ru": "узким местом",
+        "target_en": "bottleneck",
+        "gloss_ru": "узкое место",
+        "pronunciation": "боттлнек"
+    },
+    {
+        "ru": "Нам важно поддерживать согласованность данных между разными сервисами.",
+        "en": "We need to maintain consistency of data across different services.",
+        "target_ru": "согласованность",
+        "target_en": "consistency",
+        "gloss_ru": "согласованность",
+        "pronunciation": "консистенси"
+    },
+    {
+        "ru": "Мы стараемся принимать решения на основе данных, а не предположений.",
+        "en": "We try to make data-driven decisions rather than relying on assumptions.",
+        "target_ru": "на основе данных",
+        "target_en": "data-driven",
+        "gloss_ru": "основанный на данных",
+        "pronunciation": "дэйта-дривен"
+    },
+    {
+        "ru": "На старте проекта команда столкнулась с высокой степенью неопределённости.",
+        "en": "At the start of the project, the team faced a high level of ambiguity.",
+        "target_ru": "неопределённости",
+        "target_en": "ambiguity",
+        "gloss_ru": "неопределённость",
+        "pronunciation": "эмбигьюити"
+    },
+    {
+        "ru": "Мы нашли корневую причину проблемы после детального анализа.",
+        "en": "We identified the root cause of the issue after a detailed analysis.",
+        "target_ru": "корневую причину",
+        "target_en": "root cause",
+        "gloss_ru": "первопричина",
+        "pronunciation": "рут коз"
+    },
+    {
+        "ru": "Эта фича действительно приносит ценность пользователям.",
+        "en": "This feature delivers real value to users.",
+        "target_ru": "ценность",
+        "target_en": "value",
+        "gloss_ru": "ценность",
+        "pronunciation": "вэлью"
+    },
+    {
+        "ru": "Нам пришлось пойти на компромисс между сроками и качеством.",
+        "en": "We had to make a trade-off between deadlines and quality.",
+        "target_ru": "компромисс",
+        "target_en": "trade-off",
+        "gloss_ru": "компромисс",
+        "pronunciation": "трейд-офф"
+    },
+    {
+        "ru": "Важно заранее определить объём работ, чтобы избежать недопонимания.",
+        "en": "It is important to define the scope in advance to avoid misunderstandings.",
+        "target_ru": "объём работ",
+        "target_en": "scope",
+        "gloss_ru": "объём работ",
+        "pronunciation": "скоуп"
+    },
+    {
+        "ru": "Мы регулярно собираем обратную связь от пользователей и учитываем её.",
+        "en": "We regularly gather feedback from users and take it into account.",
+        "target_ru": "обратную связь",
+        "target_en": "feedback",
+        "gloss_ru": "обратная связь",
+        "pronunciation": "фидбэк"
+    },
+    {
+        "ru": "Команда должна быть достаточно гибкой, чтобы быстро адаптироваться к изменениям.",
+        "en": "The team needs to be flexible enough to adapt quickly to changes.",
+        "target_ru": "гибкой",
+        "target_en": "flexible",
+        "gloss_ru": "гибкий",
+        "pronunciation": "флексибл"
+    },
+    {
+        "ru": "Мы уделяем особое внимание производительности системы.",
+        "en": "We pay special attention to system performance.",
+        "target_ru": "производительности",
+        "target_en": "performance",
+        "gloss_ru": "производительность",
+        "pronunciation": "перфоманс"
+    },
+    {
+        "ru": "Этот компонент можно переиспользовать в других проектах без изменений.",
+        "en": "This component can be reused in other projects without changes.",
+        "target_ru": "переиспользовать",
+        "target_en": "reuse",
+        "gloss_ru": "переиспользовать",
+        "pronunciation": "риюз"
+    },
+    {
+        "ru": "Нам нужно приоритизировать задачи в бэклоге перед следующим спринтом.",
+        "en": "We need to prioritize tasks in the backlog before the next sprint.",
+        "target_ru": "приоритизировать",
+        "target_en": "prioritize",
+        "gloss_ru": "расставлять приоритеты",
+        "pronunciation": "прайоритайз"
+    },
+    {
+        "ru": "Это критическая проблема, которую нужно решить как можно скорее.",
+        "en": "This is a critical issue that needs to be resolved as soon as possible.",
+        "target_ru": "критическая",
+        "target_en": "critical",
+        "gloss_ru": "критический",
+        "pronunciation": "критикал"
+    },
+    {
+        "ru": "Мы анализируем поведение пользователей, чтобы улучшить продукт.",
+        "en": "We analyze user behavior to improve the product.",
+        "target_ru": "анализируем",
+        "target_en": "analyze",
+        "gloss_ru": "анализировать",
+        "pronunciation": "эналайз"
+    },
+    {
+        "ru": "Система должна оставаться надёжной даже при высокой нагрузке.",
+        "en": "The system must remain reliable even under high load.",
+        "target_ru": "надёжной",
+        "target_en": "reliable",
+        "gloss_ru": "надёжный",
+        "pronunciation": "релайэбл"
+    },
+    {
+        "ru": "Мы стараемся улучшать пользовательский опыт на каждом этапе взаимодействия.",
+        "en": "We aim to improve the user experience at every stage of interaction.",
+        "target_ru": "пользовательский опыт",
+        "target_en": "user experience",
+        "gloss_ru": "UX",
+        "pronunciation": "юзер икспириенс"
+    },
+    {
+        "ru": "Команда решила автоматизировать ручные проверки, потому что они занимали слишком много времени перед каждым релизом.",
+        "en": "The team decided to automate manual checks because they took too much time before every release.",
+        "target_ru": "автоматизировать",
+        "target_en": "automate",
+        "gloss_ru": "автоматизировать",
+        "pronunciation": "о'томейт"
+    },
+    {
+        "ru": "Разработчики старались упростить сложный сценарий, чтобы пользователи быстрее доходили до результата.",
+        "en": "The developers tried to simplify the complex flow so users could reach the result faster.",
+        "target_ru": "упростить",
+        "target_en": "simplify",
+        "gloss_ru": "упрощать",
+        "pronunciation": "си'мплифай"
+    },
+    {
+        "ru": "Продакт предложил переосмыслить онбординг, потому что новые пользователи часто не понимали ценность продукта.",
+        "en": "The product manager suggested rethinking onboarding because new users often failed to understand the product value.",
+        "target_ru": "переосмыслить",
+        "target_en": "rethink",
+        "gloss_ru": "переосмысливать",
+        "pronunciation": "ри'синк"
+    },
+    {
+        "ru": "Команда решила масштабировать решение только после того, как пилот показал стабильные результаты.",
+        "en": "The team decided to scale the solution only after the pilot showed stable results.",
+        "target_ru": "масштабировать",
+        "target_en": "scale",
+        "gloss_ru": "масштабировать",
+        "pronunciation": "скейл"
+    },
+    {
+        "ru": "Инженеры смогли изолировать проблему, чтобы она не влияла на остальные части системы.",
+        "en": "The engineers managed to isolate the issue so it would not affect other parts of the system.",
+        "target_ru": "изолировать",
+        "target_en": "isolate",
+        "gloss_ru": "изолировать",
+        "pronunciation": "ай'сэлейт"
+    },
+    {
+        "ru": "Команда начала переиспользовать готовые модули, чтобы быстрее собирать новые продуктовые сценарии.",
+        "en": "The team started to reuse existing modules to build new product scenarios faster.",
+        "target_ru": "переиспользовать",
+        "target_en": "reuse",
+        "gloss_ru": "переиспользовать",
+        "pronunciation": "ри'юз"
+    },
+    {
+        "ru": "Перед запуском важно синхронизировать команды, чтобы маркетинг, разработка и поддержка работали в одном направлении.",
+        "en": "Before the launch, it is important to synchronize teams so marketing, development, and support move in the same direction.",
+        "target_ru": "синхронизировать",
+        "target_en": "synchronize",
+        "gloss_ru": "синхронизировать",
+        "pronunciation": "си'нкронайз"
+    },
+    {
+        "ru": "Менеджер помог разблокировать задачу, когда стало понятно, что команде не хватает решения от безопасности.",
+        "en": "The manager helped unblock the task when it became clear that the team needed a decision from security.",
+        "target_ru": "разблокировать",
+        "target_en": "unblock",
+        "gloss_ru": "устранять блокеры",
+        "pronunciation": "ан'блок"
+    },
+    {
+        "ru": "Команда решила отложить второстепенные улучшения, чтобы сфокусироваться на критичном пользовательском сценарии.",
+        "en": "The team decided to postpone secondary improvements to focus on the critical user flow.",
+        "target_ru": "отложить",
+        "target_en": "postpone",
+        "gloss_ru": "откладывать",
+        "pronunciation": "пост'поун"
+    },
+    {
+        "ru": "Продакт предложил пересобрать приоритеты, потому что данные показали другой пользовательский спрос.",
+        "en": "The product manager suggested reshuffling priorities because the data showed different user demand.",
+        "target_ru": "пересобрать приоритеты",
+        "target_en": "reshuffle priorities",
+        "gloss_ru": "пересмотреть / переставить приоритеты",
+        "pronunciation": "ришафл прайоритиз"
+    },
+    {
+        "ru": "Нам нужно сделать интерфейс более интуитивным, чтобы пользователям не приходилось читать длинные инструкции.",
+        "en": "We need to make the interface more intuitive so users do not have to read long instructions.",
+        "target_ru": "интуитивным",
+        "target_en": "intuitive",
+        "gloss_ru": "интуитивный",
+        "pronunciation": "ин'тьюитив"
+    },
+    {
+        "ru": "Это решение выглядит жизнеспособным, потому что оно закрывает ключевую проблему без серьёзных изменений архитектуры.",
+        "en": "This solution looks viable because it solves the key problem without major architecture changes.",
+        "target_ru": "жизнеспособным",
+        "target_en": "viable",
+        "gloss_ru": "жизнеспособный",
+        "pronunciation": "вайэбл"
+    },
+    {
+        "ru": "Команда выбрала прагматичный подход, чтобы не усложнять продукт на ранней стадии.",
+        "en": "The team chose a pragmatic approach to avoid making the product too complex at an early stage.",
+        "target_ru": "прагматичный",
+        "target_en": "pragmatic",
+        "gloss_ru": "прагматичный",
+        "pronunciation": "прэг'мэтик"
+    },
+    {
+        "ru": "Новая архитектура получилась гибкой, поэтому команда сможет быстрее добавлять новые интеграции.",
+        "en": "The new architecture is adaptable, so the team will be able to add new integrations faster.",
+        "target_ru": "гибкой",
+        "target_en": "adaptable",
+        "gloss_ru": "адаптируемый / гибкий",
+        "pronunciation": "э'дэптэбл"
+    },
+    {
+        "ru": "Нам нужен измеримый результат, иначе будет сложно понять, сработала ли инициатива.",
+        "en": "We need a measurable outcome, otherwise it will be hard to understand whether the initiative worked.",
+        "target_ru": "измеримый",
+        "target_en": "measurable",
+        "gloss_ru": "измеримый",
+        "pronunciation": "мэ'жэрэбл"
+    },
+    {
+        "ru": "Решение должно быть устойчивым к ошибкам, потому что пользователи не должны терять данные при сбоях.",
+        "en": "The solution must be fault-tolerant because users should not lose data during failures.",
+        "target_ru": "устойчивым к ошибкам",
+        "target_en": "fault-tolerant",
+        "gloss_ru": "отказоустойчивый",
+        "pronunciation": "фолт-толерант"
+    },
+    {
+        "ru": "Команда предложила пошаговый подход, чтобы снизить риски и быстрее проверить первые результаты.",
+        "en": "The team proposed an incremental approach to reduce risks and test early results faster.",
+        "target_ru": "пошаговый",
+        "target_en": "incremental",
+        "gloss_ru": "постепенный / инкрементальный",
+        "pronunciation": "инкрэ'ментэл"
+    },
+    {
+        "ru": "Это решение выглядит избыточным для текущего этапа, потому что продукт ещё не доказал спрос.",
+        "en": "This solution looks excessive for the current stage because the product has not proven demand yet.",
+        "target_ru": "избыточным",
+        "target_en": "excessive",
+        "gloss_ru": "избыточный",
+        "pronunciation": "ик'сэсив"
+    },
+    {
+        "ru": "Команда старалась сделать процесс прозрачным, чтобы все участники понимали статус и риски.",
+        "en": "The team tried to make the process transparent so all participants understood the status and risks.",
+        "target_ru": "прозрачным",
+        "target_en": "transparent",
+        "gloss_ru": "прозрачный",
+        "pronunciation": "транс'пэрэнт"
+    },
+    {
+        "ru": "Продакт подготовил убедительное обоснование, чтобы показать, почему эта фича важна именно сейчас.",
+        "en": "The product manager prepared a compelling rationale to show why this feature mattered right now.",
+        "target_ru": "убедительное",
+        "target_en": "compelling",
+        "gloss_ru": "убедительный",
+        "pronunciation": "кэм'пэлинг"
+    },
+    {
+        "ru": "На ретро команда обсудила не только ошибки, но и системные причины задержек.",
+        "en": "During the retro, the team discussed not only mistakes but also systemic causes of delays.",
+        "target_ru": "системные",
+        "target_en": "systemic",
+        "gloss_ru": "системный",
+        "pronunciation": "сис'тэмик"
+    },
+    {
+        "ru": "Нам нужен более зрелый процесс релизов, чтобы команда не решала одни и те же проблемы каждый месяц.",
+        "en": "We need a more mature release process so the team does not solve the same problems every month.",
+        "target_ru": "зрелый",
+        "target_en": "mature",
+        "gloss_ru": "зрелый",
+        "pronunciation": "мэ'чур"
+    },
+    {
+        "ru": "Для корпоративных клиентов важно, чтобы продукт был предсказуемым и не менял поведение без предупреждения.",
+        "en": "For enterprise clients, it is important that the product is predictable and does not change behavior without notice.",
+        "target_ru": "предсказуемым",
+        "target_en": "predictable",
+        "gloss_ru": "предсказуемый",
+        "pronunciation": "при'диктэбл"
+    },
+    {
+        "ru": "Это улучшение выглядит незначительным, но оно может заметно снизить количество обращений в поддержку.",
+        "en": "This improvement looks minor, but it can significantly reduce the number of support requests.",
+        "target_ru": "незначительным",
+        "target_en": "minor",
+        "gloss_ru": "незначительный",
+        "pronunciation": "майнэр"
+    },
+    {
+        "ru": "У команды был ограниченный бюджет, поэтому пришлось выбирать только самые важные инициативы.",
+        "en": "The team had a limited budget, so they had to choose only the most important initiatives.",
+        "target_ru": "ограниченный",
+        "target_en": "limited",
+        "gloss_ru": "ограниченный",
+        "pronunciation": "лимитэд"
+    },
+    {
+        "ru": "На встрече мы решили сначала снять низко висящие фрукты и быстро улучшить самые очевидные проблемы.",
+        "en": "In the meeting, we decided to pick the low-hanging fruit first and quickly fix the most obvious problems.",
+        "target_ru": "снять низко висящие фрукты",
+        "target_en": "pick the low-hanging fruit",
+        "gloss_ru": "сначала сделать самые простые улучшения",
+        "pronunciation": "пик зэ лоу-хэнгинг фрут"
+    },
+    {
+        "ru": "Менеджер сказал, что не стоит кипятить океан, когда нам нужно быстро проверить одну конкретную гипотезу.",
+        "en": "The manager said we should not boil the ocean when we only needed to test one specific hypothesis quickly.",
+        "target_ru": "кипятить океан",
+        "target_en": "boil the ocean",
+        "gloss_ru": "пытаться решить слишком большую задачу сразу",
+        "pronunciation": "бойл зи оушн"
+    },
+    {
+        "ru": "Команда решила не изобретать велосипед и взяла проверенный подход для интеграции с платёжной системой.",
+        "en": "The team decided not to reinvent the wheel and used a proven approach for the payment integration.",
+        "target_ru": "изобретать велосипед",
+        "target_en": "reinvent the wheel",
+        "gloss_ru": "изобретать велосипед",
+        "pronunciation": "риинвент зэ вил"
+    },
+    {
+        "ru": "После нескольких обсуждений стало понятно, что нам нужно вернуться к чертёжной доске и пересмотреть решение.",
+        "en": "After several discussions, it became clear that we needed to go back to the drawing board and reconsider the solution.",
+        "target_ru": "вернуться к чертёжной доске",
+        "target_en": "go back to the drawing board",
+        "gloss_ru": "начать заново / пересмотреть подход",
+        "pronunciation": "гоу бэк ту зэ дроуинг борд"
+    },
+    {
+        "ru": "Продакт попросил не терять из виду общую картину, даже когда команда обсуждала технические детали.",
+        "en": "The product manager asked everyone not to lose sight of the big picture, even when the team discussed technical details.",
+        "target_ru": "общую картину",
+        "target_en": "the big picture",
+        "gloss_ru": "общая картина / стратегический контекст",
+        "pronunciation": "зэ биг пикчер"
+    },
+    {
+        "ru": "На демо стало ясно, что фича не двигает иглу по ключевой метрике, хотя пользователям она нравится.",
+        "en": "During the demo, it became clear that the feature did not move the needle on the key metric, even though users liked it.",
+        "target_ru": "двигает иглу",
+        "target_en": "move the needle",
+        "gloss_ru": "заметно повлиять на метрику",
+        "pronunciation": "мув зэ нидл"
+    },
+    {
+        "ru": "Команда решила собрать низкоуровневую обратную связь, чтобы понять, где именно ломается пользовательский сценарий.",
+        "en": "The team decided to get into the weeds to understand exactly where the user flow was breaking.",
+        "target_ru": "разобраться в деталях",
+        "target_en": "get into the weeds",
+        "gloss_ru": "глубоко погрузиться в детали",
+        "pronunciation": "гет инту зэ видз"
+    },
+    {
+        "ru": "Руководитель предложил зафиксировать решение письменно, чтобы потом не было разных трактовок.",
+        "en": "The lead suggested putting the decision in writing so there would be no different interpretations later.",
+        "target_ru": "зафиксировать письменно",
+        "target_en": "put it in writing",
+        "gloss_ru": "зафиксировать письменно",
+        "pronunciation": "пут ит ин райтинг"
+    },
+    {
+        "ru": "На встрече продакт поднял красный флаг, когда увидел, что сроки релиза стали нереалистичными.",
+        "en": "In the meeting, the product manager raised a red flag when the release timeline became unrealistic.",
+        "target_ru": "поднял красный флаг",
+        "target_en": "raise a red flag",
+        "gloss_ru": "обозначить серьёзный риск",
+        "pronunciation": "рейз э ред флэг"
+    },
+    {
+        "ru": "Перед запуском команда хотела убедиться, что все находятся на одной странице по целям и рискам.",
+        "en": "Before the launch, the team wanted to make sure everyone was on the same page about goals and risks.",
+        "target_ru": "на одной странице",
+        "target_en": "be on the same page",
+        "gloss_ru": "одинаково понимать ситуацию",
+        "pronunciation": "би он зэ сейм пейдж"
+    },
+    {
+        "ru": "После смены приоритетов нам пришлось перестроить план на ходу, не останавливая разработку.",
+        "en": "After the priorities changed, we had to change gears without stopping development.",
+        "target_ru": "перестроить план на ходу",
+        "target_en": "change gears",
+        "gloss_ru": "переключиться / изменить подход",
+        "pronunciation": "чейндж гирз"
+    },
+    {
+        "ru": "Команда решила не открывать ящик Пандоры перед релизом и перенесла спорную задачу на следующий квартал.",
+        "en": "The team decided not to open a can of worms before the release and moved the controversial task to the next quarter.",
+        "target_ru": "открывать ящик Пандоры",
+        "target_en": "open a can of worms",
+        "gloss_ru": "создать много новых проблем",
+        "pronunciation": "оупэн э кэн ов вёрмз"
+    },
+    {
+        "ru": "Менеджер попросил команду не замазывать проблему, а честно разобраться в причине падения метрики.",
+        "en": "The manager asked the team not to sweep the issue under the rug but to honestly investigate the drop in the metric.",
+        "target_ru": "замазывать проблему",
+        "target_en": "sweep the issue under the rug",
+        "gloss_ru": "скрывать / игнорировать проблему",
+        "pronunciation": "свип зи ишью андер зэ раг"
+    },
+    {
+        "ru": "Продакт предложил провести проверку здравого смысла, прежде чем показывать новую механику клиентам.",
+        "en": "The product manager suggested doing a sanity check before showing the new mechanic to clients.",
+        "target_ru": "проверку здравого смысла",
+        "target_en": "sanity check",
+        "gloss_ru": "быстрая проверка логики",
+        "pronunciation": "сэнити чек"
+    },
+    {
+        "ru": "Команда решила запустить дымовой тест, чтобы проверить интерес пользователей без полноценной разработки.",
+        "en": "The team decided to run a smoke test to check user interest without full development.",
+        "target_ru": "дымовой тест",
+        "target_en": "smoke test",
+        "gloss_ru": "быстрая первичная проверка",
+        "pronunciation": "смоук тест"
+    },
+    {
+        "ru": "После релиза продакт предложил сделать разбор полётов, чтобы понять, почему коммуникация с поддержкой сработала плохо.",
+        "en": "After the release, the product manager suggested doing a post-mortem to understand why communication with support worked poorly.",
+        "target_ru": "разбор полётов",
+        "target_en": "post-mortem",
+        "gloss_ru": "разбор после инцидента / релиза",
+        "pronunciation": "поуст-мортэм"
+    },
+    {
+        "ru": "Перед масштабированием команда решила проверить решение в боевых условиях на небольшой группе пользователей.",
+        "en": "Before scaling, the team decided to test the solution in the wild with a small group of users.",
+        "target_ru": "в боевых условиях",
+        "target_en": "in the wild",
+        "gloss_ru": "в реальных условиях",
+        "pronunciation": "ин зэ вайлд"
+    },
+    {
+        "ru": "Когда сервис начал падать под нагрузкой, инженеры быстро перешли в режим тушения пожара.",
+        "en": "When the service started failing under load, the engineers quickly went into firefighting mode.",
+        "target_ru": "режим тушения пожара",
+        "target_en": "firefighting mode",
+        "gloss_ru": "режим срочного устранения проблем",
+        "pronunciation": "файерфайтинг моуд"
+    },
+    {
+        "ru": "Команда поняла, что накопила слишком много скрытого технического долга, который мешает новым релизам.",
+        "en": "The team realized they had accumulated too much hidden technical debt that was slowing down new releases.",
+        "target_ru": "скрытого технического долга",
+        "target_en": "hidden technical debt",
+        "gloss_ru": "скрытый технический долг",
+        "pronunciation": "хидэн техникал дет"
+    },
+    {
+        "ru": "Продакт попросил показать грубую оценку, чтобы понять, стоит ли вообще продолжать обсуждение.",
+        "en": "The product manager asked for a ballpark estimate to understand whether the discussion was worth continuing.",
+        "target_ru": "грубую оценку",
+        "target_en": "ballpark estimate",
+        "gloss_ru": "примерная оценка",
+        "pronunciation": "болпарк эстимэт"
+    },
+    {
+        "ru": "Команда решила начать с минимального среза функциональности, чтобы быстрее проверить основную ценность.",
+        "en": "The team decided to start with a thin slice of functionality to validate the core value faster.",
+        "target_ru": "минимального среза",
+        "target_en": "thin slice",
+        "gloss_ru": "минимальный рабочий срез функциональности",
+        "pronunciation": "син слайс"
+    },
+    {
+        "ru": "Менеджер попросил не уходить в золотое покрытие и не добавлять функции, которые не нужны пользователям.",
+        "en": "The manager asked the team to avoid gold-plating and not add features that users did not need.",
+        "target_ru": "золотое покрытие",
+        "target_en": "gold-plating",
+        "gloss_ru": "излишнее улучшение сверх требований",
+        "pronunciation": "гоулд-плейтинг"
+    },
+    {
+        "ru": "На планировании команда договорилась сократить размах задачи, чтобы успеть выпустить её в текущем спринте.",
+        "en": "During planning, the team agreed to cut scope to release the task within the current sprint.",
+        "target_ru": "сократить размах задачи",
+        "target_en": "cut scope",
+        "gloss_ru": "сократить объём работ",
+        "pronunciation": "кат скоуп"
+    },
+    {
+        "ru": "Продакт предложил сначала проверить спрос, а не строить полноценное решение вслепую.",
+        "en": "The product manager suggested testing demand first instead of building a full solution blindly.",
+        "target_ru": "проверить спрос",
+        "target_en": "test demand",
+        "gloss_ru": "проверить спрос",
+        "pronunciation": "тест диманд"
+    },
+    {
+        "ru": "Команда решила убрать шум из отчёта, чтобы стейкхолдеры видели только действительно важные метрики.",
+        "en": "The team decided to remove noise from the report so stakeholders could see only truly important metrics.",
+        "target_ru": "убрать шум",
+        "target_en": "remove noise",
+        "gloss_ru": "убрать лишнюю информацию",
+        "pronunciation": "римув нойз"
+    }
+]
