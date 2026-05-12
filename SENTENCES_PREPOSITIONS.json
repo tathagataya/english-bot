@@ -1,0 +1,1826 @@
+[
+  {
+    "ru": "Мы встретились [у станции] и пошли пить кофе перед работой.",
+    "en": "We met [at the station] and grabbed coffee before work.",
+    "target_ru": "у станции",
+    "target_en": "at the station",
+    "gloss_ru": "в конкретной точке",
+    "pronunciation": "эт зэ стэйшн"
+  },
+  {
+    "ru": "Она живёт [в Лондоне], но всё равно постоянно теряется в центре.",
+    "en": "She lives [in London], but she still gets lost in central London all the time.",
+    "target_ru": "в Лондоне",
+    "target_en": "in London",
+    "gloss_ru": "внутри города/пространства",
+    "pronunciation": "ин ландэн"
+  },
+  {
+    "ru": "Я оставил телефон [на столе] рядом с ключами.",
+    "en": "I left my phone [on the table] next to the keys.",
+    "target_ru": "на столе",
+    "target_en": "on the table",
+    "gloss_ru": "на поверхности",
+    "pronunciation": "он зэ тэйбл"
+  },
+  {
+    "ru": "Обычно я езжу на работу [на автобусе], потому что метро слишком дорогое.",
+    "en": "I usually get to work [by bus] because the Tube is too expensive.",
+    "target_ru": "на автобусе",
+    "target_en": "by bus",
+    "gloss_ru": "способ передвижения",
+    "pronunciation": "бай бас"
+  },
+  {
+    "ru": "Мы нашли классный паб [рядом с] каналом.",
+    "en": "We found a great pub [near] the canal.",
+    "target_ru": "рядом с",
+    "target_en": "near",
+    "gloss_ru": "недалеко",
+    "pronunciation": "ниэ"
+  },
+  {
+    "ru": "На концерте какая-то девушка села [рядом] со мной и весь вечер подпевала.",
+    "en": "At the gig, a girl sat [beside] me and sang along all night.",
+    "target_ru": "рядом",
+    "target_en": "beside",
+    "gloss_ru": "непосредственно рядом",
+    "pronunciation": "бисайд"
+  },
+  {
+    "ru": "[Кроме] Джейка, никто не захотел идти под дождём.",
+    "en": "[Besides] Jake, nobody wanted to walk in the rain.",
+    "target_ru": "кроме",
+    "target_en": "besides",
+    "gloss_ru": "в дополнение к",
+    "pronunciation": "бисайдз"
+  },
+  {
+    "ru": "В поезде я сидел [рядом с] бывшим учителем английского.",
+    "en": "On the train, I ended up sitting [next to] my old English teacher.",
+    "target_ru": "рядом с",
+    "target_en": "next to",
+    "gloss_ru": "прямо рядом",
+    "pronunciation": "некст ту"
+  },
+  {
+    "ru": "Квартира очень маленькая, но она [близко к] офису.",
+    "en": "The flat is tiny, but it’s really [close to] the office.",
+    "target_ru": "близко к",
+    "target_en": "close to",
+    "gloss_ru": "на близком расстоянии",
+    "pronunciation": "клоус ту"
+  },
+  {
+    "ru": "Мои родители живут [далеко от] центра, поэтому я редко к ним заезжаю после работы.",
+    "en": "My parents live [far from] the city centre, so I rarely visit after work.",
+    "target_ru": "далеко от",
+    "target_en": "far from",
+    "gloss_ru": "на большом расстоянии",
+    "pronunciation": "фа: фром"
+  },
+  {
+    "ru": "Разговор быстро перешёл [между] шутками и серьёзными темами.",
+    "en": "The conversation moved [between] jokes and serious topics really quickly.",
+    "target_ru": "между",
+    "target_en": "between",
+    "gloss_ru": "между двумя объектами",
+    "pronunciation": "битуи:н"
+  },
+  {
+    "ru": "Она чувствовала себя спокойно [среди] всех этих шумных людей.",
+    "en": "She felt calm [among] all those loud people.",
+    "target_ru": "среди",
+    "target_en": "among",
+    "gloss_ru": "среди группы",
+    "pronunciation": "эманг"
+  },
+  {
+    "ru": "Старый профессор медленно ходил [среди] студентов и слушал их идеи.",
+    "en": "The old professor walked [amongst] the students listening to their ideas.",
+    "target_ru": "среди",
+    "target_en": "amongst",
+    "gloss_ru": "более literary вариант among",
+    "pronunciation": "эмангст"
+  },
+  {
+    "ru": "Кто-то спрятал подарки [за] диваном.",
+    "en": "Someone hid the presents [behind] the sofa.",
+    "target_ru": "за",
+    "target_en": "behind",
+    "gloss_ru": "позади",
+    "pronunciation": "бихайнд"
+  },
+  {
+    "ru": "Туристы стояли [перед] Букингемским дворцом под дождём.",
+    "en": "Tourists were standing [in front of] Buckingham Palace in the rain.",
+    "target_ru": "перед",
+    "target_en": "in front of",
+    "gloss_ru": "спереди",
+    "pronunciation": "ин франт ов"
+  },
+  {
+    "ru": "Наш офис находится [напротив] маленькой итальянской пекарни.",
+    "en": "Our office is [opposite] a small Italian bakery.",
+    "target_ru": "напротив",
+    "target_en": "opposite",
+    "gloss_ru": "через дорогу / напротив",
+    "pronunciation": "опэзит"
+  },
+  {
+    "ru": "Мы прошли [через] мост пешком, потому что автобусы не ходили.",
+    "en": "We walked [across] the bridge because the buses weren’t running.",
+    "target_ru": "через",
+    "target_en": "across",
+    "gloss_ru": "поперёк поверхности",
+    "pronunciation": "экрос"
+  },
+  {
+    "ru": "Свет проходил [через] занавески, и я проснулся слишком рано.",
+    "en": "The sunlight came [through] the curtains, so I woke up too early.",
+    "target_ru": "через",
+    "target_en": "through",
+    "gloss_ru": "сквозь",
+    "pronunciation": "сру:"
+  },
+  {
+    "ru": "Её имя было известно [по всему] району.",
+    "en": "Her name was known [throughout] the neighbourhood.",
+    "target_ru": "по всему",
+    "target_en": "throughout",
+    "gloss_ru": "по всей территории",
+    "pronunciation": "сруаут"
+  },
+  {
+    "ru": "Мы шли [вдоль] реки и обсуждали переезд.",
+    "en": "We walked [along] the river talking about moving abroad.",
+    "target_ru": "вдоль",
+    "target_en": "along",
+    "gloss_ru": "вдоль линии",
+    "pronunciation": "элонг"
+  },
+  {
+    "ru": "Молодой фотограф работал [вместе с] журналистами во время протеста.",
+    "en": "The young photographer worked [alongside] journalists during the protest.",
+    "target_ru": "вместе с",
+    "target_en": "alongside",
+    "gloss_ru": "рядом / совместно",
+    "pronunciation": "элонгсайд"
+  },
+  {
+    "ru": "Весь вечер мы просто гуляли [по] Камдену и слушали уличных музыкантов.",
+    "en": "We spent the evening walking [around] Camden listening to street musicians.",
+    "target_ru": "по",
+    "target_en": "around",
+    "gloss_ru": "вокруг / по территории",
+    "pronunciation": "эраунд"
+  },
+  {
+    "ru": "Он быстро оглянулся [вокруг], чтобы проверить, не заметил ли кто-нибудь его ошибку.",
+    "en": "He looked [round] quickly to see if anyone had noticed his mistake.",
+    "target_ru": "вокруг",
+    "target_en": "round",
+    "gloss_ru": "британский вариант around",
+    "pronunciation": "раунд"
+  },
+  {
+    "ru": "Вертолёт кружил [над] стадионом почти час.",
+    "en": "A helicopter was flying [over] the stadium for nearly an hour.",
+    "target_ru": "над",
+    "target_en": "over",
+    "gloss_ru": "над / сверху",
+    "pronunciation": "оувэ"
+  },
+  {
+    "ru": "Над камином висела старая фотография его дедушки.",
+    "en": "An old photo of his grandfather hung [above] the fireplace.",
+    "target_ru": "над",
+    "target_en": "above",
+    "gloss_ru": "выше по уровню",
+    "pronunciation": "эбав"
+  },
+  {
+    "ru": "Я нашёл ключи [под] курткой на кухне.",
+    "en": "I found the keys [under] a jacket in the kitchen.",
+    "target_ru": "под",
+    "target_en": "under",
+    "gloss_ru": "ниже / под чем-то",
+    "pronunciation": "андэ"
+  },
+  {
+    "ru": "Ночью температура опустилась [ниже] нуля.",
+    "en": "The temperature dropped [below] zero overnight.",
+    "target_ru": "ниже",
+    "target_en": "below",
+    "gloss_ru": "ниже уровня",
+    "pronunciation": "билоу"
+  },
+  {
+    "ru": "Кот спрятался [под] кроватью, как только услышал пылесос.",
+    "en": "The cat hid [beneath] the bed as soon as it heard the vacuum cleaner.",
+    "target_ru": "под",
+    "target_en": "beneath",
+    "gloss_ru": "под (более literary)",
+    "pronunciation": "бини:с"
+  },
+  {
+    "ru": "Кто-то спрятал запасной ключ [под] цветочным горшком.",
+    "en": "Someone hid the spare key [underneath] the flowerpot.",
+    "target_ru": "под",
+    "target_en": "underneath",
+    "gloss_ru": "прямо под чем-то",
+    "pronunciation": "андэни:с"
+  },
+  {
+    "ru": "Из-за дождя мы остались [внутри] и заказали еду домой.",
+    "en": "Because of the rain, we stayed [inside] and ordered takeaway.",
+    "target_ru": "внутри",
+    "target_en": "inside",
+    "gloss_ru": "в помещении",
+    "pronunciation": "инсайд"
+  },
+  {
+    "ru": "Снаружи клуба уже стояла огромная очередь.",
+    "en": "There was already a huge queue [outside] the club.",
+    "target_ru": "снаружи",
+    "target_en": "outside",
+    "gloss_ru": "вне помещения",
+    "pronunciation": "аутсайд"
+  },
+  {
+    "ru": "Если всё пойдёт нормально, мы закончим ремонт [в течение] двух недель.",
+    "en": "If everything goes well, we’ll finish the renovation [within] two weeks.",
+    "target_ru": "в течение",
+    "target_en": "within",
+    "gloss_ru": "в пределах времени",
+    "pronunciation": "визин"
+  },
+  {
+    "ru": "После этого разговора ситуация вышла [за пределы] обычного рабочего конфликта.",
+    "en": "After that conversation, the situation went [beyond] a normal work conflict.",
+    "target_ru": "за пределы",
+    "target_en": "beyond",
+    "gloss_ru": "дальше / за рамками",
+    "pronunciation": "биёнд"
+  },
+  {
+    "ru": "Он прислонил велосипед [к] стене и забежал в магазин.",
+    "en": "He leaned his bike [against] the wall and ran into the shop.",
+    "target_ru": "к",
+    "target_en": "against",
+    "gloss_ru": "прислонён к",
+    "pronunciation": "эгэйнст"
+  },
+  {
+    "ru": "Все резко повернулись [к] двери, когда услышали крик.",
+    "en": "Everyone turned [toward] the door when they heard shouting.",
+    "target_ru": "к",
+    "target_en": "toward",
+    "gloss_ru": "в направлении",
+    "pronunciation": "туо:д"
+  },
+  {
+    "ru": "Она сделала шаг [в сторону] выхода, но потом передумала.",
+    "en": "She took a step [towards] the exit but then changed her mind.",
+    "target_ru": "в сторону",
+    "target_en": "towards",
+    "gloss_ru": "по направлению к",
+    "pronunciation": "туо:дз"
+  },
+  {
+    "ru": "Я отправил документы [в] офис ещё утром.",
+    "en": "I sent the documents [to] the office earlier this morning.",
+    "target_ru": "в",
+    "target_en": "to",
+    "gloss_ru": "направление к",
+    "pronunciation": "ту:"
+  },
+  {
+    "ru": "Она только вернулась [из] Манчестера.",
+    "en": "She’s just come back [from] Manchester.",
+    "target_ru": "из",
+    "target_en": "from",
+    "gloss_ru": "источник / начало движения",
+    "pronunciation": "фром"
+  },
+  {
+    "ru": "Он ворвался [в] комнату и сразу начал спорить.",
+    "en": "He stormed [into] the room and immediately started arguing.",
+    "target_ru": "в",
+    "target_en": "into",
+    "gloss_ru": "движение внутрь",
+    "pronunciation": "инту"
+  },
+  {
+    "ru": "Ребёнок забрался [на] стол, пока родители разговаривали.",
+    "en": "The kid climbed [onto] the table while his parents were talking.",
+    "target_ru": "на",
+    "target_en": "onto",
+    "gloss_ru": "движение на поверхность",
+    "pronunciation": "онту"
+  },
+  {
+    "ru": "Она выбежала [из] офиса сразу после звонка.",
+    "en": "She ran [out of] the office right after the phone call.",
+    "target_ru": "из",
+    "target_en": "out of",
+    "gloss_ru": "движение наружу",
+    "pronunciation": "аут ов"
+  },
+  {
+    "ru": "Я случайно сбил чашку [со] стола.",
+    "en": "I accidentally knocked the cup [off] the table.",
+    "target_ru": "со",
+    "target_en": "off",
+    "gloss_ru": "движение с поверхности",
+    "pronunciation": "оф"
+  },
+  {
+    "ru": "Мы поднялись [вверх] пешком, потому что лифт не работал.",
+    "en": "We walked [up] the stairs because the lift was broken.",
+    "target_ru": "вверх",
+    "target_en": "up",
+    "gloss_ru": "движение вверх",
+    "pronunciation": "ап"
+  },
+  {
+    "ru": "После вечеринки мы медленно спускались [вниз] по пустой улице.",
+    "en": "After the party, we walked [down] the empty street.",
+    "target_ru": "вниз",
+    "target_en": "down",
+    "gloss_ru": "движение вниз",
+    "pronunciation": "даун"
+  },
+  {
+    "ru": "Чёрное такси проехало [мимо] нас, даже не остановившись.",
+    "en": "A black cab drove [past] us without stopping.",
+    "target_ru": "мимо",
+    "target_en": "past",
+    "gloss_ru": "мимо объекта",
+    "pronunciation": "па:ст"
+  },
+  {
+    "ru": "Мы летели [через] Амстердам, потому что прямых рейсов не было.",
+    "en": "We travelled [via] Amsterdam because there were no direct flights.",
+    "target_ru": "через",
+    "target_en": "via",
+    "gloss_ru": "через промежуточный пункт",
+    "pronunciation": "вайэ"
+  },
+  {
+    "ru": "Она оставалась спокойной [среди] всего этого хаоса.",
+    "en": "She stayed calm [amid] all the chaos.",
+    "target_ru": "среди",
+    "target_en": "amid",
+    "gloss_ru": "посреди ситуации",
+    "pronunciation": "эмид"
+  },
+  {
+    "ru": "Даже [среди] громких споров он почти не повышал голос.",
+    "en": "Even [amidst] the loud arguments, he barely raised his voice.",
+    "target_ru": "среди",
+    "target_en": "amidst",
+    "gloss_ru": "более formal вариант amid",
+    "pronunciation": "эмидст"
+  },
+  {
+    "ru": "[Во время] ужина никто не говорил о работе.",
+    "en": "[During] dinner, nobody talked about work.",
+    "target_ru": "во время",
+    "target_en": "during",
+    "gloss_ru": "в период времени",
+    "pronunciation": "дьюэринг"
+  },
+  {
+    "ru": "Я никогда раньше не выступал публично [до] той конференции.",
+    "en": "I’d never spoken in public [before] that conference.",
+    "target_ru": "до",
+    "target_en": "before",
+    "gloss_ru": "раньше",
+    "pronunciation": "бифо:"
+  },
+  {
+    "ru": "Мы пошли выпить [после] концерта.",
+    "en": "We went for drinks [after] the concert.",
+    "target_ru": "после",
+    "target_en": "after",
+    "gloss_ru": "позже чего-то",
+    "pronunciation": "афтэ"
+  },
+  {
+    "ru": "Она живёт одна [с] прошлого года.",
+    "en": "She’s been living alone [since] last year.",
+    "target_ru": "с",
+    "target_en": "since",
+    "gloss_ru": "начиная с момента",
+    "pronunciation": "синс"
+  },
+  {
+    "ru": "Я работал в том кафе [в течение] почти двух лет.",
+    "en": "I worked at that café [for] almost two years.",
+    "target_ru": "в течение",
+    "target_en": "for",
+    "gloss_ru": "длительность",
+    "pronunciation": "фо:"
+  },
+  {
+    "ru": "Мы ждали [до] полуночи, но он так и не пришёл.",
+    "en": "We waited [until] midnight, but he never showed up.",
+    "target_ru": "до",
+    "target_en": "until",
+    "gloss_ru": "до определённого момента",
+    "pronunciation": "антил"
+  },
+  {
+    "ru": "Я не понимал, насколько всё серьёзно, [пока] не увидел её сообщение.",
+    "en": "I didn’t realise how serious it was [till] I saw her message.",
+    "target_ru": "пока не",
+    "target_en": "till",
+    "gloss_ru": "разговорный until",
+    "pronunciation": "тил"
+  },
+  {
+    "ru": "[Из-за] забастовки большинство поездов отменили.",
+    "en": "[Because of] the strike, most trains were cancelled.",
+    "target_ru": "из-за",
+    "target_en": "because of",
+    "gloss_ru": "причина",
+    "pronunciation": "бикоз ов"
+  },
+  {
+    "ru": "Рейс задержали [из-за] густого тумана.",
+    "en": "The flight was delayed [due to] heavy fog.",
+    "target_ru": "из-за",
+    "target_en": "due to",
+    "gloss_ru": "официальная причина",
+    "pronunciation": "дью ту"
+  },
+  {
+    "ru": "Матч отменили [из-за] сильного дождя.",
+    "en": "The match was cancelled [owing to] heavy rain.",
+    "target_ru": "из-за",
+    "target_en": "owing to",
+    "gloss_ru": "formal: из-за",
+    "pronunciation": "оуинг ту"
+  },
+  {
+    "ru": "[Благодаря] соседям мы успели закончить переезд за один день.",
+    "en": "[Thanks to] our neighbours, we finished moving in one day.",
+    "target_ru": "благодаря",
+    "target_en": "thanks to",
+    "gloss_ru": "позитивная причина",
+    "pronunciation": "сэнкс ту"
+  },
+  {
+    "ru": "Мы всё равно пошли гулять [несмотря на] дождь.",
+    "en": "We still went for a walk [despite] the rain.",
+    "target_ru": "несмотря на",
+    "target_en": "despite",
+    "gloss_ru": "вопреки",
+    "pronunciation": "диспайт"
+  },
+  {
+    "ru": "Он переехал в Лондон [несмотря на] то, что почти никого там не знал.",
+    "en": "He moved to London [in spite of] barely knowing anyone there.",
+    "target_ru": "несмотря на",
+    "target_en": "in spite of",
+    "gloss_ru": "вопреки обстоятельствам",
+    "pronunciation": "ин спайт ов"
+  },
+  {
+    "ru": "[Согласно] прогнозу, на выходных снова будет снег.",
+    "en": "[According to] the forecast, it’s going to snow again this weekend.",
+    "target_ru": "согласно",
+    "target_en": "according to",
+    "gloss_ru": "по информации",
+    "pronunciation": "эко:динг ту"
+  },
+  {
+    "ru": "Я получил несколько писем [касательно] нового проекта.",
+    "en": "I got a few emails [regarding] the new project.",
+    "target_ru": "касательно",
+    "target_en": "regarding",
+    "gloss_ru": "по поводу",
+    "pronunciation": "ригадинг"
+  },
+  {
+    "ru": "Она задала странный вопрос [относительно] моей зарплаты.",
+    "en": "She asked a weird question [concerning] my salary.",
+    "target_ru": "относительно",
+    "target_en": "concerning",
+    "gloss_ru": "касательно",
+    "pronunciation": "консёрнинг"
+  },
+  {
+    "ru": "Всю дорогу домой мы говорили [о] старых друзьях.",
+    "en": "We talked [about] old friends all the way home.",
+    "target_ru": "о",
+    "target_en": "about",
+    "gloss_ru": "тема разговора",
+    "pronunciation": "эбаут"
+  },
+  {
+    "ru": "[Что касается] Тома, я больше не собираюсь ему помогать.",
+    "en": "[As for] Tom, I’m not helping him anymore.",
+    "target_ru": "что касается",
+    "target_en": "as for",
+    "gloss_ru": "переход к теме",
+    "pronunciation": "эз фо:"
+  },
+  {
+    "ru": "[Кроме] пары жалоб, вечер прошёл отлично.",
+    "en": "[Apart from] a couple of complaints, the evening went really well.",
+    "target_ru": "кроме",
+    "target_en": "apart from",
+    "gloss_ru": "за исключением",
+    "pronunciation": "эпарт фром"
+  },
+  {
+    "ru": "Вместо метро мы поехали домой [вместо] этого на автобусе.",
+    "en": "Instead of the Tube, we went home [instead of] it by bus.",
+    "target_ru": "вместо",
+    "target_en": "instead of",
+    "gloss_ru": "замена одного другим",
+    "pronunciation": "инстэд ов"
+  },
+  {
+    "ru": "[В случае] пожара используйте лестницу, а не лифт.",
+    "en": "[In case of] fire, use the stairs instead of the lift.",
+    "target_ru": "в случае",
+    "target_en": "in case of",
+    "gloss_ru": "если случится",
+    "pronunciation": "ин кейс ов"
+  },
+  {
+    "ru": "[С точки зрения] денег новая работа намного лучше.",
+    "en": "[In terms of] money, the new job is much better.",
+    "target_ru": "с точки зрения",
+    "target_en": "in terms of",
+    "gloss_ru": "в отношении аспекта",
+    "pronunciation": "ин тёрмз ов"
+  },
+  {
+    "ru": "[Что касается] твоего заявления, мы свяжемся с тобой завтра.",
+    "en": "[With regard to] your application, we’ll contact you tomorrow.",
+    "target_ru": "что касается",
+    "target_en": "with regard to",
+    "gloss_ru": "formal: относительно",
+    "pronunciation": "уиз ригард ту"
+  },
+  {
+    "ru": "[Что касается] оплаты, всё уже подтверждено.",
+    "en": "[With respect to] payment, everything has already been confirmed.",
+    "target_ru": "что касается",
+    "target_en": "with respect to",
+    "gloss_ru": "в отношении",
+    "pronunciation": "уиз риспект ту"
+  },
+  {
+    "ru": "[До] интервью я почти не нервничал.",
+    "en": "[Prior to] the interview, I wasn’t nervous at all.",
+    "target_ru": "до",
+    "target_en": "prior to",
+    "gloss_ru": "formal: before",
+    "pronunciation": "прайэ ту"
+  },
+  {
+    "ru": "Она пришла [раньше] всех остальных.",
+    "en": "She arrived [ahead of] everyone else.",
+    "target_ru": "раньше",
+    "target_en": "ahead of",
+    "gloss_ru": "впереди / раньше",
+    "pronunciation": "эхэд ов"
+  },
+  {
+    "ru": "Он выступал [от имени] всей команды.",
+    "en": "He spoke [on behalf of] the whole team.",
+    "target_ru": "от имени",
+    "target_en": "on behalf of",
+    "gloss_ru": "представляя кого-то",
+    "pronunciation": "он биха:ф ов"
+  },
+  {
+    "ru": "Они проникли внутрь [с помощью] украденной карты доступа.",
+    "en": "They got inside [by means of] a stolen access card.",
+    "target_ru": "с помощью",
+    "target_en": "by means of",
+    "gloss_ru": "используя средство",
+    "pronunciation": "бай ми:нз ов"
+  },
+  {
+    "ru": "Мы поехали домой [через] маленькие деревни вместо трассы.",
+    "en": "We drove home [by way of] small villages instead of the motorway.",
+    "target_ru": "через",
+    "target_en": "by way of",
+    "gloss_ru": "через маршрут",
+    "pronunciation": "бай уэй ов"
+  },
+  {
+    "ru": "[Помимо] английского, она ещё говорит по-итальянски.",
+    "en": "[In addition to] English, she also speaks Italian.",
+    "target_ru": "помимо",
+    "target_en": "in addition to",
+    "gloss_ru": "дополнительно к",
+    "pronunciation": "ин эдишн ту"
+  },
+  {
+    "ru": "Мы использовали старую коробку [вместо] стола.",
+    "en": "We used an old box [in place of] a table.",
+    "target_ru": "вместо",
+    "target_en": "in place of",
+    "gloss_ru": "в качестве замены",
+    "pronunciation": "ин плэйс ов"
+  },
+  {
+    "ru": "[Учитывая] последние события, концерт могут отменить.",
+    "en": "[In view of] recent events, the concert might be cancelled.",
+    "target_ru": "учитывая",
+    "target_en": "in view of",
+    "gloss_ru": "принимая во внимание",
+    "pronunciation": "ин вью ов"
+  },
+  {
+    "ru": "Он переехал в Лондон [несмотря на] то, что почти никого там не знал.",
+    "en": "He moved to London [in spite of] barely knowing anyone there.",
+    "target_ru": "несмотря на",
+    "target_en": "in spite of",
+    "gloss_ru": "вопреки обстоятельствам",
+    "pronunciation": "ин спайт ов"
+  },
+  {
+    "ru": "[Согласно] прогнозу, на выходных снова будет снег.",
+    "en": "[According to] the forecast, it’s going to snow again this weekend.",
+    "target_ru": "согласно",
+    "target_en": "according to",
+    "gloss_ru": "по информации",
+    "pronunciation": "эко:динг ту"
+  },
+  {
+    "ru": "Я получил несколько писем [касательно] нового проекта.",
+    "en": "I got a few emails [regarding] the new project.",
+    "target_ru": "касательно",
+    "target_en": "regarding",
+    "gloss_ru": "по поводу",
+    "pronunciation": "ригадинг"
+  },
+  {
+    "ru": "Она задала странный вопрос [относительно] моей зарплаты.",
+    "en": "She asked a weird question [concerning] my salary.",
+    "target_ru": "относительно",
+    "target_en": "concerning",
+    "gloss_ru": "касательно",
+    "pronunciation": "консёрнинг"
+  },
+  {
+    "ru": "Всю дорогу домой мы говорили [о] старых друзьях.",
+    "en": "We talked [about] old friends all the way home.",
+    "target_ru": "о",
+    "target_en": "about",
+    "gloss_ru": "тема разговора",
+    "pronunciation": "эбаут"
+  },
+  {
+    "ru": "[Что касается] Тома, я больше не собираюсь ему помогать.",
+    "en": "[As for] Tom, I’m not helping him anymore.",
+    "target_ru": "что касается",
+    "target_en": "as for",
+    "gloss_ru": "переход к теме",
+    "pronunciation": "эз фо:"
+  },
+  {
+    "ru": "[Кроме] пары жалоб, вечер прошёл отлично.",
+    "en": "[Apart from] a couple of complaints, the evening went really well.",
+    "target_ru": "кроме",
+    "target_en": "apart from",
+    "gloss_ru": "за исключением",
+    "pronunciation": "эпарт фром"
+  },
+  {
+    "ru": "Вместо метро мы поехали домой [вместо] этого на автобусе.",
+    "en": "Instead of the Tube, we went home [instead of] it by bus.",
+    "target_ru": "вместо",
+    "target_en": "instead of",
+    "gloss_ru": "замена одного другим",
+    "pronunciation": "инстэд ов"
+  },
+  {
+    "ru": "[В случае] пожара используйте лестницу, а не лифт.",
+    "en": "[In case of] fire, use the stairs instead of the lift.",
+    "target_ru": "в случае",
+    "target_en": "in case of",
+    "gloss_ru": "если случится",
+    "pronunciation": "ин кейс ов"
+  },
+  {
+    "ru": "[С точки зрения] денег новая работа намного лучше.",
+    "en": "[In terms of] money, the new job is much better.",
+    "target_ru": "с точки зрения",
+    "target_en": "in terms of",
+    "gloss_ru": "в отношении аспекта",
+    "pronunciation": "ин тёрмз ов"
+  },
+  {
+    "ru": "[Что касается] твоего заявления, мы свяжемся с тобой завтра.",
+    "en": "[With regard to] your application, we’ll contact you tomorrow.",
+    "target_ru": "что касается",
+    "target_en": "with regard to",
+    "gloss_ru": "formal: относительно",
+    "pronunciation": "уиз ригард ту"
+  },
+  {
+    "ru": "[Что касается] оплаты, всё уже подтверждено.",
+    "en": "[With respect to] payment, everything has already been confirmed.",
+    "target_ru": "что касается",
+    "target_en": "with respect to",
+    "gloss_ru": "в отношении",
+    "pronunciation": "уиз риспект ту"
+  },
+  {
+    "ru": "[До] интервью я почти не нервничал.",
+    "en": "[Prior to] the interview, I wasn’t nervous at all.",
+    "target_ru": "до",
+    "target_en": "prior to",
+    "gloss_ru": "formal: before",
+    "pronunciation": "прайэ ту"
+  },
+  {
+    "ru": "Она пришла [раньше] всех остальных.",
+    "en": "She arrived [ahead of] everyone else.",
+    "target_ru": "раньше",
+    "target_en": "ahead of",
+    "gloss_ru": "впереди / раньше",
+    "pronunciation": "эхэд ов"
+  },
+  {
+    "ru": "Он выступал [от имени] всей команды.",
+    "en": "He spoke [on behalf of] the whole team.",
+    "target_ru": "от имени",
+    "target_en": "on behalf of",
+    "gloss_ru": "представляя кого-то",
+    "pronunciation": "он биха:ф ов"
+  },
+  {
+    "ru": "Они проникли внутрь [с помощью] украденной карты доступа.",
+    "en": "They got inside [by means of] a stolen access card.",
+    "target_ru": "с помощью",
+    "target_en": "by means of",
+    "gloss_ru": "используя средство",
+    "pronunciation": "бай ми:нз ов"
+  },
+  {
+    "ru": "Мы поехали домой [через] маленькие деревни вместо трассы.",
+    "en": "We drove home [by way of] small villages instead of the motorway.",
+    "target_ru": "через",
+    "target_en": "by way of",
+    "gloss_ru": "через маршрут",
+    "pronunciation": "бай уэй ов"
+  },
+  {
+    "ru": "[Помимо] английского, она ещё говорит по-итальянски.",
+    "en": "[In addition to] English, she also speaks Italian.",
+    "target_ru": "помимо",
+    "target_en": "in addition to",
+    "gloss_ru": "дополнительно к",
+    "pronunciation": "ин эдишн ту"
+  },
+  {
+    "ru": "Мы использовали старую коробку [вместо] стола.",
+    "en": "We used an old box [in place of] a table.",
+    "target_ru": "вместо",
+    "target_en": "in place of",
+    "gloss_ru": "в качестве замены",
+    "pronunciation": "ин плэйс ов"
+  },
+  {
+    "ru": "[Учитывая] последние события, концерт могут отменить.",
+    "en": "[In view of] recent events, the concert might be cancelled.",
+    "target_ru": "учитывая",
+    "target_en": "in view of",
+    "gloss_ru": "принимая во внимание",
+    "pronunciation": "ин вью ов"
+  },
+  {
+    "ru": "Пикник всё ещё состоится, [если не] начнётся гроза.",
+    "en": "The picnic will still happen, [barring] a thunderstorm.",
+    "target_ru": "если не",
+    "target_en": "barring",
+    "gloss_ru": "если не случится",
+    "pronunciation": "ба:ринг"
+  },
+  {
+    "ru": "Этот дом был построен [примерно в] 1890 году.",
+    "en": "The house was built [circa] 1890.",
+    "target_ru": "примерно в",
+    "target_en": "circa",
+    "gloss_ru": "примерная дата",
+    "pronunciation": "сё:ка"
+  },
+  {
+    "ru": "Мы встретились [посреди] разговора и сразу начали спорить о музыке.",
+    "en": "We met [mid] conversation and instantly started arguing about music.",
+    "target_ru": "посреди",
+    "target_en": "mid",
+    "gloss_ru": "в середине",
+    "pronunciation": "мид"
+  },
+  {
+    "ru": "Кампания двигалась медленно, [несмотря на] критику в интернете.",
+    "en": "The campaign moved forward slowly, [pace] the criticism online.",
+    "target_ru": "несмотря на",
+    "target_en": "pace",
+    "gloss_ru": "formal/literary: вопреки",
+    "pronunciation": "пэйс"
+  },
+  {
+    "ru": "Контракт всё ещё [ожидает] одобрения руководства.",
+    "en": "The contract is still [pending] approval from management.",
+    "target_ru": "ожидает",
+    "target_en": "pending",
+    "gloss_ru": "в ожидании",
+    "pronunciation": "пендинг"
+  },
+  {
+    "ru": "Два [умножить на] пять будет десять.",
+    "en": "Two [times] five is ten.",
+    "target_ru": "умножить на",
+    "target_en": "times",
+    "gloss_ru": "математическое умножение",
+    "pronunciation": "таймз"
+  },
+  {
+    "ru": "Эта старая гитара может быть [стоить] гораздо больше, чем ты думаешь.",
+    "en": "That old guitar might be [worth] far more than you think.",
+    "target_ru": "стоить",
+    "target_en": "worth",
+    "gloss_ru": "иметь ценность",
+    "pronunciation": "уёрс"
+  },
+  {
+    "ru": "Их стратегия выглядела слишком агрессивной [по отношению к] конкурентам.",
+    "en": "Their strategy looked too aggressive [vis-à-vis] competitors.",
+    "target_ru": "по отношению к",
+    "target_en": "vis-à-vis",
+    "gloss_ru": "в отношении",
+    "pronunciation": "ви-зави"
+  },
+  {
+    "ru": "Она пришла [вместе с] двумя коллегами из Манчестера.",
+    "en": "She arrived [along with] two colleagues from Manchester.",
+    "target_ru": "вместе с",
+    "target_en": "along with",
+    "gloss_ru": "совместно с",
+    "pronunciation": "элонг уиз"
+  },
+  {
+    "ru": "Мэр [вместе с] местными волонтёрами открыл новый центр помощи.",
+    "en": "The mayor, [together with] local volunteers, opened a new support centre.",
+    "target_ru": "вместе с",
+    "target_en": "together with",
+    "gloss_ru": "совместно",
+    "pronunciation": "тугэзэ уиз"
+  },
+  {
+    "ru": "Нам сказали держаться [подальше от] стройки.",
+    "en": "We were told to stay [away from] the construction site.",
+    "target_ru": "подальше от",
+    "target_en": "away from",
+    "gloss_ru": "не приближаться",
+    "pronunciation": "эуэй фром"
+  },
+  {
+    "ru": "Тут [совсем рядом] есть отличная пекарня.",
+    "en": "There’s a great bakery [close by].",
+    "target_ru": "совсем рядом",
+    "target_en": "close by",
+    "gloss_ru": "неподалёку",
+    "pronunciation": "клоус бай"
+  },
+  {
+    "ru": "[Вопреки] слухам, ресторан не закрывается.",
+    "en": "[Contrary to] the rumours, the restaurant isn’t closing.",
+    "target_ru": "вопреки",
+    "target_en": "contrary to",
+    "gloss_ru": "противореча",
+    "pronunciation": "контрэри ту"
+  },
+  {
+    "ru": "Все ушли рано, [кроме] нас.",
+    "en": "Everyone left early, [except for] us.",
+    "target_ru": "кроме",
+    "target_en": "except for",
+    "gloss_ru": "исключая",
+    "pronunciation": "иксепт фо:"
+  },
+  {
+    "ru": "Цена указана [без учёта] налогов.",
+    "en": "The price is listed [exclusive of] taxes.",
+    "target_ru": "без учёта",
+    "target_en": "exclusive of",
+    "gloss_ru": "не включая",
+    "pronunciation": "иксклюсив ов"
+  },
+  {
+    "ru": "После супа сразу подали рыбу, [за которой последовал] десерт.",
+    "en": "The soup was served, [followed by] fish and dessert.",
+    "target_ru": "за которым последовал",
+    "target_en": "followed by",
+    "gloss_ru": "после чего",
+    "pronunciation": "фоллоуд бай"
+  },
+  {
+    "ru": "Все ждали [внутри] бара, потому что на улице шёл ливень.",
+    "en": "Everyone waited [inside of] the bar because it was pouring outside.",
+    "target_ru": "внутри",
+    "target_en": "inside of",
+    "gloss_ru": "внутри помещения",
+    "pronunciation": "инсайд ов"
+  },
+  {
+    "ru": "Он продолжал работать [независимо от] того, что говорили остальные.",
+    "en": "He kept working [irrespective of] what everyone else said.",
+    "target_ru": "независимо от",
+    "target_en": "irrespective of",
+    "gloss_ru": "без учёта",
+    "pronunciation": "ирриспектив ов"
+  },
+  {
+    "ru": "Мы живём [по соседству с] очень шумным пабом.",
+    "en": "We live [next door to] a really noisy pub.",
+    "target_ru": "по соседству с",
+    "target_en": "next door to",
+    "gloss_ru": "в соседнем здании",
+    "pronunciation": "некст до: ту"
+  },
+  {
+    "ru": "Мой ноутбук лежал [поверх] стопки книг.",
+    "en": "My laptop was sitting [on top of] a pile of books.",
+    "target_ru": "поверх",
+    "target_en": "on top of",
+    "gloss_ru": "на самой верхней части",
+    "pronunciation": "он топ ов"
+  },
+  {
+    "ru": "Из толпы внезапно вышел мужчина [из] темноты.",
+    "en": "A man suddenly stepped [out from] the darkness.",
+    "target_ru": "из",
+    "target_en": "out from",
+    "gloss_ru": "выход из места",
+    "pronunciation": "аут фром"
+  },
+  {
+    "ru": "Встречу перенесли [из-за] проблем с электричеством.",
+    "en": "The meeting was postponed [owing to] electrical problems.",
+    "target_ru": "из-за",
+    "target_en": "owing to",
+    "gloss_ru": "formal: из-за",
+    "pronunciation": "оуинг ту"
+  },
+  {
+    "ru": "[В рамках подготовки к] запуску команда почти не спала.",
+    "en": "[Preparatory to] the launch, the team barely slept.",
+    "target_ru": "в рамках подготовки к",
+    "target_en": "preparatory to",
+    "gloss_ru": "готовясь к",
+    "pronunciation": "припэрэтэри ту"
+  },
+  {
+    "ru": "[До] переезда в Лондон он никогда не жил один.",
+    "en": "[Previous to] moving to London, he’d never lived alone.",
+    "target_ru": "до",
+    "target_en": "previous to",
+    "gloss_ru": "formal: before",
+    "pronunciation": "привиэс ту"
+  },
+  {
+    "ru": "Компания действовала [в соответствии с] новым законом.",
+    "en": "The company acted [pursuant to] the new law.",
+    "target_ru": "в соответствии с",
+    "target_en": "pursuant to",
+    "gloss_ru": "официально следуя",
+    "pronunciation": "пэсуэнт ту"
+  },
+  {
+    "ru": "Он продолжал смеяться [несмотря на] недовольные взгляды людей вокруг.",
+    "en": "He kept laughing [regardless of] the annoyed looks around him.",
+    "target_ru": "несмотря на",
+    "target_en": "regardless of",
+    "gloss_ru": "не обращая внимания на",
+    "pronunciation": "ригардлэс ов"
+  },
+  {
+    "ru": "[После] встречи все пошли в паб неподалёку.",
+    "en": "[Subsequent to] the meeting, everyone went to a nearby pub.",
+    "target_ru": "после",
+    "target_en": "subsequent to",
+    "gloss_ru": "formal: after",
+    "pronunciation": "сабсиквэнт ту"
+  },
+  {
+    "ru": "[Благодаря] тебе мы всё успели вовремя.",
+    "en": "[Thanks to] you, we finished everything on time.",
+    "target_ru": "благодаря",
+    "target_en": "thanks to",
+    "gloss_ru": "позитивная причина",
+    "pronunciation": "сэнкс ту"
+  },
+  {
+    "ru": "Мы оказались [лицом к лицу с] серьёзной проблемой уже в первый день.",
+    "en": "We were suddenly [up against] a serious problem on the first day.",
+    "target_ru": "лицом к лицу с",
+    "target_en": "up against",
+    "gloss_ru": "столкнувшись с трудностью",
+    "pronunciation": "ап эгэйнст"
+  },
+  {
+    "ru": "Бар работал [до] трёх часов ночи.",
+    "en": "The bar stayed open [up until] three in the morning.",
+    "target_ru": "до",
+    "target_en": "up until",
+    "gloss_ru": "вплоть до",
+    "pronunciation": "ап антил"
+  },
+  {
+    "ru": "Они инвестировали в проект [с целью] расширения бизнеса.",
+    "en": "They invested in the project [with a view to] expanding the business.",
+    "target_ru": "с целью",
+    "target_en": "with a view to",
+    "gloss_ru": "имея намерение",
+    "pronunciation": "уиз э вью ту"
+  },
+  {
+    "ru": "Она пошла на курсы [с намерением] найти новую работу.",
+    "en": "She joined the course [with an eye to] finding a new job.",
+    "target_ru": "с намерением",
+    "target_en": "with an eye to",
+    "gloss_ru": "с расчётом на",
+    "pronunciation": "уиз эн ай ту"
+  },
+  {
+    "ru": "Все документы были подготовлены [в соответствии с] правилами компании.",
+    "en": "All the documents were prepared [in accordance with] company rules.",
+    "target_ru": "в соответствии с",
+    "target_en": "in accordance with",
+    "gloss_ru": "соблюдая правила",
+    "pronunciation": "ин эко:дэнс уиз"
+  },
+  {
+    "ru": "[По сравнению с] прошлым годом район стал намного безопаснее.",
+    "en": "[In comparison with] last year, the area feels much safer now.",
+    "target_ru": "по сравнению с",
+    "target_en": "in comparison with",
+    "gloss_ru": "сравнивая",
+    "pronunciation": "ин кэмпэрисн уиз"
+  },
+  {
+    "ru": "Компания действовала [в соответствии с] международными стандартами.",
+    "en": "The company acted [in compliance with] international standards.",
+    "target_ru": "в соответствии с",
+    "target_en": "in compliance with",
+    "gloss_ru": "соблюдая требования",
+    "pronunciation": "ин кэмплайэнс уиз"
+  },
+  {
+    "ru": "Все ждали [внутри] бара, потому что на улице шёл ливень.",
+    "en": "Everyone waited [inside of] the bar because it was pouring outside.",
+    "target_ru": "внутри",
+    "target_en": "inside of",
+    "gloss_ru": "внутри помещения",
+    "pronunciation": "инсайд ов"
+  },
+  {
+    "ru": "Он продолжал работать [независимо от] того, что говорили остальные.",
+    "en": "He kept working [irrespective of] what everyone else said.",
+    "target_ru": "независимо от",
+    "target_en": "irrespective of",
+    "gloss_ru": "без учёта",
+    "pronunciation": "ирриспектив ов"
+  },
+  {
+    "ru": "Мы живём [по соседству с] очень шумным пабом.",
+    "en": "We live [next door to] a really noisy pub.",
+    "target_ru": "по соседству с",
+    "target_en": "next door to",
+    "gloss_ru": "в соседнем здании",
+    "pronunciation": "некст до: ту"
+  },
+  {
+    "ru": "Мой ноутбук лежал [поверх] стопки книг.",
+    "en": "My laptop was sitting [on top of] a pile of books.",
+    "target_ru": "поверх",
+    "target_en": "on top of",
+    "gloss_ru": "на самой верхней части",
+    "pronunciation": "он топ ов"
+  },
+  {
+    "ru": "Из толпы внезапно вышел мужчина [из] темноты.",
+    "en": "A man suddenly stepped [out from] the darkness.",
+    "target_ru": "из",
+    "target_en": "out from",
+    "gloss_ru": "выход из места",
+    "pronunciation": "аут фром"
+  },
+  {
+    "ru": "Встречу перенесли [из-за] проблем с электричеством.",
+    "en": "The meeting was postponed [owing to] electrical problems.",
+    "target_ru": "из-за",
+    "target_en": "owing to",
+    "gloss_ru": "formal: из-за",
+    "pronunciation": "оуинг ту"
+  },
+  {
+    "ru": "[В рамках подготовки к] запуску команда почти не спала.",
+    "en": "[Preparatory to] the launch, the team barely slept.",
+    "target_ru": "в рамках подготовки к",
+    "target_en": "preparatory to",
+    "gloss_ru": "готовясь к",
+    "pronunciation": "припэрэтэри ту"
+  },
+  {
+    "ru": "[До] переезда в Лондон он никогда не жил один.",
+    "en": "[Previous to] moving to London, he’d never lived alone.",
+    "target_ru": "до",
+    "target_en": "previous to",
+    "gloss_ru": "formal: before",
+    "pronunciation": "привиэс ту"
+  },
+  {
+    "ru": "Компания действовала [в соответствии с] новым законом.",
+    "en": "The company acted [pursuant to] the new law.",
+    "target_ru": "в соответствии с",
+    "target_en": "pursuant to",
+    "gloss_ru": "официально следуя",
+    "pronunciation": "пэсуэнт ту"
+  },
+  {
+    "ru": "Он продолжал смеяться [несмотря на] недовольные взгляды людей вокруг.",
+    "en": "He kept laughing [regardless of] the annoyed looks around him.",
+    "target_ru": "несмотря на",
+    "target_en": "regardless of",
+    "gloss_ru": "не обращая внимания на",
+    "pronunciation": "ригардлэс ов"
+  },
+  {
+    "ru": "[После] встречи все пошли в паб неподалёку.",
+    "en": "[Subsequent to] the meeting, everyone went to a nearby pub.",
+    "target_ru": "после",
+    "target_en": "subsequent to",
+    "gloss_ru": "formal: after",
+    "pronunciation": "сабсиквэнт ту"
+  },
+  {
+    "ru": "[Благодаря] тебе мы всё успели вовремя.",
+    "en": "[Thanks to] you, we finished everything on time.",
+    "target_ru": "благодаря",
+    "target_en": "thanks to",
+    "gloss_ru": "позитивная причина",
+    "pronunciation": "сэнкс ту"
+  },
+  {
+    "ru": "Мы оказались [лицом к лицу с] серьёзной проблемой уже в первый день.",
+    "en": "We were suddenly [up against] a serious problem on the first day.",
+    "target_ru": "лицом к лицу с",
+    "target_en": "up against",
+    "gloss_ru": "столкнувшись с трудностью",
+    "pronunciation": "ап эгэйнст"
+  },
+  {
+    "ru": "Бар работал [до] трёх часов ночи.",
+    "en": "The bar stayed open [up until] three in the morning.",
+    "target_ru": "до",
+    "target_en": "up until",
+    "gloss_ru": "вплоть до",
+    "pronunciation": "ап антил"
+  },
+  {
+    "ru": "Они инвестировали в проект [с целью] расширения бизнеса.",
+    "en": "They invested in the project [with a view to] expanding the business.",
+    "target_ru": "с целью",
+    "target_en": "with a view to",
+    "gloss_ru": "имея намерение",
+    "pronunciation": "уиз э вью ту"
+  },
+  {
+    "ru": "Она пошла на курсы [с намерением] найти новую работу.",
+    "en": "She joined the course [with an eye to] finding a new job.",
+    "target_ru": "с намерением",
+    "target_en": "with an eye to",
+    "gloss_ru": "с расчётом на",
+    "pronunciation": "уиз эн ай ту"
+  },
+  {
+    "ru": "[Благодаря] своему опыту он быстро получил повышение.",
+    "en": "[By virtue of] his experience, he got promoted quickly.",
+    "target_ru": "благодаря",
+    "target_en": "by virtue of",
+    "gloss_ru": "в силу чего-то",
+    "pronunciation": "бай вё:чу ов"
+  },
+  {
+    "ru": "Все документы были подготовлены [в соответствии с] правилами компании.",
+    "en": "All the documents were prepared [in accordance with] company rules.",
+    "target_ru": "в соответствии с",
+    "target_en": "in accordance with",
+    "gloss_ru": "соблюдая правила",
+    "pronunciation": "ин эко:дэнс уиз"
+  },
+  {
+    "ru": "[По сравнению с] прошлым годом район стал намного безопаснее.",
+    "en": "[In comparison with] last year, the area feels much safer now.",
+    "target_ru": "по сравнению с",
+    "target_en": "in comparison with",
+    "gloss_ru": "сравнивая",
+    "pronunciation": "ин кэмпэрисн уиз"
+  },
+  {
+    "ru": "Компания действовала [в соответствии с] международными стандартами.",
+    "en": "The company acted [in compliance with] international standards.",
+    "target_ru": "в соответствии с",
+    "target_en": "in compliance with",
+    "gloss_ru": "соблюдая требования",
+    "pronunciation": "ин кэмплайэнс уиз"
+  },
+  {
+    "ru": "Обычно утром возле метро собирается толпа [внизу] эскалатора.",
+    "en": "There’s usually a crowd [at the bottom of] the escalator in the morning.",
+    "target_ru": "внизу",
+    "target_en": "at the bottom of",
+    "gloss_ru": "в нижней части",
+    "pronunciation": "эт зэ ботэм ов"
+  },
+  {
+    "ru": "Мы встретились [на краю] озера перед закатом.",
+    "en": "We met [at the edge of] the lake before sunset.",
+    "target_ru": "на краю",
+    "target_en": "at the edge of",
+    "gloss_ru": "у границы",
+    "pronunciation": "эт зи эдж ов"
+  },
+  {
+    "ru": "[В конце] вечера все уже были слишком уставшими, чтобы танцевать.",
+    "en": "[At the end of] the evening, everyone was too tired to dance.",
+    "target_ru": "в конце",
+    "target_en": "at the end of",
+    "gloss_ru": "в завершающей части",
+    "pronunciation": "эт зи энд ов"
+  },
+  {
+    "ru": "На крыше [на самом верху] здания открылся новый бар.",
+    "en": "A new bar opened [at the top of] the building.",
+    "target_ru": "на самом верху",
+    "target_en": "at the top of",
+    "gloss_ru": "в верхней части",
+    "pronunciation": "эт зэ топ ов"
+  },
+  {
+    "ru": "В центре площади стоял огромный фонтан.",
+    "en": "A huge fountain stood [in the centre of] the square.",
+    "target_ru": "в центре",
+    "target_en": "in the centre of",
+    "gloss_ru": "в центральной части",
+    "pronunciation": "ин зэ сэнтэ ов"
+  },
+  {
+    "ru": "Их дом стоит [на краю] утёса с видом на море.",
+    "en": "Their house stands [on the edge of] a cliff overlooking the sea.",
+    "target_ru": "на краю",
+    "target_en": "on the edge of",
+    "gloss_ru": "на самом краю",
+    "pronunciation": "он зи эдж ов"
+  },
+  {
+    "ru": "Компания была [на грани] банкротства ещё зимой.",
+    "en": "The company was [on the verge of] bankruptcy back in winter.",
+    "target_ru": "на грани",
+    "target_en": "on the verge of",
+    "gloss_ru": "очень близко к событию",
+    "pronunciation": "он зэ вёрдж ов"
+  },
+  {
+    "ru": "Небольшая дорожка проходит [сбоку от] канала.",
+    "en": "A narrow path runs [on the side of] the canal.",
+    "target_ru": "сбоку от",
+    "target_en": "on the side of",
+    "gloss_ru": "на боковой стороне",
+    "pronunciation": "он зэ сайд ов"
+  },
+  {
+    "ru": "Пекарня находится [слева от] станции.",
+    "en": "The bakery is [to the left of] the station.",
+    "target_ru": "слева от",
+    "target_en": "to the left of",
+    "gloss_ru": "с левой стороны",
+    "pronunciation": "ту зэ лэфт ов"
+  },
+  {
+    "ru": "Аптека находится [справа от] супермаркета.",
+    "en": "The pharmacy is [to the right of] the supermarket.",
+    "target_ru": "справа от",
+    "target_en": "to the right of",
+    "gloss_ru": "с правой стороны",
+    "pronunciation": "ту зэ райт ов"
+  },
+  {
+    "ru": "Пожилой мужчина стоял [рядом с] дорогой и кормил голубей.",
+    "en": "An elderly man stood [by the side of] the road feeding pigeons.",
+    "target_ru": "рядом с",
+    "target_en": "by the side of",
+    "gloss_ru": "возле края чего-то",
+    "pronunciation": "бай зэ сайд ов"
+  },
+  {
+    "ru": "Свидетель дал показания [под угрозой] штрафа.",
+    "en": "The witness testified [under threat of] a heavy fine.",
+    "target_ru": "под угрозой",
+    "target_en": "under threat of",
+    "gloss_ru": "рискуя наказанием",
+    "pronunciation": "андэ срэт ов"
+  },
+  {
+    "ru": "Стипендию создали [в честь] известного учёного.",
+    "en": "The scholarship was created [in honour of] a famous scientist.",
+    "target_ru": "в честь",
+    "target_en": "in honour of",
+    "gloss_ru": "в знак уважения",
+    "pronunciation": "ин онэ ов"
+  },
+  {
+    "ru": "Каждый год в городе проводят концерт [в память о] погибших врачах.",
+    "en": "Every year the town holds a concert [in memory of] the doctors who died.",
+    "target_ru": "в память о",
+    "target_en": "in memory of",
+    "gloss_ru": "чтобы помнить",
+    "pronunciation": "ин мэмэри ов"
+  },
+  {
+    "ru": "Мероприятие организовали [на благо] местной больницы.",
+    "en": "The event was organised [for the benefit of] the local hospital.",
+    "target_ru": "на благо",
+    "target_en": "for the benefit of",
+    "gloss_ru": "ради пользы",
+    "pronunciation": "фо зэ бенэфит ов"
+  },
+  {
+    "ru": "Они устроили марафон [в поддержку] приюта для животных.",
+    "en": "They organised a marathon [in aid of] an animal shelter.",
+    "target_ru": "в поддержку",
+    "target_en": "in aid of",
+    "gloss_ru": "ради помощи",
+    "pronunciation": "ин эйд ов"
+  },
+  {
+    "ru": "Новые правила вступают в силу [с] первого сентября.",
+    "en": "The new rules come into force [with effect from] the first of September.",
+    "target_ru": "с",
+    "target_en": "with effect from",
+    "gloss_ru": "начиная с даты",
+    "pronunciation": "уиз эффект фром"
+  },
+  {
+    "ru": "Все сотрудники должны действовать [в соответствии с] политикой компании.",
+    "en": "All employees must act [in conformity with] company policy.",
+    "target_ru": "в соответствии с",
+    "target_en": "in conformity with",
+    "gloss_ru": "соблюдая нормы",
+    "pronunciation": "ин конфо:мити уиз"
+  },
+  {
+    "ru": "Новый дизайн отлично смотрится [в гармонии с] историческим зданием.",
+    "en": "The new design fits perfectly [in keeping with] the historic building.",
+    "target_ru": "в гармонии с",
+    "target_en": "in keeping with",
+    "gloss_ru": "соответствуя стилю",
+    "pronunciation": "ин ки:пинг уиз"
+  },
+  {
+    "ru": "Квартира находится [в непосредственной близости от] двух станций метро.",
+    "en": "The flat is [in proximity to] two Tube stations.",
+    "target_ru": "в непосредственной близости от",
+    "target_en": "in proximity to",
+    "gloss_ru": "очень близко к",
+    "pronunciation": "ин проксимити ту"
+  },
+  {
+    "ru": "Компания выпустила заявление [в ответ на] критику в соцсетях.",
+    "en": "The company released a statement [in response to] criticism online.",
+    "target_ru": "в ответ на",
+    "target_en": "in response to",
+    "gloss_ru": "реагируя на",
+    "pronunciation": "ин риспонс ту"
+  },
+  {
+    "ru": "Рынок резко отреагировал [в ответ на] новости о выборах.",
+    "en": "The market reacted sharply [in reaction to] the election news.",
+    "target_ru": "в ответ на",
+    "target_en": "in reaction to",
+    "gloss_ru": "реакция на событие",
+    "pronunciation": "ин риэкшн ту"
+  },
+  {
+    "ru": "Она согласилась помочь [в обмен на] пару выходных.",
+    "en": "She agreed to help [in return for] a couple of days off.",
+    "target_ru": "в обмен на",
+    "target_en": "in return for",
+    "gloss_ru": "получая что-то взамен",
+    "pronunciation": "ин ритё:н фо:"
+  },
+  {
+    "ru": "Мы использовали старый диван [вместо] кресел.",
+    "en": "We used an old sofa [in place of] chairs.",
+    "target_ru": "вместо",
+    "target_en": "in place of",
+    "gloss_ru": "заменяя что-то",
+    "pronunciation": "ин плэйс ов"
+  },
+  {
+    "ru": "Он остался спокойным [несмотря на] весь этот хаос.",
+    "en": "He stayed calm [in spite of] all the chaos.",
+    "target_ru": "несмотря на",
+    "target_en": "in spite of",
+    "gloss_ru": "вопреки",
+    "pronunciation": "ин спайт ов"
+  },
+  {
+    "ru": "Тебя возьмут на работу только [при условии] опыта.",
+    "en": "You’ll only get the job [on condition of] having experience.",
+    "target_ru": "при условии",
+    "target_en": "on condition of",
+    "gloss_ru": "если условие выполнено",
+    "pronunciation": "он кондишн ов"
+  },
+  {
+    "ru": "Все изменения будут внесены [при условии] одобрения руководства.",
+    "en": "All changes are [subject to] management approval.",
+    "target_ru": "при условии",
+    "target_en": "subject to",
+    "gloss_ru": "завися от решения",
+    "pronunciation": "сабджикт ту"
+  },
+  {
+    "ru": "[Вопреки] советам друзей он всё равно переехал.",
+    "en": "[Contrary to] his friends’ advice, he moved anyway.",
+    "target_ru": "вопреки",
+    "target_en": "contrary to",
+    "gloss_ru": "противореча",
+    "pronunciation": "контрэри ту"
+  },
+  {
+    "ru": "Она продолжала улыбаться [несмотря на] усталость.",
+    "en": "She kept smiling [regardless of] how tired she was.",
+    "target_ru": "несмотря на",
+    "target_en": "regardless of",
+    "gloss_ru": "не обращая внимания на",
+    "pronunciation": "ригардлэс ов"
+  },
+  {
+    "ru": "Цена указана [без учёта] доставки.",
+    "en": "The price is listed [exclusive of] delivery.",
+    "target_ru": "без учёта",
+    "target_en": "exclusive of",
+    "gloss_ru": "не включая",
+    "pronunciation": "иксклюсив ов"
+  },
+  {
+    "ru": "Билет стоит двадцать фунтов [включая] напиток.",
+    "en": "The ticket costs twenty pounds [inclusive of] a drink.",
+    "target_ru": "включая",
+    "target_en": "inclusive of",
+    "gloss_ru": "с включением",
+    "pronunciation": "инклюсив ов"
+  },
+  {
+    "ru": "Нам не хватило буквально пары минут [до] начала фильма.",
+    "en": "We arrived just minutes [short of] the film starting.",
+    "target_ru": "не хватило до",
+    "target_en": "short of",
+    "gloss_ru": "немного меньше необходимого",
+    "pronunciation": "шо:т ов"
+  },
+  {
+    "ru": "Всё было идеально, [кроме] ужасной погоды.",
+    "en": "Everything was perfect, [save for] the awful weather.",
+    "target_ru": "кроме",
+    "target_en": "save for",
+    "gloss_ru": "за исключением",
+    "pronunciation": "сэйв фо:"
+  },
+  {
+    "ru": "Никто не пришёл, [кроме] пары близких друзей.",
+    "en": "Nobody came, [excepting] a few close friends.",
+    "target_ru": "кроме",
+    "target_en": "excepting",
+    "gloss_ru": "исключая",
+    "pronunciation": "иксептинг"
+  },
+  {
+    "ru": "Я получил письмо [касательно] аренды квартиры.",
+    "en": "I received a letter [concerning] the flat rental.",
+    "target_ru": "касательно",
+    "target_en": "concerning",
+    "gloss_ru": "относительно",
+    "pronunciation": "консёрнинг"
+  },
+  {
+    "ru": "Он начал задавать странные вопросы [насчёт] моих планов.",
+    "en": "He started asking weird questions [touching] my future plans.",
+    "target_ru": "насчёт",
+    "target_en": "touching",
+    "gloss_ru": "formal/literary: regarding",
+    "pronunciation": "тачинг"
+  },
+  {
+    "ru": "Мы обсуждали всё [относительно] предстоящего переезда.",
+    "en": "We discussed several issues [respecting] the upcoming move.",
+    "target_ru": "относительно",
+    "target_en": "respecting",
+    "gloss_ru": "formal: concerning",
+    "pronunciation": "риспектинг"
+  },
+  {
+    "ru": "[После] ужина мы сразу поехали домой.",
+    "en": "[Following] dinner, we headed straight home.",
+    "target_ru": "после",
+    "target_en": "following",
+    "gloss_ru": "после чего-то",
+    "pronunciation": "фоллоуинг"
+  },
+  {
+    "ru": "Сделка всё ещё [ожидает] окончательного подтверждения.",
+    "en": "The deal is still [pending] final approval.",
+    "target_ru": "ожидает",
+    "target_en": "pending",
+    "gloss_ru": "в ожидании",
+    "pronunciation": "пендинг"
+  },
+  {
+    "ru": "[Учитывая] цены в Лондоне, эта квартира довольно дешёвая.",
+    "en": "[Considering] London prices, this flat is pretty cheap.",
+    "target_ru": "учитывая",
+    "target_en": "considering",
+    "gloss_ru": "принимая во внимание",
+    "pronunciation": "консидэринг"
+  },
+  {
+    "ru": "[Учитывая] обстоятельства, он справился неплохо.",
+    "en": "[Given] the circumstances, he handled it quite well.",
+    "target_ru": "учитывая",
+    "target_en": "given",
+    "gloss_ru": "принимая во внимание",
+    "pronunciation": "гивэн"
+  },
+  {
+    "ru": "[Допустим], ты прав — что будем делать дальше?",
+    "en": "[Granted] you’re right, what do we do next?",
+    "target_ru": "допустим",
+    "target_en": "granted",
+    "gloss_ru": "если признать",
+    "pronunciation": "гра:нтид"
+  },
+  {
+    "ru": "[Предполагая], что поезда ходят нормально, мы успеем вовремя.",
+    "en": "[Assuming] the trains are running properly, we’ll get there on time.",
+    "target_ru": "предполагая",
+    "target_en": "assuming",
+    "gloss_ru": "если предположить",
+    "pronunciation": "эсъюминг"
+  },
+  {
+    "ru": "Они продолжили концерт [несмотря на] сильный дождь.",
+    "en": "They carried on with the concert [notwithstanding] the heavy rain.",
+    "target_ru": "несмотря на",
+    "target_en": "notwithstanding",
+    "gloss_ru": "вопреки",
+    "pronunciation": "нотвизстэндинг"
+  },
+  {
+    "ru": "[Включая] меня, все уже устали.",
+    "en": "[Counting] me, everyone was already exhausted.",
+    "target_ru": "включая",
+    "target_en": "counting",
+    "gloss_ru": "если считать",
+    "pronunciation": "каунтинг"
+  },
+  {
+    "ru": "В стоимость входят напитки, [включая] вино.",
+    "en": "Drinks are included, [including] wine.",
+    "target_ru": "включая",
+    "target_en": "including",
+    "gloss_ru": "с включением",
+    "pronunciation": "инклудинг"
+  },
+  {
+    "ru": "Все пришли, [не считая] Сэма.",
+    "en": "Everyone came, [excluding] Sam.",
+    "target_ru": "не считая",
+    "target_en": "excluding",
+    "gloss_ru": "исключая",
+    "pronunciation": "иксклюдинг"
+  },
+  {
+    "ru": "Мой сын уже [в школе], поэтому дома стало намного тише.",
+    "en": "My son is already [at school], so the house feels much quieter now.",
+    "target_ru": "в школе",
+    "target_en": "at school",
+    "gloss_ru": "в школе как ученик",
+    "pronunciation": "эт ску:л"
+  },
+  {
+    "ru": "Я забыл куртку [в здании школы] после собрания родителей.",
+    "en": "I left my jacket [in the school] after the parents’ meeting.",
+    "target_ru": "в здании школы",
+    "target_en": "in the school",
+    "gloss_ru": "внутри школьного здания",
+    "pronunciation": "ин зэ ску:л"
+  },
+  {
+    "ru": "Он провёл почти десять лет [в тюрьме].",
+    "en": "He spent nearly ten years [in prison].",
+    "target_ru": "в тюрьме",
+    "target_en": "in prison",
+    "gloss_ru": "как заключённый",
+    "pronunciation": "ин призн"
+  },
+  {
+    "ru": "Журналисты ждали [у тюрьмы] с самого утра.",
+    "en": "Journalists had been waiting [at the prison] since early morning.",
+    "target_ru": "у тюрьмы",
+    "target_en": "at the prison",
+    "gloss_ru": "возле тюрьмы",
+    "pronunciation": "эт зэ призн"
+  },
+  {
+    "ru": "Она всё ещё [в постели] и не отвечает на сообщения.",
+    "en": "She’s still [in bed] and hasn’t replied to any messages.",
+    "target_ru": "в постели",
+    "target_en": "in bed",
+    "gloss_ru": "лежать в постели",
+    "pronunciation": "ин бед"
+  },
+  {
+    "ru": "Твои наушники лежат [на кровати] рядом с ноутбуком.",
+    "en": "Your headphones are [on the bed] next to the laptop.",
+    "target_ru": "на кровати",
+    "target_en": "on the bed",
+    "gloss_ru": "на поверхности кровати",
+    "pronunciation": "он зэ бед"
+  },
+  {
+    "ru": "Все были [под давлением] перед презентацией.",
+    "en": "Everyone was [under pressure] before the presentation.",
+    "target_ru": "под давлением",
+    "target_en": "under pressure",
+    "gloss_ru": "испытывая стресс",
+    "pronunciation": "андэ прэшэ"
+  },
+  {
+    "ru": "Многие старые здания сейчас [под угрозой] сноса.",
+    "en": "A lot of old buildings are [at risk] of being demolished.",
+    "target_ru": "под угрозой",
+    "target_en": "at risk",
+    "gloss_ru": "в опасности",
+    "pronunciation": "эт риск"
+  },
+  {
+    "ru": "Он сделал это [нарочно], чтобы всех разозлить.",
+    "en": "He did it [on purpose] just to annoy everyone.",
+    "target_ru": "нарочно",
+    "target_en": "on purpose",
+    "gloss_ru": "специально",
+    "pronunciation": "он пёрпэс"
+  },
+  {
+    "ru": "Я удалил файл [случайно].",
+    "en": "I deleted the file [by accident].",
+    "target_ru": "случайно",
+    "target_en": "by accident",
+    "gloss_ru": "не специально",
+    "pronunciation": "бай эксидэнт"
+  },
+  {
+    "ru": "Она теперь [главная] в отделе маркетинга.",
+    "en": "She’s now [in charge] of the marketing department.",
+    "target_ru": "главная",
+    "target_en": "in charge",
+    "gloss_ru": "ответственная",
+    "pronunciation": "ин ча:дж"
+  },
+  {
+    "ru": "Вечеринка быстро вышла [из-под контроля].",
+    "en": "The party got [out of control] really quickly.",
+    "target_ru": "из-под контроля",
+    "target_en": "out of control",
+    "gloss_ru": "хаотичная ситуация",
+    "pronunciation": "аут ов контроул"
+  },
+  {
+    "ru": "Этот вопрос всё ещё [обсуждается].",
+    "en": "The issue is still [under discussion].",
+    "target_ru": "обсуждается",
+    "target_en": "under discussion",
+    "gloss_ru": "находится в процессе обсуждения",
+    "pronunciation": "андэ дискашн"
+  },
+  {
+    "ru": "Если мама узнает правду, мы будем [в неприятностях].",
+    "en": "If Mum finds out the truth, we’ll be [in trouble].",
+    "target_ru": "в неприятностях",
+    "target_en": "in trouble",
+    "gloss_ru": "иметь проблемы",
+    "pronunciation": "ин трабл"
+  },
+  {
+    "ru": "В ту ночь [на дежурстве] был только один врач.",
+    "en": "There was only one doctor [on duty] that night.",
+    "target_ru": "на дежурстве",
+    "target_en": "on duty",
+    "gloss_ru": "при исполнении",
+    "pronunciation": "он дьюти"
+  },
+  {
+    "ru": "Этот район изменился [до неузнаваемости] за последние годы.",
+    "en": "The area has changed [beyond recognition] over the past few years.",
+    "target_ru": "до неузнаваемости",
+    "target_en": "beyond recognition",
+    "gloss_ru": "настолько сильно, что трудно узнать",
+    "pronunciation": "биёнд рекогнишн"
+  },
+  {
+    "ru": "[Как только] я вошёл в квартиру, я понял, что что-то не так.",
+    "en": "[Upon] entering the flat, I realised something was wrong.",
+    "target_ru": "как только",
+    "target_en": "upon",
+    "gloss_ru": "formal: immediately after",
+    "pronunciation": "эпон"
+  },
+  {
+    "ru": "[В отличие от] своего брата, она обожает жить в центре.",
+    "en": "[Unlike] her brother, she loves living in central London.",
+    "target_ru": "в отличие от",
+    "target_en": "unlike",
+    "gloss_ru": "не так как",
+    "pronunciation": "анлайк"
+  },
+  {
+    "ru": "Он выглядит гораздо моложе, [чем] я ожидал.",
+    "en": "He looks much younger [than] I expected.",
+    "target_ru": "чем",
+    "target_en": "than",
+    "gloss_ru": "сравнение",
+    "pronunciation": "зэн"
+  },
+  {
+    "ru": "Она говорит [как] человек, который сам через это прошёл.",
+    "en": "She talks [like] someone who’s been through it herself.",
+    "target_ru": "как",
+    "target_en": "like",
+    "gloss_ru": "похоже на",
+    "pronunciation": "лайк"
+  },
+  {
+    "ru": "Все согласились, [кроме] пары человек.",
+    "en": "Everyone agreed, [save] a couple of people.",
+    "target_ru": "кроме",
+    "target_en": "save",
+    "gloss_ru": "formal/literary: except",
+    "pronunciation": "сэйв"
+  },
+  {
+    "ru": "Результаты всё ещё [ожидают] подтверждения.",
+    "en": "The results are still [pending] confirmation.",
+    "target_ru": "ожидают",
+    "target_en": "pending",
+    "gloss_ru": "в ожидании",
+    "pronunciation": "пендинг"
+  },
+  {
+    "ru": "[Учитывая] погоду, народу пришло довольно много.",
+    "en": "[Given] the weather, quite a few people showed up.",
+    "target_ru": "учитывая",
+    "target_en": "given",
+    "gloss_ru": "принимая во внимание",
+    "pronunciation": "гивэн"
+  },
+  {
+    "ru": "[Допустим], это была плохая идея, но теперь уже поздно спорить.",
+    "en": "[Granted] it was a bad idea, it’s too late to argue now.",
+    "target_ru": "допустим",
+    "target_en": "granted",
+    "gloss_ru": "если признать",
+    "pronunciation": "гра:нтид"
+  },
+  {
+    "ru": "[Предполагая], что пробок не будет, мы доедем за полчаса.",
+    "en": "[Assuming] there’s no traffic, we’ll get there in half an hour.",
+    "target_ru": "предполагая",
+    "target_en": "assuming",
+    "gloss_ru": "если предположить",
+    "pronunciation": "эсъюминг"
+  },
+  {
+    "ru": "[Считая] тебя, нас будет восемь.",
+    "en": "[Counting] you, there’ll be eight of us.",
+    "target_ru": "считая",
+    "target_en": "counting",
+    "gloss_ru": "если включить",
+    "pronunciation": "каунтинг"
+  }
+]
