@@ -88,6 +88,10 @@ TOPICS = {
         "file": "SENTENCES_RANDOM.json",
         "enabled": True,
     },
+    "prepositions": {
+        "title": "Предлоги",
+        "file": "SENTENCES_PREPOSITIONS.json",
+        "enabled": True,
 }
 
 
